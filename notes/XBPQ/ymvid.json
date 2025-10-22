@@ -1,0 +1,12 @@
+{
+    "主页url": "https://www.ymvid.com/",
+    "数组": "\"grid-content bg-purple\"&&</a>",
+    "播放数组": "class=\"play-list\"&&</ul>",
+    "播放标题": "em>&&</em>",
+    "图片": "src=\"&&\"",
+    "标题": "title=\"&&\"",
+    "副标题": "class=\"tips\">&&</span>",
+    "链接": "href=\"&&\"",
+    "分类url": "https://www.ymvid.com/list/{catePg}/c{cateId}-s0-v0-l0-t0-y0/time_desc",
+    "分类": "粤语$1#国语$2#连载$0"
+}

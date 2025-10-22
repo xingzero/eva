@@ -1,0 +1,20 @@
+{
+    "主页url": "https://dabaisha.tv/",
+    "分类url": "https://dabaisha.tv/{cateId}/explore/page-{catePg}-by-hits.html",
+    "分类": "电影$movie#剧集$tv",
+    "数组": "class=\"public-list-box public-pic-b&&class=\"public-list-subtitle cor5 hide ft2\"",
+    "标题": "title=\"&&\"",
+    "副标题": "public-list-prb hide ft2\">&&</span>",
+    "链接": "href=\"&&\"",
+    "图片": "https+://dabaisha.tv/upload/+data-src=\"/upload/&&\"",
+    "播放数组": "class=\"anthology-list-play&&</ul>",
+    "播放列表": "<li&&</li>",
+    "播放标题": "\">&&</a",
+    "播放链接": "href=\"&&\"",
+    "线路数组": "<h2&&</h2>",
+    "线路标题": ">&&<[只包含:播放记录][替换:播放记录>>大白鲨]",
+    "搜索模式": "1",
+    "搜索url": "https://dabaisha.tv/search?page={pg}&wd={wd}",
+    "搜索数组": "class=\"left public-list-bj&&class=\"thumb-else cor5 hide\"",
+    "搜索标题": "class=\"thumb-txt cor4 hide\">*>&&</div>"
+}
