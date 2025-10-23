@@ -1,5 +1,5 @@
 {
-    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f1021.jpg;md5;b3444be3e63f44aa5aad588183473bab",
+    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f1022.jpg;md5;1910aa90425fdf206d3a39697e9ffe1b",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -1573,6 +1573,13 @@
             "type": 3,
             "api": "csp_AppYsV2Guard",
             "ext": "http://jxfmax.juxiafan.com/icciu_api.php/v1.vod"
+        },
+        {
+            "key": "HG影视",
+            "name": "HG影视(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2Guard",
+            "ext": "https://cs.hgyx.vip/api2/api.php/app/"
         },
         {
             "key": "空城",
@@ -3469,6 +3476,11 @@
             "url": "Web"
         },
         {
+            "name": "推荐",
+            "type": 1,
+            "url": "http://niiuma.qi-simple.top//nn.php?url="
+        },
+        {
             "name": "江湖",
             "type": 1,
             "url": "http://52.163.202.210:8808/jhjson/daoyongsiquanjia.php?url="
@@ -3972,14 +3984,9 @@
             "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
         },
         {
-            "name": "tv123_tv",
+            "name": "tv123",
             "type": 0,
             "url": "http://tv123.vvvv.ee/tv.m3u"
-        },
-        {
-            "name": "tv123_live",
-            "type": 0,
-            "url": "https://tv123.vvvv.ee/live.php"
         },
         {
             "name": "HKTV",
@@ -3995,6 +4002,12 @@
             "name": "aptv",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"
+        },
+        {
+            "name": "蜂蜜",
+            "type": 0,
+            "url": "http://dd.ma/sXzhujlk",
+            "ua": "Lavf/58.12.100"
         },
         {
             "name": "fulei",
