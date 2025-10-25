@@ -1,5 +1,5 @@
 {
-    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/master/notes/jar/pg.jar;md5;6e5c22b7ee09420a1e0fdf5b41813f48",
+    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/pg.jar;md5;6e5c22b7ee09420a1e0fdf5b41813f48",
     "wallpaper": "https://www.252035.xyz/imgs",
     "logo": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/imgs/pg.gif",
     "sites": [
@@ -242,7 +242,7 @@
             "api": "csp_XBPQ",
             "searchable": 1,
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/master/notes/XBPQ/花都.json"
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/花都.json"
         },
         {
             "key": "百万破解",
@@ -250,7 +250,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/master/notes/XBPQ/百万.json"
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/百万.json"
         },
         {
             "key": "51吸瓜",
@@ -259,16 +259,70 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/franksun1211/TXT/master/TVbox/E8jin/lib/51吸瓜.py"
         },
         {
-            "key": "py_51吸瓜",
+            "key": "51吸瓜2",
             "name": "51吸瓜2(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/master/notes/py/51吸瓜2.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/51吸瓜2.py"
+        },
+        {
+            "key": "51吸瓜4",
+            "name": "51吸瓜4(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/51吸瓜4.py"
+        },
+        {
+            "key": "91热爆",
+            "name": "91热爆(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/91rb2.py"
+        },
+        {
+            "key": "今日看料",
+            "name": "今日看料(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/今日看料.py"
+        },
+        {
+            "key": "九个区",
+            "name": "九个区(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/九个区.py"
+        },
+        {
+            "key": "葡萄5区",
+            "name": "葡萄5区(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/葡萄5区.py"
+        },
+        {
+            "key": "七区",
+            "name": "七区(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/七区.py"
+        },
+        {
+            "key": "一个区",
+            "name": "一个区(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/一个区.py"
+        },
+        {
+            "key": "lsp传媒",
+            "name": "lsp传媒(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/lsp传媒.py"
+        },
+        {
+            "key": "stripchat",
+            "name": "stripchat(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/stripchat2.py"
         },
         {
             "key": "香蕉",
             "name": "香蕉(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/master/notes/py/香蕉2.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/香蕉2.py"
         },
         {
             "key": "四虎",
@@ -286,20 +340,20 @@
             "key": "javxx",
             "name": "javxx(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/master/notes/py/javxx2.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/javxx2.py"
         },
         {
             "key": "py_javxx",
             "name": "py_javxx",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/master/notes/py/javxx.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/javxx.py"
         },
         {
             "key": "JAVXX(js)",
             "name": "JAVXX(js)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/master/notes/lib4/drpy2.min.js",
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/master/notes/js/JAVXX（优）.js"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/lib4/drpy2.min.js",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/JAVXX（优）.js"
         },
         {
             "key": "py_色播聚合",
@@ -317,19 +371,79 @@
             "key": "911爆料",
             "name": "911爆料",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/py/911爆料.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/911爆料.py"
+        },
+        {
+            "key": "91吃瓜",
+            "name": "91吃瓜",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/91吃瓜.py"
         },
         {
             "key": "18快递",
             "name": "18快递",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/py/18.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/18.py"
+        },
+        {
+            "key": "DSYS",
+            "name": "DSYS",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/DSYS.py"
+        },
+        {
+            "key": "fullhd",
+            "name": "fullhd",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/fullhd.py"
         },
         {
             "key": "肉视频",
             "name": "肉视频",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/py/肉视频.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/肉视频.py"
+        },
+        {
+            "key": "肉视频2",
+            "name": "肉视频2",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/肉视频2.py"
+        },
+        {
+            "key": "熊猫(py)",
+            "name": "熊猫(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/熊猫.py"
+        },
+        {
+            "key": "熊猫直播(py)",
+            "name": "熊猫直播(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/熊猫直播.py"
+        },
+        {
+            "key": "推特APP",
+            "name": "推特APP",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/推特APP.py"
+        },
+        {
+            "key": "小红薯APP",
+            "name": "小红薯APP",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/小红薯APP.py"
+        },
+        {
+            "key": "随机小姐姐",
+            "name": "随机小姐姐",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/随机小姐姐.py"
+        },
+        {
+            "key": "奇优",
+            "name": "奇优",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/奇优动漫.py"
         },
         {
             "key": "直播转点播",
@@ -638,6 +752,12 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/franksun1211/TXT/master/TVbox/E8jin/lib/好色tv.py"
         },
         {
+            "key": "好色TV",
+            "name": "好色TV(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/月佬免翻版好色TV.py"
+        },
+        {
             "key": "中文X直播",
             "name": "中文X直播(飞)",
             "type": 1,
@@ -756,7 +876,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/master/notes/XBPQ/kisd.json"
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/kisd.json"
         },
         {
             "key": "pronlulu",
@@ -764,7 +884,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/master/notes/XBPQ/pronlulu.json"
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/pronlulu.json"
         },
         {
             "key": "csp_pornhub",
