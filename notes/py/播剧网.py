@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# 播剧网爬虫精简版 - https://www.boju.cc/
+# 播剧网爬虫精简版 - https://www.boju.cc/ https://www.ysxq.cc/
 # 基于PyramidStore框架，优化精简版本
 
 import sys
@@ -13,7 +13,7 @@ from base.spider import Spider
 class Spider(Spider):
 
     def init(self, extend=""):
-        self.host = 'https://www.boju.cc'
+        self.host = 'https://www.ysxq.cc'
         self.headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
