@@ -1,5 +1,5 @@
 {
-    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f1028.jpg;md5;1acb683fd1fb4f2c0492747745f6229a",
+    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f1030.jpg;md5;03d768a3fcf8c977d6ce5db0f6405661",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -139,6 +139,16 @@
             "changeable": 1
         },
         {
+            "key": "秒看",
+            "name": "秒看(SP)",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TbEn4q2l2kibom2DB9cJ0IB72Vu7apib64Gl9Ew6WDTJcIVzWsluDxqEaBqWIyM77GBXCPqCP2Jl7r3FGDx3lYjd0UDop6mF1H7BIBQDdY7r2sGVAP3S/L0ixe/EshP2U8oWDL+PmnkkcZKQZ475TAVSug/QPVeNQ=="
+        },
+        {
             "key": "鲸鱼",
             "name": "鲸鱼(SP)",
             "type": 3,
@@ -182,26 +192,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZ0NTh0TYsL4PsF1wEM1kc4mV87b9fc/FN//x7jUuaRvFX81tz8A=="
-        },
-        {
-            "key": "下饭",
-            "name": "下饭(SP)",
-            "type": 3,
-            "api": "csp_AppSxGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "rfOX1voDIQhH8epBwpmIsuStuSyZxtH332ksdImjS1xHcE9fpWVy8fNjc+8DhNI67j3SJZRGjnM="
-        },
-        {
-            "key": "下饭2",
-            "name": "下饭2(SP)",
-            "type": 3,
-            "api": "csp_AppSxGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "rfOX1voDIQhH8epBwpmIsuSlujLK3sriwSIhL5XjHg0adEYJpXZ48P0hOq5X1M8s5yKKbc1C2H4563JjH/01RZDAuqM="
         },
         {
             "key": "糯米",
@@ -291,6 +281,7 @@
             "name": "港迷(SP)",
             "type": 3,
             "api": "csp_AppSK",
+            "timeout": 15,
             "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZMAYVUEz5FpK6jnh0fUMKIpzPWz0jI/rymDTutcXiX2Dhu1XsjGntrH8QzPldJXdqa2h7TLjJF3DFX",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/jar_fty250223.jar;md5;9a4e27dc8671d07587f5cb752ea80fd3"
         },
@@ -568,27 +559,11 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251016.png;md5;965c0ecb144c99c35f39e4a036712a3a"
         },
         {
-            "key": "坚果",
-            "name": "坚果(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "http://a.ngdy1.cn|2015692015692015",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251016.png;md5;965c0ecb144c99c35f39e4a036712a3a"
-        },
-        {
             "key": "火花",
             "name": "火花(SP)",
             "type": 3,
             "api": "csp_AppGet",
             "ext": "http://v.itcxo.cn|PoiUytRedFghjklm",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251016.png;md5;965c0ecb144c99c35f39e4a036712a3a"
-        },
-        {
-            "key": "九零",
-            "name": "九零(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "https://65fs2d9awaa1d2a7ea8.019990.xyz|5a9w6x58dsq6z3a6",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251016.png;md5;965c0ecb144c99c35f39e4a036712a3a"
         },
         {
@@ -929,6 +904,8 @@
             "name": "游戏直播(SP)",
             "type": 3,
             "api": "csp_Living",
+            "searchable": 1,
+            "quickSearch": 0,
             "ext": "https://api.muxia.fun",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/1028logo.jpg;md5;75bacca331fe28d08794e08c8b8b3dd5"
         },
@@ -937,6 +914,8 @@
             "name": "音乐直播(SP)",
             "type": 3,
             "api": "csp_Music",
+            "searchable": 0,
+            "quickSearch": 0,
             "ext": "http://www.qeecc.com",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/1028logo.jpg;md5;75bacca331fe28d08794e08c8b8b3dd5"
         },
@@ -945,6 +924,8 @@
             "name": "清风DJ(SP)",
             "type": 3,
             "api": "csp_Qfeng",
+            "searchable": 0,
+            "quickSearch": 0,
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/1028logo.jpg;md5;75bacca331fe28d08794e08c8b8b3dd5"
         },
         {
@@ -952,6 +933,7 @@
             "name": "275听书(SP)",
             "type": 3,
             "api": "csp_BookTing",
+            "quickSearch": 0,
             "ext": "https://m.i275.com",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/1028logo.jpg;md5;75bacca331fe28d08794e08c8b8b3dd5"
         },
@@ -1074,17 +1056,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XP/123hktv.json",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
-        },
-        {
-            "key": "csp_xpath_gj5",
-            "name": "港剧屋(XP)",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XP/gj5.json",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
         {
@@ -1519,12 +1490,12 @@
             "api": "csp_XBPQ",
             "ext": {
                 "副标题": "<div class=\"module-item-text\">&&</div>",
-                "搜索url": "https://www.kktvb.app.tc/vs/{wd}-------------.html",
+                "搜索url": "https://www.yytvs.com/vodsearch/{wd}-------------.html",
                 "线路数组": "<div class=\"module-tab-item tab-item&&</div>",
                 "线路标题": "<span>&&</span>",
                 "播放数组": "<div class=\"scroll-content\">&&</div>",
                 "播放标题": "<span>&&</span>",
-                "分类url": "https://www.kktvb.app.tc/vshow/{cateId}-{area}-------{catePg}---{year}.html",
+                "分类url": "https://www.yytvs.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
                 "分类": "电视剧$1#电影$2#动漫$3#其他$4#港剧$8#综艺$18"
             },
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
@@ -1602,6 +1573,14 @@
             "api": "csp_XBPQ",
             "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/兄弟.json",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "兄弟2",
+            "name": "兄弟2(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/兄弟2.json",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
@@ -3464,6 +3443,13 @@
             "type": 0,
             "url": "http://dd.ma/sXzhujlk",
             "ua": "Lavf/58.12.100"
+        },
+        {
+            "name": "cttv",
+            "type": 0,
+            "url": "http://www.cttv.vip/ys/json/ctzb.txt",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://www.cttv.vip/ys/images/{name}.png"
         },
         {
             "name": "fulei",
