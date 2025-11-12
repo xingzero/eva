@@ -1,5 +1,5 @@
 {
-    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f1108.jpg;md5;56f518af99e91de33cd88eafc9b85c2d",
+    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f1111.jpg;md5;6713b8d1f3cd6fa972c71c653e15450d",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -278,8 +278,7 @@
             "key": "每日",
             "name": "每日(xml)",
             "type": 1,
-            "api": "https://mrgj.cc/api.php/provide/vod/",
-            "timeout": 15
+            "api": "https://mrgj.cc/api.php/provide/vod/"
         },
         {
             "key": "csp_Tvyb",
@@ -477,11 +476,11 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251106.png;md5;cc5ae3a5f652c14398978c1e3c73cba0"
         },
         {
-            "key": "一一",
-            "name": "一一(SP)",
+            "key": "瑞奇",
+            "name": "瑞奇(SP)",
             "type": 3,
-            "api": "csp_AppMuou",
-            "ext": "http://app.yiyi521.top|YIYI影视",
+            "api": "csp_AppGet",
+            "ext": "http://rqxk.gdata.fun|yangruiqiYsapp00",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251106.png;md5;cc5ae3a5f652c14398978c1e3c73cba0"
         },
         {
@@ -737,6 +736,14 @@
             "name": "瓜子(SP)",
             "type": 3,
             "api": "csp_Gz360",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/1114.jpg;md5;398269a135696bab40747b2ec1d76fba"
+        },
+        {
+            "key": "爱盈",
+            "name": "爱盈(SP)",
+            "type": 3,
+            "api": "csp_AppQi",
+            "ext": "BciM/oLDYQqSU++RAsI5xz2Dmz98Blyw0pp0T+0QPirf6Vdve9+he2trz5wUFyGCAvVzxSDvmI757t+V5ttwollSfRzsReOERBBsIGN+x9g=",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/1114.jpg;md5;398269a135696bab40747b2ec1d76fba"
         },
         {
@@ -3281,44 +3288,22 @@
         {
             "name": "冰茶",
             "type": 0,
-            "url": "https://fy.188766.xyz/?ip=192.168.110.183"
+            "url": "https://bc.188766.xyz/?ip=192.168.110.183"
         },
         {
             "name": "冰茶2",
             "type": 0,
-            "url": "https://fy.188766.xyz/?ip=192.168.2.231"
+            "url": "https://bc.188766.xyz/?ip=192.168.2.231"
         },
         {
             "name": "冰茶3",
             "type": 0,
-            "url": "https://fy.188766.xyz/?ip=&json=true",
-            "ua": "bingcha/1.1"
-        },
-        {
-            "name": "冰茶4",
-            "type": 0,
-            "url": "https://188766.xyz/itv"
-        },
-        {
-            "name": "冰茶5",
-            "type": 0,
-            "url": "https://fy.188766.xyz/?ip=&mima=mianfeidehaimaiqian&json=true",
-            "ua": "bingcha/1.1(mianfeifenxiang)"
-        },
-        {
-            "name": "冰茶6",
-            "type": 0,
-            "url": "https://fy.188766.xyz/?ip=&mima=bingchawusifengxian"
+            "url": "https://bc.188766.xyz/?ip=&mima=bingchawusifengxian"
         },
         {
             "name": "风云",
             "type": 0,
             "url": "http://iptv.4666888.xyz/FYTV.txt"
-        },
-        {
-            "name": "风云2",
-            "type": 0,
-            "url": "http://txt.gt.tc/users/FHTV.txt"
         },
         {
             "name": "junchao",
@@ -3382,14 +3367,9 @@
             "url": "http://tv.html-5.me/ii/821921.txt"
         },
         {
-            "name": "smart",
+            "name": "zxmlxw",
             "type": 0,
-            "url": "https://tmxk.pp.ua/smart-cn.m3u"
-        },
-        {
-            "name": "bee",
-            "type": 0,
-            "url": "http://114.32.59.86:7700/bee.m3u"
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/zxmlxw520/5566/main/gat.txt"
         },
         {
             "name": "aptv",
@@ -3520,11 +3500,6 @@
             "name": "vUBde",
             "type": 0,
             "url": "https://qu.ax/vUBde.txt"
-        },
-        {
-            "name": "MBepV",
-            "type": 0,
-            "url": "https://qu.ax/MBepV.txt"
         },
         {
             "name": "rad168",
