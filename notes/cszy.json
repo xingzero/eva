@@ -281,6 +281,13 @@
             "api": "https://mrgj.cc/api.php/provide/vod/"
         },
         {
+            "key": "每日2",
+            "name": "每日2(xml)",
+            "type": 1,
+            "api": "https://mrgj.cc/api.php/provide/vod/",
+            "timeout": 15
+        },
+        {
             "key": "csp_Tvyb",
             "name": "TVB云播(SP)",
             "type": 3,
@@ -489,6 +496,14 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "http://zxy-ys.810211.dpdns.org|1234567890123456",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251106.png;md5;cc5ae3a5f652c14398978c1e3c73cba0"
+        },
+        {
+            "key": "茉莉",
+            "name": "茉莉(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251106.png;md5;cc5ae3a5f652c14398978c1e3c73cba0"
         },
         {
@@ -3370,6 +3385,16 @@
             "name": "zxmlxw",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/zxmlxw520/5566/main/gat.txt"
+        },
+        {
+            "name": "ccs-mytv",
+            "type": 0,
+            "url": "https://pan.850516.xyz/f/A5rs2/ccs-mytv.m3u"
+        },
+        {
+            "name": "smart",
+            "type": 0,
+            "url": "https://pan.850516.xyz/f/5yQS0/smart.m3u"
         },
         {
             "name": "aptv",
