@@ -1,5 +1,5 @@
 {
-    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f1111.jpg;md5;6713b8d1f3cd6fa972c71c653e15450d",
+    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f1114.jpg;md5;3224489089f7c7d6d9c13ef9defb59a6",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -278,12 +278,6 @@
             "key": "每日",
             "name": "每日(xml)",
             "type": 1,
-            "api": "https://mrgj.cc/api.php/provide/vod/"
-        },
-        {
-            "key": "每日2",
-            "name": "每日2(xml)",
-            "type": 1,
             "api": "https://mrgj.cc/api.php/provide/vod/",
             "timeout": 15
         },
@@ -480,6 +474,14 @@
             "type": 3,
             "api": "csp_AppMuou",
             "ext": "https://muouht.ggtvb.cc|金牌影院",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251106.png;md5;cc5ae3a5f652c14398978c1e3c73cba0"
+        },
+        {
+            "key": "小猫",
+            "name": "小猫(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "http://xywlkj.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2024/12/1.txt|xmyxmyxywlkjxywl",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251106.png;md5;cc5ae3a5f652c14398978c1e3c73cba0"
         },
         {
@@ -3385,6 +3387,16 @@
             "name": "zxmlxw",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/zxmlxw520/5566/main/gat.txt"
+        },
+        {
+            "name": "dqtx",
+            "type": 0,
+            "url": "http://1tv.dqtx.cc/"
+        },
+        {
+            "name": "dqtx760",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/dqtx760/Tvfree/main/playlist.txt"
         },
         {
             "name": "ccs-mytv",
