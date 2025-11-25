@@ -33,7 +33,8 @@ class Spider(Spider):
             "电影": "1",
             "剧集": "2",
             "综艺": "3",
-            "动漫": "4"
+            "动漫": "4",
+            "短剧": "32"
         }
         classes = [{'type_name': k, 'type_id': v} for k, v in cateManual.items()]
         result['class'] = classes
