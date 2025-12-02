@@ -454,6 +454,12 @@
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/json/feimaolive.json"
         },
         {
+            "key": "py_rou",
+            "name": "肉视频(T4)",
+            "type": 4,
+            "api": "https://py.doube.eu.org/v2/spider?site=96c1ddea0f3b27f1955ed512f0e7a9d7"
+        },
+        {
             "key": "py_BadNews",
             "name": "BadNews(T4)",
             "type": 4,
@@ -962,6 +968,16 @@
             "name": "jsonav",
             "type": 0,
             "url": "https://www.jsonav.xyz/v.txt"
+        },
+        {
+            "name": "sese",
+            "type": 0,
+            "url": "http://qq1.229d.cn/sese.txt"
+        },
+        {
+            "name": "艺术",
+            "type": 0,
+            "url": "https://d.kstore.dev/download/13875/艺术.txt"
         },
         {
             "name": "FongMi",
