@@ -1,5 +1,5 @@
 {
-    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f1201.jpg;md5;af42cd672e47918790156487751cdf46",
+    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f1202.jpg;md5;6b0051c85a0e72a480f4bec56b8dd22f",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -388,14 +388,6 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251202.png;md5;6b83e9a49c3ef7cba2be8f11790b9236"
         },
         {
-            "key": "若雪",
-            "name": "若雪(SP)",
-            "type": 3,
-            "api": "csp_AppQi",
-            "ext": "https://appcms.rx4k.top|ZX10ysTYZWtIJCTU|120",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251202.png;md5;6b83e9a49c3ef7cba2be8f11790b9236"
-        },
-        {
             "key": "鲸鱼2",
             "name": "鲸鱼2(SP)",
             "type": 3,
@@ -452,14 +444,6 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251202.png;md5;6b83e9a49c3ef7cba2be8f11790b9236"
         },
         {
-            "key": "黑猫",
-            "name": "黑猫(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "https://c8k2n5l0i9s8b2m1jj8k2x2l9ff68.ydysapi.cfd:27899|k9o3p2c8b7m3z0o8",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251202.png;md5;6b83e9a49c3ef7cba2be8f11790b9236"
-        },
-        {
             "key": "萝卜",
             "name": "萝卜(SP)",
             "type": 3,
@@ -492,14 +476,6 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251202.png;md5;6b83e9a49c3ef7cba2be8f11790b9236"
         },
         {
-            "key": "羊羊",
-            "name": "羊羊(SP)",
-            "type": 3,
-            "api": "csp_AppMuou",
-            "ext": "https://ht.zhenxun.love|羊羊学院",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251202.png;md5;6b83e9a49c3ef7cba2be8f11790b9236"
-        },
-        {
             "key": "金牌",
             "name": "金牌(SP)",
             "type": 3,
@@ -529,14 +505,6 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "http://103.23.148.70:14500|J6AIORKJ3PQOJKM8",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251202.png;md5;6b83e9a49c3ef7cba2be8f11790b9236"
-        },
-        {
-            "key": "鹤雪",
-            "name": "鹤雪(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "http://hxys.07hx.shop|hex200762200762.",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251202.png;md5;6b83e9a49c3ef7cba2be8f11790b9236"
         },
         {
@@ -596,14 +564,6 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251202.png;md5;6b83e9a49c3ef7cba2be8f11790b9236"
         },
         {
-            "key": "开心",
-            "name": "开心(SP)",
-            "type": 3,
-            "api": "csp_AppQi",
-            "ext": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/gw.txt|ca94b06ca3c7d80e",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251202.png;md5;6b83e9a49c3ef7cba2be8f11790b9236"
-        },
-        {
             "key": "热剧",
             "name": "热剧(SP)",
             "type": 3,
@@ -652,14 +612,6 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251202.png;md5;6b83e9a49c3ef7cba2be8f11790b9236"
         },
         {
-            "key": "爱看",
-            "name": "爱看(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "https://www.appdm.akandm.com|uI1TkPJC8B46AyN3",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251202.png;md5;6b83e9a49c3ef7cba2be8f11790b9236"
-        },
-        {
             "key": "星星",
             "name": "星星(SP)",
             "type": 3,
@@ -673,14 +625,6 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://app.xifanys.com|HM6Ly9yeS4ya3dvL",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251202.png;md5;6b83e9a49c3ef7cba2be8f11790b9236"
-        },
-        {
-            "key": "狂人",
-            "name": "狂人(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "https://www.zjkrmv.vip|vXeyuJFqTKqWUtWU",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251202.png;md5;6b83e9a49c3ef7cba2be8f11790b9236"
         },
         {
@@ -808,7 +752,7 @@
             "name": "旺旺(SP)",
             "type": 3,
             "api": "csp_Wwys",
-            "ext": "https://www.wwgz.cn",
+            "ext": "https://vip.wwgz.cn:5200",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/mi1202.png;md5;13bd3e6c4c887d3f139a347625a08bee"
         },
         {
@@ -910,7 +854,7 @@
             "name": "农民(SP)",
             "type": 3,
             "api": "csp_Wwys",
-            "ext": "https://www.wwgz.cn",
+            "ext": "https://vip.wwgz.cn:5200",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/mi1202.png;md5;13bd3e6c4c887d3f139a347625a08bee"
         },
         {
@@ -1488,16 +1432,6 @@
             "ext": "http://fox.tvmao.top"
         },
         {
-            "key": "思念",
-            "name": "思念(fox)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
-            "ext": {
-                "host": "https://snys2.xyz",
-                "ver": 2
-            }
-        },
-        {
             "key": "星空2",
             "name": "星空(fox)",
             "type": 3,
@@ -1509,7 +1443,10 @@
             "name": "极兔(fox)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
-            "ext": "http://www.mzd.asia"
+            "ext": {
+                "host": "https://www.dhxxfhsz.top",
+                "ver": 2
+            }
         },
         {
             "key": "二三(fox)",
@@ -2660,6 +2597,12 @@
             "api": "http://zhangqun1818.serv00.net/ww.php"
         },
         {
+            "key": "py集合",
+            "name": "py集合",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/py.php"
+        },
+        {
             "key": "聚合短剧",
             "name": "聚合短剧",
             "type": 4,
@@ -2670,6 +2613,12 @@
             "name": "播剧(xml)",
             "type": 1,
             "api": "https://www.ysxq.cc/api.php/provide/vod"
+        },
+        {
+            "key": "播剧2",
+            "name": "播剧2(xml)",
+            "type": 1,
+            "api": "https://www.boju.cc/api.php/provide/vod"
         },
         {
             "key": "影视狗",
@@ -3375,6 +3324,11 @@
             "url": "https://jx.xmflv.com/?url="
         },
         {
+            "name": "HQ",
+            "type": 0,
+            "url": "https://www.huaqi.live/?url="
+        },
+        {
             "name": "PM",
             "type": 0,
             "url": "https://www.playm3u8.cn/jiexi.php?url="
@@ -3779,14 +3733,14 @@
             "url": "http://tv123.vvvv.ee/tv.m3u"
         },
         {
-            "name": "三维",
-            "type": 0,
-            "url": "http://zz.zoho.to/z/=三维"
-        },
-        {
             "name": "HKTV",
             "type": 0,
             "url": "http://zz.zoho.to/z/=HKTV"
+        },
+        {
+            "name": "HKTV2",
+            "type": 0,
+            "url": "http://txt.gt.tc/users/HKTV.txt"
         },
         {
             "name": "阿烈",
