@@ -192,6 +192,12 @@
             "api": "https://www.xxibaozyw.com/api.php/provide/vod/?ac=list"
         },
         {
+            "key": "91视频",
+            "name": "91视频",
+            "type": 1,
+            "api": "https://91av.cyou/api.php/provide/vod/"
+        },
+        {
             "key": "杏吧",
             "name": "杏吧",
             "type": 1,
@@ -226,6 +232,18 @@
             "name": "998资源",
             "type": 1,
             "api": "https://api.998zy.com/api.php/provide/vod/at/json/"
+        },
+        {
+            "key": "杏吧2",
+            "name": "杏吧2",
+            "type": 1,
+            "api": "https://api.xgbbk8.com/api.php/provide/vod/?ac=list"
+        },
+        {
+            "key": "香蕉网",
+            "name": "香蕉网",
+            "type": 1,
+            "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list"
         },
         {
             "key": "XMVideo",
