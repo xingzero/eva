@@ -1,7 +1,7 @@
 {
     "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/pg.jar;md5;6e5c22b7ee09420a1e0fdf5b41813f48",
     "wallpaper": "https://www.252035.xyz/imgs",
-    "logo": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/imgs/pg.gif",
+    "logo": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/gif/31.gif",
     "sites": [
         {
             "key": "量子",
@@ -22,6 +22,15 @@
             ]
         },
         {
+            "key": "抖音小姐姐",
+            "name": "抖音小姐姐",
+            "type": 4,
+            "api": "http://120.53.102.254/xjj",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+        {
             "key": "Zuise",
             "name": "最色",
             "type": 3,
@@ -40,8 +49,14 @@
             "api": "http://huangsecangku.net/api.php/provide/vod/"
         },
         {
-            "key": "lbapiby.com",
-            "name": "成人24",
+            "key": "黄仓2",
+            "name": "黄仓2",
+            "type": 1,
+            "api": "https://hsckzy.vip/api.php/provide/vod/"
+        },
+        {
+            "key": "AIvin",
+            "name": "AIvin",
             "type": 1,
             "api": "http://lbapiby.com/api.php/provide/vod/?ac=list"
         },
@@ -62,6 +77,12 @@
             "name": "黄AV",
             "type": 0,
             "api": "https://www.pgxdy.com/api/xml.php"
+        },
+        {
+            "key": "黄AV2",
+            "name": "黄AV2",
+            "type": 1,
+            "api": "https://www.pgxdy.com/api/json.php"
         },
         {
             "key": "白嫖",
@@ -113,10 +134,22 @@
             "playUrl": "https://yutujx.com/?url="
         },
         {
+            "key": "玉兔2",
+            "name": "玉兔2",
+            "type": 1,
+            "api": "https://yutuzy10.com/api.php/provide/vod/"
+        },
+        {
             "key": "桃花",
             "name": "桃花",
             "type": 1,
             "api": "https://thzy1.me/api.php/provide/vod/?ac=list"
+        },
+        {
+            "key": "优异",
+            "name": "优异",
+            "type": 1,
+            "api": "https://a.uezy.pw/api.php/provide/vod/"
         },
         {
             "key": "丝袜",
@@ -198,6 +231,12 @@
             "api": "https://91av.cyou/api.php/provide/vod/"
         },
         {
+            "key": "越南",
+            "name": "越南",
+            "type": 1,
+            "api": "https://vnzyz.com/api.php/provide/vod/"
+        },
+        {
             "key": "杏吧",
             "name": "杏吧",
             "type": 1,
@@ -271,10 +310,416 @@
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/百万.json"
         },
         {
-            "key": "51吸瓜",
-            "name": "51吸瓜(py)",
+            "key": "米啦播拉",
+            "name": "米啦播拉",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/franksun1211/TXT/master/TVbox/E8jin/lib/51吸瓜.py"
+            "api": "csp_XBPQ",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/米啦播拉.json"
+        },
+        {
+            "key": "传媒影院",
+            "name": "传媒影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/传媒影院.json"
+        },
+        {
+            "key": "麻豆视频",
+            "name": "麻豆视频",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/麻豆视频.json"
+        },
+        {
+            "key": "麻豆传媒",
+            "name": "麻豆传媒",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/麻豆传媒.json"
+        },
+        {
+            "key": "云老婆",
+            "name": "云老婆",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/云老婆.json"
+        },
+        {
+            "key": "红尘佳人",
+            "name": "红尘佳人",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/红尘佳人.json"
+        },
+        {
+            "key": "不夜城",
+            "name": "不夜城",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/不夜城.json"
+        },
+        {
+            "key": "不夜城",
+            "name": "不夜城",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/不夜城.json"
+        },
+        {
+            "key": "性癖乐园",
+            "name": "性癖乐园",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/性癖乐园.json"
+        },
+        {
+            "key": "造人天堂",
+            "name": "造人天堂",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/造人天堂.json"
+        },
+        {
+            "key": "骑士视频",
+            "name": "骑士视频",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/骑士视频.json"
+        },
+        {
+            "key": "榨汁姐姐",
+            "name": "榨汁姐姐",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/榨汁姐姐.json"
+        },
+        {
+            "key": "草莓之家",
+            "name": "草莓之家",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/草莓之家.json"
+        },
+        {
+            "key": "经典三部曲",
+            "name": "经典三部曲",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/经典三部曲.json"
+        },
+        {
+            "key": "经典三部曲",
+            "name": "经典三部曲",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/经典三部曲.json"
+        },
+        {
+            "key": "91吃瓜",
+            "name": "91吃瓜",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/91吃瓜.json"
+        },
+        {
+            "key": "小表妹",
+            "name": "小表妹",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/小表妹.json"
+        },
+        {
+            "key": "每日大赛",
+            "name": "每日大赛",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/每日大赛.json"
+        },
+        {
+            "key": "湿妹视频",
+            "name": "湿妹视频",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": {
+                "标题": "style=\"word-wrap:break-word;\">&&</div>",
+                "排序": "最新&最热&评分",
+                "排序值": "time&hits&score",
+                "搜索url": "https://him10.cc/index.php/vod/search/page/{catePg}/wd/{wd}.html",
+                "分类url": "https://him10.cc/index.php/vod/type/by/{by}/id/{cateId}/page/{catePg}.html"
+            }
+        },
+        {
+            "key": "19岁少女版",
+            "name": "19岁少女版",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": {
+                "作者": "无名",
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "首页": "黑料吃瓜",
+                "起始页": "1",
+                "二次截取": "<ul class=\"ulist vodst\">&&</ul>",
+                "数组": "<li&&</li>",
+                "标题": "alt=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "副标题": "🌹+right\">&&</",
+                "链接": "href=\"&&\"[替换:voddetail>>vodplay#.html>>-1-1.html]",
+                "分类url": "https://1dpimsdt.19sui4.xyz/vodtype/{cateId}-{catePg}.html;;zmrc",
+                "分类": "黑料吃瓜$69#国产精品$70#华语AV$71#乱伦精品$72#SM调教$25#女同性恋$26#日韩无码$56#中文字幕$62#学生合集$73#探花约炮$74#精品动漫$75#主播网红$76#日本无码$77#日本有码$78#VR视角$84#欧美大片$85#国产自拍$55#主播诱惑$63#探花约炮$58#偷拍偷窥$60#网曝吃瓜$57#抖阴短片$65#传媒剧情$64#日韩主播$61#AV解说$80#换脸明星$81#强奸乱伦$12#女优明星$20#欧美激情$21#重口激情$22#三级伦理$23#剧情动漫$24"
+            }
+        },
+        {
+            "key": "幸福加油站",
+            "name": "幸福加油站",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": {
+                "发布地址": "557888.XYZ",
+                "请求头": "User-Agent$MOBILE_UA",
+                "主页url": "https://887808.xyz",
+                "数组": "thumb\"&&</span>",
+                "图片": "data-src=\"&&\"",
+                "标题": "title=\"&&\"",
+                "简介": "display: none;\">&&<",
+                "链接": "href=\"&&\"",
+                "影片年代": "年份：&&</a",
+                "影片地区": "地区：&&</a",
+                "跳转播放链接": "<iframe src=\"&&\"",
+                "影片类型": "分类：</span>&&</span",
+                "状态": "更新：&&</p",
+                "导演": "导演：&&</p",
+                "主演": "主演：&&</p",
+                "搜索模式": "1",
+                "搜索url": "https://887808.xyz/page/{pg}/?s={wd}",
+                "分类url": "https://887808.xyz/{cateId}/page/{catePg}/;;z",
+                "分类": "91大神$91%e5%a4%a7%e7%a5%9e#FC2无码$fc2%e6%97%a0%e7%a0%81#国产传媒$%e5%9b%bd%e4%ba%a7%e4%bc%a0%e5%aa%92#国产自拍$%e5%9b%bd%e4%ba%a7%e8%87%aa%e6%8b%8d#成人动漫$chengrendongman#探花約炮$%e6%8e%a2%e8%8a%b1#无码中字$wumazhongzi#日本有码$ribenyouma#有码中字$youmazhongzi#有码二区$%e6%9c%89%e7%a0%81%e4%ba%8c%e5%8c%ba#欧美中字$%e6%ac%a7%e7%be%8e%e4%b8%ad%e5%ad%97#网曝吃瓜$%e7%bd%91%e6%9b%9d%e5%90%83%e7%93%9c#美女裸聊$%e7%be%8e%e5%a5%b3%e8%a3%b8%e8%81%8a#萝莉少女$%e8%90%9d%e8%8e%89%e5%b0%91%e5%a5%b3"
+            }
+        },
+        {
+            "key": "1AV.ME",
+            "name": "1AV.ME",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "主页url": "https://www.1av.fun/",
+                "直接播放": "1",
+                "数组": "loaded&&</div>",
+                "图片": "src=\"&&\"",
+                "标题": "title=\"&&\"",
+                "链接": "href=\"&&\"",
+                "分类url": "https://www.1av.fun/vodtype/{cateId}-{catePg}.html",
+                "分类": "国产视频$1#国产自拍$2#国产偷拍$3#探花系列$4#国产主播$5#学生嫩妹$6#人妻少妇$7#明星换脸$9#网红黑料$10#国产群交$12#国产乱伦$13#麻豆传媒$11#绿帽换妻$14#国产人妖$15#亚洲色情$16#日韩无码$17#欧美无码$18#中文字幕$20#三级电影$21#成人动漫$22#童颜巨乳$23#美腿丝袜$24#熟女人妻$25#少女萝莉$26#强奸乱伦$27#口交群交$28"
+            }
+        },
+        {
+            "key": "影片库",
+            "name": "影片库",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "站名": "影片库lugiao.top",
+                "主页url": "https://you.lugiao12.top/",
+                "分类url": "https://you.lugiao12.top/27wt/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html",
+                "分类": "国产片商$42#麻豆传媒$43#兔子先生$44#蜜桃传媒$45#精东影业$46#天美传媒$47#星空无限$48#果冻传媒$49#葫芦影业$50#杏吧传媒$51#扣扣传媒$53#SA国际传媒$54#起点传媒$55#中文字幕$56#精品素人$57#高清无码$58#日本有码$59#怀旧AV$60#VR专区$61#AV解说$62#SWAG$63#国产精品$64#网曝门事件$77#国产探花$65#JVID$66#绿帽淫妻$67#国产乱伦$68#美女主播$69#明星淫梦$70#香港三级$71#性世界$73#欧美专区$83#TS人妖$84#日本乱伦$86#精品动漫$74"
+            }
+        },
+        {
+            "key": "桃花源",
+            "name": "桃花源",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "主页url": "https://d.thyys.net/",
+                "搜索url": "https://d.thyys.net/vodsearch/{wd}----------{catePg}---.html",
+                "分类url": "https://d.thyys.net/vodshow/{cateId}--{by}---{letter}---{catePg}---.html",
+                "播放数组": "playbtn o_play\"&&/div>",
+                "分类": "中文有码$11#日本有码$8#国产精品$10#糖心vlog$13#欧美性爱$11#中文无码$6#日本无码$9#卡通动漫$12"
+            }
+        },
+        {
+            "key": "pornpinoy",
+            "name": "pornpinoy",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://pornpinoy.com/",
+                "直接播放": "",
+                "数组": "list-bj\"&&</a>",
+                "标题": "alt=\"&&\"",
+                "图片": "data-srcl=\"&&\"",
+                "链接": "href=\"&&\"",
+                "线路数组": "id=\"detail_over\"&&</div>",
+                "线路标题": "</i>&&</",
+                "播放二次截取": "",
+                "播放数组": "anthology-list-play&&</ul>",
+                "倒序": "0",
+                "播放列表": "<a&&/a>",
+                "播放标题": ">&&</",
+                "播放链接": "href=\"&&\"",
+                "嗅探词": ".mp4#.m3u8#.flv#index.m3u8",
+                "简介": "content=\"pornpinoy&&\"",
+                "分类url": "https://pornpinoy.com/vod/list.html?page={catePg}&type_id={cateId}",
+                "分类": "日本无码&国产&有码&中文字幕&国产传媒&AI换脸&动漫精品",
+                "分类值": "39&42&44&46&48&50&126"
+            }
+        },
+        {
+            "key": "你鸡巴超大",
+            "name": "你鸡巴超大",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "主页url": "https://9yqtk6fq.jibada21.xyz/%E6%8C%81%E4%B9%8B%E4%BB%A5%E6%81%92/",
+                "数组": "<img class=\"lazy-load\"&&</i>",
+                "标题": "<a*>&&</a",
+                "图片": "data-original=\"&&\"",
+                "副标题": "<span class=\"text\">&&</span",
+                "链接": "/vodplay/+/voddetail/&&.html+-1-1.html",
+                "直接播放": "1",
+                "免嗅": "1",
+                "搜索url": "https://9yqtk6fq.jibada21.xyz/vodsearch/{wd}----------{pg}---.html",
+                "简介": "description\" content=\"&&\"",
+                "分类url": "https://9yqtk6fq.jibada21.xyz/vodtype/{cateId}-{catePg}.html",
+                "分类": "黑料吃瓜$69#国产精品$70#华语AV$71#乱伦精品$72#SM调教$25#女同性恋$26#日韩无码$56#中文字幕$62#学生合集$73#探花约炮$74#精品动漫$75#主播网红$76#日本无码$77#日本有码$78#VR视角$84#欧美大片$85#国产自拍$55#主播诱惑$63#探花约炮$58#偷拍偷窥$60#网曝吃瓜$57#抖阴短片$65#传媒剧情$64#日韩主播$61#AV解说$80#换脸明星$81#强奸乱伦$12#女优明星$20#欧美激情$21#重口激情$22#三级伦理$23#剧情动漫$24"
+            }
+        },
+        {
+            "key": "教师妈妈",
+            "name": "教师妈妈",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": {
+                "主页url": "https://m.jsmm70.buzz/welcome/?https://w8psobw8jp8zq2b.52crs264.xyz/",
+                "分类url": "https://m.jsmm70.buzz/welcome/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
+                "分类数组": "<li&&li>"
+            }
+        },
+        {
+            "key": "4kav",
+            "name": "4kav",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": {
+                "主页url": "https://xn--m0rs10iwrp.ggss-gr8k.com/",
+                "数组": "thumbnail random-list\"&&</li>",
+                "直接播放": "1",
+                "图片": "data-src=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "副标题": "text-right\">&&</span>",
+                "链接": "href=\"&&\"[替换:detail>>play#.html>>/sid/1/nid/1.html]",
+                "简介": "description\" content=\"&&\"",
+                "搜索模式": "1",
+                "搜索url": "/index.php/vod/search/page/{pg}/wd/{wd}.html",
+                "分类url": "https://xn--m0rs10iwrp.ggss-gr8k.com/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+                "分类数组": "<a&&</a>",
+                "分类标题": ">&&</a>",
+                "分类ID": "/index.php/vod/type/id/&&.html",
+                "分类": "",
+                "分类值": ""
+            }
+        },
+        {
+            "key": "黄仓库",
+            "name": "黄仓库",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": {
+                "主页url": "https://hsck123.26img.com",
+                "数组": "class=\"stui-vodlist__box&&</div>",
+                "标题": "title=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "链接": "href=\"&&\"",
+                "直接播放": "1",
+                "播放数组": "\"*-pannel-bd&&</div>",
+                "线路数组": "<h3&&</h3>",
+                "播放标题": ">&&</a>",
+                "分类": "国产新片$ycgc#无码中文$wz#有码中文$yz#日本无码$rw#日本有码$ry#国产视频$gc欧美高清$om#动漫剧情$dm",
+                "分类url": "https://hsck123.26img.com/?type={cateId}&p={catePg}"
+            }
+        },
+        {
+            "key": "辣妹影视",
+            "name": "辣妹影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类url": "https://www.xwuma.com/lmc/{cateId}/{catePg}.html#https://www.xwuma.com/updates#https://www.xwuma.com/label/rank;;",
+                "分类": "自拍偷拍$66#Ai换脸$67#国产传媒$86#探花系列$87#国产主播$61#网暴黑料$83#动漫精品$58#情色乱伦$59#VR视角$85#福利视频$69#中文字幕$56#制服诱惑$63#黑丝诱惑$93#三级伦理$65#岛国素人$89#变态另类$60#日本无码$54#AV解说$82#日本有码$55#女同性恋$72#最新$https://www.xwuma.com/updates#排行$https://www.xwuma.com/label/rank"
+            }
+        },
+        {
+            "key": "原创22",
+            "name": "原创22",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "防走丢": "1.https://r2ymsjsf.yuanchuang3.xyz/2.yuanchuang1.xyz",
+                "主页url": "https://r2ymsjsf.yuanchuang3.xyz/持之以恒/",
+                "数组": "video_item&&</div>",
+                "图片": "data-src=\"&&\"",
+                "标题": "title\">&&</a>",
+                "副标题": "💝",
+                "链接": "href=\"&&\"[替换:voddetail>>vodplay#.html>>-1-1.html]",
+                "简介": "description\" content=\"&&\"",
+                "跳转播放链接": "var player_*\"url\":\"&&\"",
+                "搜索url": "https://r2ymsjsf.yuanchuang3.xyz/vodsearch/{wd}----------{pg}---.html",
+                "分类url": "https://r2ymsjsf.yuanchuang3.xyz/vodtype/{cateId}-{catePg}.html;;z",
+                "分类": "国产精品$55#华语AV$63#黑料吃瓜$58#欧美大屌$60#动漫禁漫$57#学生合集$65#乱伦精品$64#探花约炮$61#日本有码$80#主播网红$81#偷拍自拍$12#国产制作$20#乱伦三观$21#嫖妓过程$22#淫乱学妹$23#黑料打烊$24#监控摄像$69#主播网红$70#高清无码$71#中文字幕$72#成人综艺$25#媚黑母狗$26#为国争光$88#少女破处$56#人兽典藏$73#中文剧情$74#燃烧荷蒙$75#女同口交$76#重口猎奇$77#3D动漫$78#剧情故事$84#同人动漫$85"
+            }
+        },
+        {
+            "key": "女仆咖啡",
+            "name": "女仆咖啡(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/女仆咖啡.py"
+        },
+        {
+            "key": "妲己",
+            "name": "妲己(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/妲己.py"
         },
         {
             "key": "51吸瓜2",
@@ -343,6 +788,12 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/香蕉2.py"
         },
         {
+            "key": "乐哥虎",
+            "name": "乐哥虎(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/乐哥四虎.py"
+        },
+        {
             "key": "四虎",
             "name": "四虎(py)",
             "type": 3,
@@ -374,6 +825,19 @@
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/JAVXX（优）.js"
         },
         {
+            "key": "含羞草(js)",
+            "name": "含羞草(js)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/lib4/drpy2.min.js",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/含羞草.js"
+        },
+        {
+            "key": "糖心次元",
+            "name": "糖心次元php",
+            "type": 1,
+            "api": "https://caicai.us.kg/糖心次元.php"
+        },
+        {
             "key": "py_色播聚合",
             "name": "py_色播聚合",
             "type": 3,
@@ -392,8 +856,8 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/911爆料.py"
         },
         {
-            "key": "91吃瓜",
-            "name": "91吃瓜",
+            "key": "91吃瓜2",
+            "name": "91吃瓜2",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/91吃瓜.py"
         },
@@ -764,6 +1228,14 @@
             "jar": "https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/jar/xbpq.jar"
         },
         {
+            "key": "阳光ss",
+            "name": "阳光ss(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/阳光影院ss.json",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/jar/xbpq.jar"
+        },
+        {
             "key": "辣椒1",
             "name": "辣椒1(飞)",
             "type": 1,
@@ -807,7 +1279,7 @@
         },
         {
             "key": "ckzy",
-            "name": "韩国伦理(飞)",
+            "name": "CK资源(飞)",
             "type": 1,
             "api": "https://ckzy.me/api.php/provide/vod/?ac=list"
         },
@@ -849,7 +1321,7 @@
             "api": "https://api.sexnguon.com/api.php/provide/vod/"
         },
         {
-            "key": "麻豆视频",
+            "key": "麻豆视频(飞)",
             "name": "麻豆视频(飞)",
             "type": 1,
             "api": "https://91md.me/api.php/provide/vod/?ac=list"

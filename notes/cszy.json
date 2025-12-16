@@ -566,15 +566,7 @@
             "name": "魔方(SP)",
             "type": 3,
             "api": "csp_AppGet",
-            "ext": "http://app.ybn-ooo.top|vcfgytu7654rtyui",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251210.png;md5;e7cfb8920b79a7383eaa7bf0597f3bf9"
-        },
-        {
-            "key": "柒月",
-            "name": "柒月(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "https://www.ys.mk|mayday6770249ash",
+            "ext": "https://www.mfsp4k.top|1234567887654321",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251210.png;md5;e7cfb8920b79a7383eaa7bf0597f3bf9"
         },
         {
@@ -686,7 +678,7 @@
             "name": "魔方4K(SP)",
             "type": 3,
             "api": "csp_AppGet",
-            "ext": "https://www.yswqwcj.top|1234567887654321",
+            "ext": "http://47.239.152.191:1315|1234567887654321",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251210.png;md5;e7cfb8920b79a7383eaa7bf0597f3bf9"
         },
         {
@@ -809,19 +801,11 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/1212.png;md5;bc69f7fdab61ad8b69bde08a146f030d"
         },
         {
-            "key": "爱看fox",
-            "name": "爱看(fox)",
-            "type": 3,
-            "api": "csp_Appfox",
-            "ext": "https://aikan-1319209748.cos.ap-shanghai.myqcloud.com/aikan.json",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/1212.png;md5;bc69f7fdab61ad8b69bde08a146f030d"
-        },
-        {
-            "key": "爱盈",
-            "name": "爱盈(SP)",
+            "key": "橘子2",
+            "name": "橘子2(SP)",
             "type": 3,
             "api": "csp_AppQi",
-            "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj3.txt|sda1231sasddad21|okhttp/3.10.0",
+            "ext": "https://juziapp-1319209748.cos.ap-chengdu.myqcloud.com/juziapp.txt|K3h6YvSU8BTUfEcb|okhttp/3.10.0",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/1212.png;md5;bc69f7fdab61ad8b69bde08a146f030d"
         },
         {
@@ -1513,6 +1497,13 @@
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
             "ext": "http://fox.tvmao.top"
+        },
+        {
+            "key": "快快",
+            "name": "快快(fox)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
+            "ext": "https://www.kuaiying.xyz"
         },
         {
             "key": "星空2",
