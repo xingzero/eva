@@ -1,5 +1,5 @@
 {
-    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f1221.jpg;md5;46a254f3ce9594a24eb85c86005109c9",
+    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f1222.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -678,6 +678,14 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251220.png;md5;caa22b5d283ec2bdc63f65b9310ea232"
         },
         {
+            "key": "七月",
+            "name": "七月(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://99.jl8.top/1.txt|xnybssspqtwotuwj",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251220.png;md5;caa22b5d283ec2bdc63f65b9310ea232"
+        },
+        {
             "key": "冬日",
             "name": "冬日(SP)",
             "type": 3,
@@ -957,7 +965,7 @@
             "type": 3,
             "api": "csp_Muou",
             "ext": "7lj763gg402i79425i3l85i6h848i295l5hiji5l828g3l3jjhg6kg7410lhjkqiaojij3ig1lg475178k7h0il4ig3h753h7hi516758699jh2g5h433li30gk11g73l90312h4g7",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/qij.png;md5;eb1ed5578b0a9ac5f3e6c6ee04b813e6"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd6813e6"
         },
         {
             "key": "主角",
@@ -965,7 +973,7 @@
             "type": 3,
             "api": "csp_Muou",
             "ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/qij.png;md5;eb1ed5578b0a9ac5f3e6c6ee04b813e6"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd6813e6"
         },
         {
             "key": "巧搜1",
@@ -973,7 +981,7 @@
             "type": 3,
             "api": "csp_qiao2",
             "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/qij.png;md5;eb1ed5578b0a9ac5f3e6c6ee04b813e6"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd6813e6"
         },
         {
             "key": "巧搜2",
@@ -981,7 +989,7 @@
             "type": 3,
             "api": "csp_qiao2",
             "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/qij.png;md5;eb1ed5578b0a9ac5f3e6c6ee04b813e6"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd6813e6"
         },
         {
             "key": "聚搜2",
@@ -989,7 +997,7 @@
             "type": 3,
             "api": "csp_qiao2",
             "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/qij.png;md5;eb1ed5578b0a9ac5f3e6c6ee04b813e6"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd6813e6"
         },
         {
             "key": "港迷",
@@ -1109,6 +1117,13 @@
             "type": 3,
             "api": "https://13826.kstore.vip/AppToV5.py",
             "ext": "http://38.55.237.41:8762"
+        },
+        {
+            "key": "番喜",
+            "name": "番喜(py)",
+            "type": 3,
+            "api": "https://13826.kstore.vip/AppToV5.py",
+            "ext": "http://118.89.203.120:8762"
         },
         {
             "key": "鲸鱼(py)",
@@ -1916,6 +1931,13 @@
             "type": 3,
             "api": "csp_AppYsV2Guard",
             "ext": "http://jxfmax.juxiafan.com/icciu_api.php/v1.vod"
+        },
+        {
+            "key": "闪影",
+            "name": "闪影(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2Guard",
+            "ext": "http://38.47.213.61:41271/api.php/v1.vod"
         },
         {
             "key": "HG影视",
