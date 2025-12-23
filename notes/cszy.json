@@ -470,6 +470,22 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251220.png;md5;caa22b5d283ec2bdc63f65b9310ea232"
         },
         {
+            "key": "白鸽",
+            "name": "白鸽(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://cy.baige.asia|599D0FE5178642FD",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251220.png;md5;caa22b5d283ec2bdc63f65b9310ea232"
+        },
+        {
+            "key": "奇奇",
+            "name": "奇奇(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "http://103.236.61.192:8006|123456789abcdefg",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251220.png;md5;caa22b5d283ec2bdc63f65b9310ea232"
+        },
+        {
             "key": "火花",
             "name": "火花(SP)",
             "type": 3,
@@ -654,14 +670,6 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251220.png;md5;caa22b5d283ec2bdc63f65b9310ea232"
         },
         {
-            "key": "丫丫(SP)",
-            "name": "丫丫(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "http://tv.yy-fun.cc|qkxnwkfjwpcnwycl",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251220.png;md5;caa22b5d283ec2bdc63f65b9310ea232"
-        },
-        {
             "key": "魔方4K(SP)",
             "name": "魔方4K(SP)",
             "type": 3,
@@ -683,6 +691,22 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://99.jl8.top/1.txt|xnybssspqtwotuwj",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251220.png;md5;caa22b5d283ec2bdc63f65b9310ea232"
+        },
+        {
+            "key": "卡卡(SP)",
+            "name": "卡卡(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "http://154.201.90.53:8002|123456789abcdefg",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251220.png;md5;caa22b5d283ec2bdc63f65b9310ea232"
+        },
+        {
+            "key": "丫丫(SP)",
+            "name": "丫丫(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "http://tv.yy-fun.cc|qkxnwkfjwpcnwycl",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251220.png;md5;caa22b5d283ec2bdc63f65b9310ea232"
         },
         {
@@ -821,6 +845,22 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/1217.jpg;md5;11e752cb8cd0c47a0804c70ed965be67"
         },
         {
+            "key": "信心",
+            "name": "信心(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "http://110.81.153.7:1963/get.txt|k7L9mQ2xR4pW8n88|okhttp/3.14.9",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/1217.jpg;md5;11e752cb8cd0c47a0804c70ed965be67"
+        },
+        {
+            "key": "鸭梨",
+            "name": "鸭梨(SP)",
+            "type": 3,
+            "api": "csp_AppQi",
+            "ext": "https://taobao.yalifun.com/xindm.json|88858c3b8560e348|okhttp/3.14.9",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/1217.jpg;md5;11e752cb8cd0c47a0804c70ed965be67"
+        },
+        {
             "key": "爆炸3",
             "name": "爆炸3(SP)",
             "type": 3,
@@ -866,14 +906,6 @@
             "type": 3,
             "api": "csp_AppSy",
             "ext": "oJGDh+VBrPcwnx19VbSGqy9EkivA/Gc+cSt3uSBzyPzDTmKYyoi6Wr4VgqU2u0Sh7AAuGc4/a7UWVU6BEmFetA==",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/1217.jpg;md5;11e752cb8cd0c47a0804c70ed965be67"
-        },
-        {
-            "key": "爆炸2",
-            "name": "爆炸2(SP)",
-            "type": 3,
-            "api": "csp_AppMuou",
-            "ext": "ewogICJTaXRlVXJsIjogImh0dHBzOi8vbXVvdS53bGJicS54eXoiLAogICJFeHQiOiAiaXA5K1dadnQ5ODNzUzAwOGtyTktobno4Q2Fzb2d3QjlLYkp2U0FmNGJRZEg5aUlGVHE4Y0tGM3Y4RFBicnphUiIsCiAgIkluZm8iOiAiaHR0cHM6Ly9tdW91aHQuZ2d0dmIuY2MiCn0=",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/1217.jpg;md5;11e752cb8cd0c47a0804c70ed965be67"
         },
         {
@@ -960,14 +992,6 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251220.png;md5;caa22b5d283ec2bdc63f65b9310ea232"
         },
         {
-            "key": "爆炸",
-            "name": "爆炸(SP)",
-            "type": 3,
-            "api": "csp_Muou",
-            "ext": "7lj763gg402i79425i3l85i6h848i295l5hiji5l828g3l3jjhg6kg7410lhjkqiaojij3ig1lg475178k7h0il4ig3h753h7hi516758699jh2g5h433li30gk11g73l90312h4g7",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd6813e6"
-        },
-        {
             "key": "主角",
             "name": "主角(SP)",
             "type": 3,
@@ -989,14 +1013,6 @@
             "type": 3,
             "api": "csp_qiao2",
             "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd6813e6"
-        },
-        {
-            "key": "聚搜2",
-            "name": "聚搜2(SP)",
-            "type": 3,
-            "api": "csp_qiao2",
-            "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd6813e6"
         },
         {
@@ -2773,6 +2789,13 @@
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/锦鲤短剧[短].js"
         },
         {
+            "key": "音乐磁场",
+            "name": "音乐磁场(js)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/lib4/drpy2.min.js",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/音乐磁场.js"
+        },
+        {
             "key": "动漫巴士(T4)",
             "name": "动漫巴士(T4)",
             "type": 4,
@@ -3318,8 +3341,8 @@
             }
         },
         {
-            "key": "dr_兔小贝",
-            "name": "儿童启蒙(js)",
+            "key": "兔小贝",
+            "name": "兔小贝(js)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/兔小贝.js",
@@ -3482,14 +3505,14 @@
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/ftyjs/直播仓3.json"
         },
         {
-            "key": "csp_Alist2",
+            "key": "csp_Alist",
             "name": "小丫搜索",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/lib/alist.min.js",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/alist.json"
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/ext/alist5.json"
         },
         {
             "key": "push_agent",
@@ -3963,6 +3986,16 @@
             "name": "HKTV2",
             "type": 0,
             "url": "http://txt.gt.tc/users/HKTV.txt"
+        },
+        {
+            "name": "HKTV3",
+            "type": 0,
+            "url": "http://gc.gt.tc/o/i/HKTV.txt"
+        },
+        {
+            "name": "Bpjt",
+            "type": 0,
+            "url": "http://txt.gt.tc/users/Bpjt.txt"
         },
         {
             "name": "阿烈",
