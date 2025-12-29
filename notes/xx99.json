@@ -996,6 +996,48 @@
             "api": "http://zhangqun1818.serv00.net/228_1.php"
         },
         {
+            "key": "ThePorn",
+            "name": "ThePorn",
+            "type": 4,
+            "api": "https://learnpython.ggff.net/ThePorn"
+        },
+        {
+            "key": "0007cg",
+            "name": "007吃瓜",
+            "type": 4,
+            "api": "https://learnpython.ggff.net/0007cg"
+        },
+        {
+            "key": "51cg",
+            "name": "51吃瓜",
+            "type": 4,
+            "api": "https://learnpython.ggff.net/51xiG"
+        },
+        {
+            "key": "今日cg",
+            "name": "今日吃瓜",
+            "type": 4,
+            "api": "https://learnpython.ggff.net/JRKliao"
+        },
+        {
+            "key": "911cg",
+            "name": ",911吃瓜",
+            "type": 4,
+            "api": "https://learnpython.ggff.net/911BaoLiao"
+        },
+        {
+            "key": "sbjhpy",
+            "name": "中国大秀",
+            "type": 4,
+            "api": "https://learnpython.ggff.net/sbjhpy"
+        },
+        {
+            "key": "omdxzb",
+            "name": "欧美大秀",
+            "type": 4,
+            "api": "https://learnpython.ggff.net/cam4"
+        },
+        {
             "key": "麻豆",
             "name": "麻豆(XBPQ)",
             "type": 3,
@@ -1463,6 +1505,11 @@
             "name": "sese",
             "type": 0,
             "url": "http://qq1.229d.cn/sese.txt"
+        },
+        {
+            "name": "yihad168",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/yihad168/tv/main/tv.m3u"
         },
         {
             "name": "艺术",

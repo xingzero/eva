@@ -320,7 +320,7 @@
             "name": "全看(SP)",
             "type": 3,
             "api": "csp_Quanwk",
-            "ext": "https://www.91qkw.com",
+            "ext": "https://888.qkw1.cc",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251225.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
         },
         {
@@ -455,7 +455,7 @@
             "name": "仓鼠(SP)",
             "type": 3,
             "api": "csp_AppQi",
-            "ext": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt|da61247f5b662597|120",
+            "ext": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi430.txt|7sKhdca8HXGuyZ4x|120",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251225.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
         },
         {
@@ -607,7 +607,7 @@
             "name": "布蕾(SP)",
             "type": 3,
             "api": "csp_AppQi",
-            "ext": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/blurl.txt|5f2b7ed203a3a581",
+            "ext": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/blurl.txt|5f2b7ed203a3a581|120",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251225.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
         },
         {
@@ -949,8 +949,8 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
         {
-            "key": "老丫",
-            "name": "老丫(SP)",
+            "key": "老雅",
+            "name": "老雅(SP)",
             "type": 3,
             "api": "https://13826.kstore.vip/fox.js",
             "ext": {
@@ -1387,35 +1387,7 @@
             "name": "吉米(fox)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
-            "ext": "http://fox.tvmao.top"
-        },
-        {
-            "key": "快快",
-            "name": "快快(fox)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
-            "ext": "https://www.kuaiying.xyz"
-        },
-        {
-            "key": "星空2",
-            "name": "星空(fox)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
-            "ext": "http://fox.qwqfun.com"
-        },
-        {
-            "key": "极兔",
-            "name": "极兔(fox)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
-            "ext": "https://www.dhxxfhsz.top"
-        },
-        {
-            "key": "二三(fox)",
-            "name": "二三(fox)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
-            "ext": "http://a.cfys.xn--fiqs8s"
+            "ext": "http://45.207.215.137:8006"
         },
         {
             "key": "恋鱼",
@@ -1813,18 +1785,18 @@
             "ext": "http://jxfmax.juxiafan.com/icciu_api.php/v1.vod"
         },
         {
-            "key": "还行",
-            "name": "还行(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2Guard",
-            "ext": "http://m51.gotto.top/api.php/v1.vod"
-        },
-        {
             "key": "闪影",
             "name": "闪影(V2)",
             "type": 3,
             "api": "csp_AppYsV2Guard",
             "ext": "http://38.47.213.61:41271/api.php/v1.vod"
+        },
+        {
+            "key": "闪影2",
+            "name": "闪影2(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2Guard",
+            "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
         },
         {
             "key": "HG影视",
@@ -3421,6 +3393,16 @@
             "url": "http://52.163.202.210:8808/jhjson/daoyongsiquanjia.php?url="
         },
         {
+            "name": "限时1",
+            "type": 1,
+            "url": "https://niubi.69mini.com/api/?key=gxXYmlvw4xX4PaXlCJ&url="
+        },
+        {
+            "name": "限时2",
+            "type": 1,
+            "url": "http://chaoqianys.top:98/api/jsonindex.php/?key=IfCDTGs10x816urQy2&url="
+        },
+        {
             "name": "虾米",
             "type": 0,
             "url": "https://jx.xmflv.com/?url="
@@ -3692,12 +3674,6 @@
             "ua": "okhttp/3.15"
         },
         {
-            "name": "robyang",
-            "type": 0,
-            "url": "http://www1.RobYang.ggff.net/VodLive/lb8ffa",
-            "ua": "okhttp/4.12.0 RobYang/5.2.1"
-        },
-        {
             "name": "CCSH",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/CCSH/IPTV/main/live.txt"
@@ -3778,16 +3754,6 @@
             "url": "https://epg.pw/test_channels_hong_kong.m3u"
         },
         {
-            "name": "TVSolo",
-            "type": 0,
-            "url": "https://d.kstore.dev/download/15114/TVSolo.txt"
-        },
-        {
-            "name": "斯玛特",
-            "type": 0,
-            "url": "https://d.kstore.dev/download/15114/HKoo.txt"
-        },
-        {
             "name": "裤佬",
             "type": 0,
             "url": "https://upld.zone.id/uploads/q9iq9e5iq/lvse.txt"
@@ -3814,25 +3780,9 @@
             "url": "https://188766.xyz/itv"
         },
         {
-            "name": "冰茶5",
-            "type": 0,
-            "url": "http://zz.zoho.to/z/=冰茶"
-        },
-        {
-            "name": "MiGu",
-            "type": 0,
-            "url": "https://itv.shrimp.netlib.re/MiGu.m3u"
-        },
-        {
             "name": "风云",
             "type": 0,
             "url": "http://iptv.4666888.xyz/FYTV.txt"
-        },
-        {
-            "name": "junchao",
-            "type": 0,
-            "url": "https://cnb.cool/junchao.tang/live/-/git/raw/main/API",
-            "ua": "okHttp"
         },
         {
             "name": "BXTV",
@@ -3857,15 +3807,10 @@
         {
             "name": "HKTV",
             "type": 0,
-            "url": "http://zz.zoho.to/z/=HKTV"
-        },
-        {
-            "name": "HKTV2",
-            "type": 0,
             "url": "http://txt.gt.tc/users/HKTV.txt"
         },
         {
-            "name": "HKTV3",
+            "name": "HKTV2",
             "type": 0,
             "url": "http://gc.gt.tc/o/i/HKTV.txt"
         },
@@ -3876,11 +3821,6 @@
         },
         {
             "name": "阿烈",
-            "type": 0,
-            "url": "http://ok.zoho.to/z/cao"
-        },
-        {
-            "name": "阿烈2",
             "type": 0,
             "url": "http://zo.xo.je/2/i/综艺.txt"
         },
@@ -3893,11 +3833,6 @@
             "name": "yusan2",
             "type": 0,
             "url": "http://zo.gt.tc/o/i/yusan2.txt"
-        },
-        {
-            "name": "tv12",
-            "type": 0,
-            "url": "https://2099.tv12.xyz/list.txt"
         },
         {
             "name": "5me",
@@ -3913,21 +3848,6 @@
             "name": "dqtx",
             "type": 0,
             "url": "http://1tv.dqtx.cc/"
-        },
-        {
-            "name": "dqtx760",
-            "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/dqtx760/Tvfree/main/playlist.txt"
-        },
-        {
-            "name": "ccs-mytv",
-            "type": 0,
-            "url": "https://pan.850516.xyz/f/A5rs2/ccs-mytv.m3u"
-        },
-        {
-            "name": "smart",
-            "type": 0,
-            "url": "https://pan.850516.xyz/f/5yQS0/smart.m3u"
         },
         {
             "name": "aptv",
@@ -3946,9 +3866,24 @@
             "ua": "Lavf/58.12.100"
         },
         {
+            "name": "蜂巢",
+            "type": 0,
+            "url": "https://upld.zone.id/uploads/e7iquebiq/555.txt"
+        },
+        {
             "name": "天浪",
             "type": 0,
             "url": "http://210.245.166.84:1299/live/live1.txt"
+        },
+        {
+            "name": "clun",
+            "type": 0,
+            "url": "https://clun.top/lib/iptv.txt"
+        },
+        {
+            "name": "港湾",
+            "type": 0,
+            "url": "http://156.238.248.80/2099.php"
         },
         {
             "name": "cttv",
@@ -3986,11 +3921,6 @@
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fafa002/yf2025/main/yiyifafa.txt"
         },
         {
-            "name": "xiaotan8_gd",
-            "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xiaotan8/xiaotan8.github.io/main/gdiptv.m3u"
-        },
-        {
             "name": "catvod_live",
             "type": 0,
             "url": "https://live.catvod.com/tv.m3u",
@@ -4018,9 +3948,9 @@
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u"
         },
         {
-            "name": "yihad168",
+            "name": "ffmking",
             "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/yihad168/tv/main/tv.m3u"
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/ffmking/tv1/refs/heads/main/888.txt"
         },
         {
             "name": "Guovin",
@@ -4073,11 +4003,6 @@
             "name": "rad168",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/rad168/iptv/main/live.m3u"
-        },
-        {
-            "name": "MytvSuper",
-            "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/judy-gotv/iptv/main/MytvSuper.m3u"
         },
         {
             "name": "judy-gotv",
