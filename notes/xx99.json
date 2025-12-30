@@ -936,6 +936,13 @@
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/json/feimaolive.json"
         },
         {
+            "key": "采集集合",
+            "name": "采集集合",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
+            "ext": "2"
+        },
+        {
             "key": "py_rou",
             "name": "肉视频(T4)",
             "type": 4,

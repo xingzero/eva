@@ -1,5 +1,5 @@
 {
-    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f1222.jpg;md5;9b3e327c02439fe4e1d6223beca9ed17",
+    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f1230.jpg;md5;b45bba582136db7532d6ee2f14da6304",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -76,7 +76,7 @@
         },
         {
             "key": "奶酪",
-            "name": "奶酪",
+            "name": "奶酪(SP)",
             "type": 3,
             "api": "csp_T4Guard",
             "searchable": 1,
@@ -190,7 +190,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg=="
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+T/f39S/lTA9LMm9V0hPZltHr3d1+KFzePgKxc5+/yjNcsFajjBz4m5zFvE/QJKc66/VGTSxSuuf1qGjR2fu1UY2NVdfv4c="
         },
         {
             "key": "糯米",
@@ -741,6 +741,14 @@
             "type": 3,
             "api": "csp_AppGetV2",
             "ext": "FNc7O3Sq/hxz7uCzbccPTwmKS9QhqbhDC5J/tBK99TXBAOG5IeeHo7xSXryC0vBoO5B1l2XmjJKdkeCZu5v1UxCZcIXe/1cmcBYcHAk746JE1FosonleIPqUFKByjhLwUU1doZS06jAVhSjz7X90y5GWmFqHmqD7ArxYzUSMQxyKerhNQ2ZWaJ2ka4jFMRPVVDQrBge5CgBGsw/HTb/+Q12qdcSTymLUN/cfwoUZ4uqBcSPbxSIrB4znIU2PcCtnX14vLtsWp1u/cbGV+kP8486YY8kGEs2qq+T34UaXBZf9Kk1t0Qt6yrj57yptwkeJXa2gK176ebs/D71tmX2ErBjije7pqwpRtEmeAmBWxohh9kLrGdh97ODRSzyNYE93Ai7nbGoskd/2r1Uu5NLCEqCIBBhH1qI6Jl/jWIVcngIDBm5KoTPs1ZxNWEqnOyP8nf8FuHZkRp/o26HL5LXb17UOkCmecqDKg3vjcnBKPNg=",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/1223.png;md5;26c4814b6abd097a203e598030051ff2"
+        },
+        {
+            "key": "仓鼠2",
+            "name": "仓鼠2(SP)",
+            "type": 3,
+            "api": "csp_AppGetV2",
+            "ext": "N/01JeZBCBEQ0wOXNuAI/kwsk5p8MqEDFtLQfMnVixDK7IwkMW3OXTtsJ0luMKeLysX2yB73bNx2WJ5U6d4MjrnIXJqUL+le03gZHBt9/GOsj2DDkI1uPNUodapLhhZPdtCC6eRuBkCLdC/zBe6JsFTpEXeu0A4pfSLg8mKFNMmUD43vd9RkQa+A2qvja6WMnDFvyZFx2PwIruSmvMw3m3T9ze9rboyLhbSGALzrdJsMr+YcJnPsY7wyqvmxNuq+3W3pJbRZzdQ2f17QGu6bR3X8XEM/7jBfzvgY7x13un5B9vPR9rWbNwhHNPhUBdgBFgpxKmANJoJvUJjCIiOL1qBLgxeEFkz4AW4fYsDVOhs1MFKg9pbzExJ5NKrIj5uZQ6piqHXeB6kzwwIgt0wc+yZ5UWqytxss9WA43G0QXbfEjs8qca18REiRCq6CvXbz6j5pKfOeGSMoODoQ1PX5VcXRA1RR6JlQuOt9cZpoXuOXq+sEfsbQf/0jPYZfNunVP9hzneeXD0mPwthDV6EgGqsezXDEKG3o38xFIjzMk4rXzlYWzf5w1VNm9V79p/j4",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/1223.png;md5;26c4814b6abd097a203e598030051ff2"
         },
         {
@@ -1789,13 +1797,6 @@
             "name": "闪影(V2)",
             "type": 3,
             "api": "csp_AppYsV2Guard",
-            "ext": "http://38.47.213.61:41271/api.php/v1.vod"
-        },
-        {
-            "key": "闪影2",
-            "name": "闪影2(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2Guard",
             "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
         },
         {
@@ -2682,6 +2683,19 @@
             "api": "http://zhangqun1818.serv00.net/py.php"
         },
         {
+            "key": "js集合",
+            "name": "js集合",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/js.php"
+        },
+        {
+            "key": "采集集合",
+            "name": "采集集合",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
+            "ext": "1"
+        },
+        {
             "key": "播剧",
             "name": "播剧(xml)",
             "type": 1,
@@ -2925,6 +2939,18 @@
             "api": "https://api.wwzy.tv/api.php/provide/vod/?ac=list"
         },
         {
+            "key": "88看球",
+            "name": "88看球(SP)",
+            "type": 3,
+            "api": "csp_Sir88Guard",
+            "timeout": 10,
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
             "key": "超全",
             "name": "超全看球(SP)",
             "type": 3,
@@ -2936,18 +2962,6 @@
                 "type": "list"
             },
             "ext": "uqGL1fpJNAUf8fdTwZCE5qSp+Q=="
-        },
-        {
-            "key": "88看球",
-            "name": "88看球(SP)",
-            "type": 3,
-            "api": "csp_Sir88Guard",
-            "timeout": 10,
-            "searchable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            }
         },
         {
             "key": "看球",
@@ -3771,8 +3785,8 @@
         {
             "name": "冰茶3",
             "type": 0,
-            "url": "https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian&json=true",
-            "ua": "bingcha/1.1(mianfeifenxiang)"
+            "url": "https://bc.188766.xyz/?ip=&mima=bingcha1130&json=true",
+            "ua": "bingcha/1.1 (mianfeifenxiang)"
         },
         {
             "name": "冰茶4",
