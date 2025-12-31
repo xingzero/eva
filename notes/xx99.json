@@ -1519,6 +1519,21 @@
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/yihad168/tv/main/tv.m3u"
         },
         {
+            "name": "FGBLH",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/FGBLH/FG/main/港台大陆频道"
+        },
+        {
+            "name": "FGBLH2",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/FGBLH/FG/main/xxx视频资源(免番强)"
+        },
+        {
+            "name": "FGBLH3",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/FGBLH/FG/main/海角社区博主(免番强)"
+        },
+        {
             "name": "艺术",
             "type": 0,
             "url": "https://d.kstore.dev/download/13875/艺术.txt"

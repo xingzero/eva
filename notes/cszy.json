@@ -3698,9 +3698,9 @@
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/n3rddd/CTVLive/main/live.txt"
         },
         {
-            "name": "雄健",
+            "name": "FGBLH",
             "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xiongjian83/TvBox/main/live.txt"
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/FGBLH/FG/main/港台大陆频道无18内容"
         },
         {
             "name": "alantang1977",
@@ -3741,6 +3741,11 @@
             "name": "xTV",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/alantang1977/X/main/live/live_ipv4.m3u"
+        },
+        {
+            "name": "易发",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fafa002/yf2025/main/yiyifafa.txt"
         },
         {
             "name": "bbxx",
@@ -3829,6 +3834,11 @@
             "url": "http://gc.gt.tc/o/i/HKTV.txt"
         },
         {
+            "name": "HKTV3",
+            "type": 0,
+            "url": "http://he.html-5.me/2/i/HK.txt"
+        },
+        {
             "name": "Bpjt",
             "type": 0,
             "url": "http://txt.gt.tc/users/Bpjt.txt"
@@ -3854,24 +3864,9 @@
             "url": "http://tv.html-5.me/ii/821921.txt"
         },
         {
-            "name": "zxmlxw",
-            "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/zxmlxw520/5566/main/gat.txt"
-        },
-        {
             "name": "dqtx",
             "type": 0,
             "url": "http://1tv.dqtx.cc/"
-        },
-        {
-            "name": "aptv",
-            "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"
-        },
-        {
-            "name": "Wirili",
-            "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/Wirili/IPTV/main/live.txt"
         },
         {
             "name": "蜂蜜",
@@ -3907,34 +3902,6 @@
             "logo": "https://www.cttv.vip/ys/images/{name}.png"
         },
         {
-            "name": "fulei",
-            "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fuleishu/ceshi/main/aptv.m3u",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://epg.iill.top/logo/{name}.png",
-            "ua": "okhttp/3.15,AptvPlayer/1.4.0"
-        },
-        {
-            "name": "fulei2",
-            "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fuleishu/ceshi/main/zhibo1.txt"
-        },
-        {
-            "name": "fulei3",
-            "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fuleishu/ceshi/main/ceshi123.m3u"
-        },
-        {
-            "name": "xiyou",
-            "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fuleishu/ceshi/main/xiyou12.txt"
-        },
-        {
-            "name": "易发",
-            "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fafa002/yf2025/main/yiyifafa.txt"
-        },
-        {
             "name": "catvod_live",
             "type": 0,
             "url": "https://live.catvod.com/tv.m3u",
@@ -3960,6 +3927,49 @@
             "name": "suxuang",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u"
+        },
+        {
+            "name": "雄健",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xiongjian83/TvBox/main/live.txt"
+        },
+        {
+            "name": "aptv",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"
+        },
+        {
+            "name": "Wirili",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/Wirili/IPTV/main/live.txt"
+        },
+        {
+            "name": "zxmlxw",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/zxmlxw520/5566/main/gat.txt"
+        },
+        {
+            "name": "fulei",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fuleishu/ceshi/main/aptv.m3u",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.iill.top/logo/{name}.png",
+            "ua": "okhttp/3.15,AptvPlayer/1.4.0"
+        },
+        {
+            "name": "fulei2",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fuleishu/ceshi/main/zhibo1.txt"
+        },
+        {
+            "name": "fulei3",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fuleishu/ceshi/main/ceshi123.m3u"
+        },
+        {
+            "name": "xiyou",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fuleishu/ceshi/main/xiyou12.txt"
         },
         {
             "name": "ffmking",
