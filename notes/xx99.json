@@ -710,6 +710,18 @@
             }
         },
         {
+            "key": "色花堂",
+            "name": "色花堂(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/sht.py"
+        },
+        {
+            "key": "爱AV",
+            "name": "爱AV(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/爱AV.py"
+        },
+        {
             "key": "女仆咖啡",
             "name": "女仆咖啡(py)",
             "type": 3,
