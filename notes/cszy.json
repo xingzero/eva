@@ -1,5 +1,5 @@
 {
-    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260104.jpg;md5;b7984b5d50fae03a99977b515deb00b2",
+    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260105.jpg;md5;43ef8d5402a9680965e53900c3036b10",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -521,6 +521,14 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251225.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
         },
         {
+            "key": "随看",
+            "name": "随看(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://suikan.tpmbt.cn|pHQsm6wjYaCuSPEz",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251225.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
+        },
+        {
             "key": "雨滴",
             "name": "雨滴(SP)",
             "type": 3,
@@ -771,14 +779,6 @@
             "type": 3,
             "api": "csp_AppGetV2",
             "ext": "N/01JeZBCBEQ0wOXNuAI/kwsk5p8MqEDFtLQfMnVixCr+7SDk/ADz/3jQuhmbdOmnA17Z3SQk2E0yHmALhi/7LiWs5SOSIlfCnROxZX4uL24URsnTifmO3bmjJHNFi0+LPWEiTvFoKujq4LzhPXdZ22ejeTeUrcg6jf1ZtwK5tiAgj9+sIksTcrcktFaELJCRAisS111nz3QAxBGv/yYUHAlFDmCuVE0TnT289xJrBSQvcgWcl7YHJZvfShyNFng2cwq3rNjbnO0xuMZOfsZ6v/El3P6iJH0/HWhZtf/JUtnndZJRHhG7WOJJ2lCSjiWHTMhfLvUPfCWLicm/tKloFizlBlYd/OdHNQFMSrH2orvOGT5viriQ8d9wC6HiOZK+4WTIvuRgKodS7DEr+kopNRAUa9UNf81cZwDOGYNjCkJJvPXSQHVAdjtVEgfbUiDdxHl3ZEVIXz0iSfihNf/5TAmQw/uOAZA0oC46Zo5UwU=",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/1223.png;md5;26c4814b6abd097a203e598030051ff2"
-        },
-        {
-            "key": "魔方2",
-            "name": "魔方2(SP)",
-            "type": 3,
-            "api": "csp_AppGetV2",
-            "ext": "FNc7O3Sq/hxz7uCzbccPTwmKS9QhqbhDC5J/tBK99TVQounnwmmNp3FKJOSCRv8a/NEkOxMdnFCPSQw99FJqF/+8saUFSExxgPu/UQUgdKK+tdI7fbM6+cAeXCC/NUmTkyOLFPRuO6O2OgFB1ledmUBxb9JZ8/j2cQHpvOXB240DZ/UBc4IHb0Y4Fjyj0EW+4xXa5GQxulY7yD7iriCSR3RmLzONNbXeHYYUatbBRnEMi+NbuR4C0nXSyqR8g7scCnsf7Kxebop1RVZXH0CuKeMZkxiUyVpY/C0WLaZL8VS7iBih812y/ucr0jdSKOVX4qc+K5laeu09bHOBygz+qrjleirc3n6ZUREHRD7FTOMLW9aVdWtt21904X281yOTahkmtSTR9bm6bDK0iEubBDx2Rx3T7I9toi1PEqspMVExKObvHsnefUieHC/0R5dVW74J13/1d4oP5MJhpfSS83EzVTrVy81ErkMMjZRUEOE=",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/1223.png;md5;26c4814b6abd097a203e598030051ff2"
         },
         {
@@ -3132,7 +3132,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "siteUrl": "https://api.jkai.de/"
+                "siteUrl": "https://pansou.591668.xyz/"
             },
             "indexs": 0,
             "style": {
@@ -3702,6 +3702,13 @@
             "logo": "https://epg.v1.mk/logo/{name}.png"
         },
         {
+            "name": "自用",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/ext/live.txt",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.v1.mk/logo/{name}.png"
+        },
+        {
             "name": "diyp",
             "type": 0,
             "url": "http://iptv.diyp.site/diyp.php",
@@ -3867,6 +3874,11 @@
             "name": "小南",
             "type": 0,
             "url": "http://a.xncjys.xyz/dszb/dszb.txt"
+        },
+        {
+            "name": "潇雨",
+            "type": 0,
+            "url": "http://43.251.226.89:8080/live.txt"
         },
         {
             "name": "Bpjt",
