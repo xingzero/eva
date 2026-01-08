@@ -1,5 +1,5 @@
 {
-    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260105.jpg;md5;66839fd883aa0be5dd987bbfb64eaf9f",
+    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260106.jpg;md5;6eabe6598103cd60323290c47a0c8b61",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -3888,15 +3888,10 @@
         {
             "name": "HKTV",
             "type": 0,
-            "url": "http://txt.gt.tc/users/HKTV.txt"
-        },
-        {
-            "name": "HKTV2",
-            "type": 0,
             "url": "http://gc.gt.tc/o/i/HKTV.txt"
         },
         {
-            "name": "HKTV3",
+            "name": "HKTV2",
             "type": 0,
             "url": "http://he.html-5.me/2/i/HK.txt"
         },
@@ -3904,6 +3899,11 @@
             "name": "小美",
             "type": 0,
             "url": "http://he.html-5.me/2/i/小美.txt"
+        },
+        {
+            "name": "海马",
+            "type": 0,
+            "url": "http://gc.gt.tc/o/i/海马.txt"
         },
         {
             "name": "猫TV",
@@ -3919,6 +3919,11 @@
             "name": "潇雨",
             "type": 0,
             "url": "http://43.251.226.89:8080/live.txt"
+        },
+        {
+            "name": "如意",
+            "type": 0,
+            "url": "http://iptv.ruyitv.cc/m3u/tv.txt"
         },
         {
             "name": "Bpjt",
