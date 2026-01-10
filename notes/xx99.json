@@ -1531,24 +1531,24 @@
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/yihad168/tv/main/tv.m3u"
         },
         {
-            "name": "FGBLH",
+            "name": "FG_港台",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/FGBLH/FG/main/港台大陆频道"
         },
         {
-            "name": "FGBLH2",
+            "name": "FG_x视频",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/FGBLH/FG/main/xxx视频资源(免番强)"
         },
         {
-            "name": "FGBLH3",
+            "name": "FG_海角",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/FGBLH/FG/main/海角社区博主(免番强)"
         },
         {
-            "name": "FGBLH4",
+            "name": "FG_iptv",
             "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/FGBLH/FG/main/别人收费源"
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/FGBLH/FG/main/iptvpro"
         },
         {
             "name": "艺术",
