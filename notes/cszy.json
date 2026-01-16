@@ -1,5 +1,5 @@
 {
-    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260110.jpg;md5;72d5157673877b07566a97f11c4761df",
+    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260116.jpg;md5;849794d1ffde783513c5e4b5ae3e6fcd",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -37,8 +37,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
+                "Cloud-drive": "tvfan/Cloud-drive.txt"
             }
         },
         {
@@ -60,8 +59,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
+                "Cloud-drive": "tvfan/Cloud-drive.txt"
             }
         },
         {
@@ -129,13 +127,14 @@
         },
         {
             "key": "剧圈",
-            "name": "剧圈(SP)",
+            "name": "剧圈",
             "type": 3,
-            "api": "csp_JqqGuard",
+            "api": "csp_AppSxGuard",
             "timeout": 10,
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1
+            "changeable": 1,
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+S3T18333j8hL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0k5GV9Quw0AIzUurGBVyPqCLrdirfpAz+n0Qh7PVBWo8uxWhO1Bs1MCYA1oiM="
         },
         {
             "key": "热播",
@@ -169,7 +168,29 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprG9un3+Szfz8zv0jAjao20UU0cIAxL6DQ15qJ1O+BZw910sXeeL8VPwXcg/2xjQv8/GZnOrqqcWiP4CKLWif2sVyC8ihYjNklP7o6mQAL7VoFMG5d5pWhXSwS1CO7g1gbyVYEQxV0sT36wczr1h9ANQMp05z40WLhuXPJeeRYy14vg"
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+Szfz8zv0jAjao20UU0cIAxL6DQ15qJ1O+BZw910sXeeL8VPwXcg/2xjQv8/GZnOrqqcWiP4CKLWif2sVyC8ihYjNklP7o6mQAL7VoFMG5d58ShBUwulTOU="
+        },
+        {
+            "key": "猫猫",
+            "name": "猫猫",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOX1voDIQhH8epBwpmIsuSspW+fnt3j0Gkxas3qVQ5bZRBVvSwnsuM5MOJ0isFT7Xq5Kctln34euXsyXL42Edzeou/SGHg="
+        },
+        {
+            "key": "包子",
+            "name": "包子",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+T/Ky8ijlm1jJ8+yU0seIgQe6DRwqrUqYeBZw91iuG3ZcN1Sz2Im+G8mF+shR+eNzbfXQ3SsRv/HiK+0XXGnjhlkfQQNopX5TgKxFIobBott+2QTSxa1Bv3jlR7vRcQK"
         },
         {
             "key": "橘子",
@@ -180,7 +201,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprG9un3+S/Cz8j6xik9ZIrwCw8aZkEOtiQw5qNif+ZRw904uGiCZNFRz3ln6nh5Q+wpBsGA6aydW3fmWrXH1ve0HjKxzV5kNEdcrI7mT1i2DMtcTIh17XhLS0CiSqizjQaqBYcSlVc0Gm2wIGH134APQI1/"
+            "ext": "rfOX1voDIQhH8epBwpmIsuSqvyXCz8r+lS8mcJ/xVR1aMxpf9CY77fshWb9Qi+9wjlHTW/B2wksy6y04VuIpAozGrejSUw=="
         },
         {
             "key": "鲸鱼",
@@ -266,11 +287,25 @@
             "ext": "rfOX1voDIQhH8epBwpmIsuStuSyZxtH332ksdImjS1xHcE9fpWVy8fNjc+8DhNI67j3SJZRGjnM="
         },
         {
-            "key": "每日",
-            "name": "每日(xml)",
-            "type": 1,
-            "api": "https://mrgj.cc/api.php/provide/vod/",
-            "timeout": 15
+            "key": "剧多多",
+            "name": "剧多多(SP)",
+            "type": 3,
+            "api": "csp_JqqGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "橘子3",
+            "name": "橘子3(SP)",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+S/Cz8j6xik9ZIrwCw8aZkEOtiQw5qNif+ZRw904uGiCZNFRz3ln6nh5Q+wpBsGA6aydW3fmWrXH1ve0HjKxzV5kNEdcrI7mT1i2DMtcTIh17XhLS0CiSqizjQaqBYcSlVc0Gm2wIGH134APQI1/"
         },
         {
             "key": "csp_Tvyb",
@@ -318,6 +353,14 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251225.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
         },
         {
+            "key": "奇奇",
+            "name": "奇奇(SP)",
+            "type": 3,
+            "api": "csp_AppQi",
+            "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/a.txt|123456789abcdefg",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251225.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
+        },
+        {
             "key": "鲸鱼2",
             "name": "鲸鱼2(SP)",
             "type": 3,
@@ -346,7 +389,7 @@
             "name": "魔方(SP)",
             "type": 3,
             "api": "csp_AppGet",
-            "ext": "https://www.mfsp4k.top|1234567887654321",
+            "ext": "https://snysw.xyz/mf4kzs327.txt|1234567887654321",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251225.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
         },
         {
@@ -723,6 +766,14 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260108.jpg;md5;c2d95a316fb2e52c5f1efdd8ab87e6ac"
         },
         {
+            "key": "魔方2",
+            "name": "魔方2(SP)",
+            "type": 3,
+            "api": "csp_AppGetV2",
+            "ext": "N/01JeZBCBEQ0wOXNuAI/kwsk5p8MqEDFtLQfMnVixA9uUmSyf8n3xJtB2ubjJgYDhEd8h65xeqKRf3iKR9uIvzwZqvJoAyTyNrVFvsjj6rcrxaUxJIDJDV+KiOB9j0MI9CVrh+0wQG3G8vH/qBglRDfzuIN1DlTTpdxYERAYZMCSEu+sgf5JR61CAzwsdc09W//YFaJbpDv8kHaw052cULBNQ/P1FyVDvk+GHOADm3OLhFSpDjSGPgKadu0GSlZGl+7EnLianWrSuY9H12iPoBA0zf6ulDwWqStOH2yTARHrda3y3m35sh0GGABp/ThOHszC2tl2naN0POZsXbyi7enFffI15opZinoBAA/LWiYkiEaH+cIZ/29C418TvMUpuM4GXXQsSbu43K56xSFdjTi66WemimTIKQ89FJIVuR9qDVI1iFyNmpS2kz8TwPJNsyrT8rAw3iXvLuwhNjOndlJruvPH+sewnXTdp9dqf6r4MAzLwL9f9EJ2C6F+Jqx",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260108.jpg;md5;c2d95a316fb2e52c5f1efdd8ab87e6ac"
+        },
+        {
             "key": "星星2",
             "name": "星星2(SP)",
             "type": 3,
@@ -901,6 +952,13 @@
             "api": "csp_XPath",
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XP/yyu3.json",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
+        },
+        {
+            "key": "每日",
+            "name": "每日(xml)",
+            "type": 1,
+            "api": "https://mrgj.cc/api.php/provide/vod/",
+            "timeout": 15
         },
         {
             "key": "老雅",
@@ -1315,6 +1373,13 @@
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
             "ext": "https://cunchu8.obs.cn-north-4.myhuaweicloud.com/config.json"
+        },
+        {
+            "key": "花花",
+            "name": "花花(fox)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
+            "ext": "http://103.23.148.102:12002"
         },
         {
             "key": "呀哩4K",
@@ -1802,6 +1867,19 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/飞快TV.json",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "小镇",
+            "name": "小镇(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "线路数组": "<a data-toggle=\"tab\"&&/a>",
+                "线路标题": ">&&<",
+                "分类url": "http://dyxz.tv/list/{cateId}_{catePg}.html",
+                "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
+            },
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
@@ -3006,7 +3084,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "siteUrl": "http://124.221.190.51:8800/"
+                "siteUrl": "http://38.55.131.86:82/"
             },
             "indexs": 0,
             "style": {
@@ -3022,8 +3100,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
+                "Cloud-drive": "tvfan/Cloud-drive.txt"
             }
         },
         {
@@ -3035,8 +3112,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
+                "Cloud-drive": "tvfan/Cloud-drive.txt"
             }
         },
         {
@@ -3049,7 +3125,6 @@
             "changeable": 0,
             "ext": {
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto",
                 "yiSoCookie": "satoken=4437cb8c-a260-411b-9a0d-1fa622ab422f"
             }
         },
@@ -3062,8 +3137,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
+                "Cloud-drive": "tvfan/Cloud-drive.txt"
             }
         },
         {
@@ -3075,8 +3149,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
+                "Cloud-drive": "tvfan/Cloud-drive.txt"
             }
         },
         {
@@ -3088,8 +3161,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
+                "Cloud-drive": "tvfan/Cloud-drive.txt"
             }
         },
         {
@@ -3274,8 +3346,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
+                "Cloud-drive": "tvfan/Cloud-drive.txt"
             }
         }
     ],
@@ -3626,6 +3697,11 @@
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/FGBLH/FG/main/港台大陆频道无18内容"
         },
         {
+            "name": "斯玛特",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/FGBLH/FG/main/斯玛特直播源2"
+        },
+        {
             "name": "alantang1977",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/alantang1977/IPTV/main/live_ipv4.txt"
@@ -3699,27 +3775,6 @@
             "name": "裤佬",
             "type": 0,
             "url": "https://upld.zone.id/uploads/q9iq9e5iq/lvse.txt"
-        },
-        {
-            "name": "冰茶",
-            "type": 0,
-            "url": "https://bc.188766.xyz/?ip=192.168.110.183"
-        },
-        {
-            "name": "冰茶2",
-            "type": 0,
-            "url": "https://bc.188766.xyz/?ip=192.168.2.231"
-        },
-        {
-            "name": "冰茶3",
-            "type": 0,
-            "url": "https://bc.188766.xyz/?ip=&mima=bingcha1130&json=true",
-            "ua": "bingcha/1.1 (mianfeifenxiang)"
-        },
-        {
-            "name": "冰茶4",
-            "type": 0,
-            "url": "https://188766.xyz/itv"
         },
         {
             "name": "风云",
@@ -3843,6 +3898,11 @@
             "url": "https://clun.top/lib/iptv.txt"
         },
         {
+            "name": "clun2",
+            "type": 0,
+            "url": "https://clun.top/lib/iptv.m3u"
+        },
+        {
             "name": "港湾",
             "type": 0,
             "url": "http://156.238.248.80/2099.php"
@@ -3853,6 +3913,26 @@
             "url": "https://www.cttv.vip/ys/json/ctzb.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://www.cttv.vip/ys/images/{name}.png"
+        },
+        {
+            "name": "freetv",
+            "type": 0,
+            "url": "https://t.freetv.fun/m3u/playlist.txt"
+        },
+        {
+            "name": "海燕",
+            "type": 0,
+            "url": "https://chuxinya.top/f/p83JtA/海燕.txt"
+        },
+        {
+            "name": "飞扬",
+            "type": 0,
+            "url": "https://l.gmbbk.com/upload/39183918.txt"
+        },
+        {
+            "name": "tvzb9",
+            "type": 0,
+            "url": "http://d.jsy777.top/box/tvzb9.txt"
         },
         {
             "name": "catvod_live",
@@ -3870,6 +3950,27 @@
             "name": "ds65",
             "type": 0,
             "url": "https://ds65.tv1288.xyz/"
+        },
+        {
+            "name": "冰茶",
+            "type": 0,
+            "url": "https://bc.188766.xyz/?ip=192.168.110.183"
+        },
+        {
+            "name": "冰茶2",
+            "type": 0,
+            "url": "https://bc.188766.xyz/?ip=192.168.2.231"
+        },
+        {
+            "name": "冰茶3",
+            "type": 0,
+            "url": "https://bc.188766.xyz/?ip=&mima=bingcha1130&json=true",
+            "ua": "bingcha/1.1 (mianfeifenxiang)"
+        },
+        {
+            "name": "冰茶4",
+            "type": 0,
+            "url": "https://188766.xyz/itv"
         },
         {
             "name": "Jsnzkpg",

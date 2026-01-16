@@ -285,6 +285,12 @@
             "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list"
         },
         {
+            "key": "HSTV",
+            "name": "HSTV",
+            "type": 1,
+            "api": "https://learnpython.ggff.net/hstv"
+        },
+        {
             "key": "XMVideo",
             "name": "熊猫",
             "type": 3,
@@ -1549,6 +1555,21 @@
             "name": "FG_iptv",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/FGBLH/FG/main/iptvpro"
+        },
+        {
+            "name": "FG_iptv2",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/FGBLH/FG/main/iptvpro2"
+        },
+        {
+            "name": "hufa",
+            "type": 0,
+            "url": "http://hufa.zabc.net:8080/iptvpro.txt"
+        },
+        {
+            "name": "小芳",
+            "type": 0,
+            "url": "http://gc.gt.tc/o/i/小芳.txt"
         },
         {
             "name": "艺术",
