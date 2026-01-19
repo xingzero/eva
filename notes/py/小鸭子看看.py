@@ -17,7 +17,7 @@ class Spider(Spider):
             "main": "https://xiaoyakankan.com",
             "tw": "https://tw.xiaoyakankan.com"
         }
-        self.default_host = "tw"
+        self.default_host = "main"
         self.ua = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         
         # 视频格式支持

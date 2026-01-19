@@ -1033,10 +1033,28 @@
             "api": "https://learnpython.ggff.net/0007cg"
         },
         {
-            "key": "51cg",
+            "key": "HLBTY",
+            "name": "黑料网",
+            "type": 4,
+            "api": "https://learnpython.ggff.net/HLBTY"
+        },
+        {
+            "key": "51xiG",
             "name": "51吃瓜",
             "type": 4,
             "api": "https://learnpython.ggff.net/51xiG"
+        },
+        {
+            "key": "7QU",
+            "name": "七区视频",
+            "type": 4,
+            "api": "https://learnpython.ggff.net/7QU"
+        },
+        {
+            "key": "XHSM",
+            "name": "瑟佬传媒",
+            "type": 4,
+            "api": "https://learnpython.ggff.net/XHSM"
         },
         {
             "key": "今日cg",
@@ -1539,17 +1557,32 @@
         {
             "name": "FG_港台",
             "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/FGBLH/FG/main/港台大陆频道"
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/FGBLH/FG/main/港台大陆"
+        },
+        {
+            "name": "FG_anbox",
+            "type": 0,
+            "url": "https://tv.anboxtv.online/tv"
+        },
+        {
+            "name": "FG_litv",
+            "type": 0,
+            "url": "http://ezc.xtvantsc.xyz/litv.php"
+        },
+        {
+            "name": "FG_台湾",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/FGBLH/FG/main/台湾TV"
         },
         {
             "name": "FG_x视频",
             "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/FGBLH/FG/main/xxx视频资源(免番强)"
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/FGBLH/FG/main/xxx视频资源"
         },
         {
             "name": "FG_海角",
             "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/FGBLH/FG/main/海角社区博主(免番强)"
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/FGBLH/FG/main/海角社区博主"
         },
         {
             "name": "FG_iptv",
