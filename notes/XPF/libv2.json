@@ -1,7 +1,10 @@
+//LIBVIO网址发布页: lib.ifabu.vip
+//LIBVIO网址发布页: libvio.app
+//LIBVIO网址发布页: libfabu.com
 {
   "author":"Tangsan99999",
   "ua": "",
-  "homeUrl": "https://www.libvio.cc/",
+  "homeUrl": "https://www.libvio.site/",
   "dcPlayUrl": "true",
   "cateManual": {"电影": "1","剧集": "2","综艺": "3","动漫": "4","日韩剧": "15","欧美剧": "16"},
   "homeVodNode": "//div[contains(@class,'stui-vodlist__box')]/a",
@@ -13,14 +16,14 @@
   "homeVodImgR": "",
   "homeVodMark": "/span[2]/text()",
   "homeVodMarkR": "",
-  "cateUrl": "https://www.libvio.cc/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+  "cateUrl": "https://www.libvio.site/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
   "cateVodNode": "//div[contains(@class,'stui-vodlist__box')]/a",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
   "cateVodIdR": "/detail/(\\w+).html",
   "cateVodImg": "/@data-original",
   "cateVodMark": "/span[2]/text()",
-  "dtUrl": "https://www.libvio.cc/detail/{vid}.html",
+  "dtUrl": "https://www.libvio.site/detail/{vid}.html",
   "dtNode": "//body",
   "dtName": "//div[contains(@class,'stui-content__detail')]/h1/text()",
   "dtNameR": "",
@@ -49,9 +52,9 @@
   "dtUrlIdR": "/play/(\\S+).html",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
-  "playUrl": "https://www.libvio.cc/play/{playUrl}.html",
+  "playUrl": "https://www.libvio.site/play/{playUrl}.html",
   "playUa": "",
-  "searchUrl": "https://www.libvio.cc/search/-------------.html?wd={wd}&submit=",
+  "searchUrl": "https://www.libvio.site/search/-------------.html?wd={wd}&submit=",
   "scVodNode": "//div[contains(@class,'stui-vodlist__box')]/a",
   "scVodName": "/@title",
   "scVodId": "/@href",
@@ -120,6 +123,7 @@
         "name": "年份",
         "value": [
           {"n": "全部","v": ""},
+          {"n": "2026","v": "2026"},
           {"n": "2025","v": "2025"},
           {"n": "2024","v": "2024"},
           {"n": "2023","v": "2023"},
@@ -202,6 +206,7 @@
         "name": "年份",
         "value": [
           {"n": "全部","v": ""},
+          {"n": "2026","v": "2026"},
           {"n": "2025","v": "2025"},
           {"n": "2024","v": "2024"},
           {"n": "2023","v": "2023"},
@@ -283,6 +288,7 @@
         "name": "年份",
         "value": [
           {"n": "全部","v": ""},
+          {"n": "2026","v": "2026"},
           {"n": "2025","v": "2025"},
           {"n": "2024","v": "2024"},
           {"n": "2023","v": "2023"},
@@ -370,6 +376,7 @@
         "name": "年份",
         "value": [
           {"n": "全部","v": ""},
+          {"n": "2026","v": "2026"},
           {"n": "2025","v": "2025"},
           {"n": "2024","v": "2024"},
           {"n": "2023","v": "2023"},
@@ -450,6 +457,7 @@
         "name": "年份",
         "value": [
           {"n": "全部","v": ""},
+          {"n": "2026","v": "2026"},
           {"n": "2025","v": "2025"},
           {"n": "2024","v": "2024"},
           {"n": "2023","v": "2023"},
@@ -533,6 +541,7 @@
         "name": "年份",
         "value": [
           {"n": "全部","v": ""},
+          {"n": "2026","v": "2026"},
           {"n": "2025","v": "2025"},
           {"n": "2024","v": "2024"},
           {"n": "2023","v": "2023"},

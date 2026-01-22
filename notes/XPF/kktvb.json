@@ -11,7 +11,7 @@
     "cateNode": "//ul[@class='nav-menu-items']/li[@class='nav-menu-item  ']/a[contains(@href,'/vodtype/')]",
     "cateName": "/@title",
     "cateId": "/@href",
-    "cateIdR": "/vodtype/(\\d+).html",
+    "cateIdR": "/type/(\\d+).html",
     "cateManual": {
         "港剧": "8",
         "电视剧": "1",
@@ -23,19 +23,19 @@
     "homeVodNode": "//div[@class= 'module-items']/div[@class= 'module-item']//div[@class= 'module-item-pic']/a",
     "homeVodName": "/@title",
     "homeVodId": "/@href",
-    "homeVodIdR": "/voddetail/(\\w+).html",
+    "homeVodIdR": "/detail/(\\w+).html",
     "homeVodImg": "/../img/@src",
     "homeVodImgR": "\\S+(http\\S+)",
     "homeVodMark": "/../../../div[@class='module-item-text']/text()",
-    "cateUrl": "https://www.yytvs.com/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
+    "cateUrl": "https://www.yytvs.com/vshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
     "cateVodNode": "//div[@class= 'module-items']/div[@class= 'module-item']//div[@class= 'module-item-pic']/a",
     "cateVodName": "/@title",
     "cateVodId": "/@href",
-    "cateVodIdR": "/voddetail/(\\w+).html",
+    "cateVodIdR": "/detail/(\\w+).html",
     "cateVodImg": "/../img/@src",
     "cateVodImgR": "\\S+(http\\S+)",
     "cateVodMark": "/../../../div[@class='module-item-text']/text()",
-    "dtUrl": "https://www.yytvs.com/voddetail/{vid}.html",
+    "dtUrl": "https://www.yytvs.com/detail/{vid}.html",
     "dtNode": "//div[@class='video-info']",
     "dtName": "//h1[@class='page-title']/text()",
     "dtNameR": "",
@@ -61,17 +61,17 @@
     "dtUrlNode": "//div[@class='module-blocklist scroll-box scroll-box-y']",
     "dtUrlSubNode": "/div/a",
     "dtUrlId": "@href",
-    "dtUrlIdR": "/vodplay/(\\S+).html",
+    "dtUrlIdR": "/v/(\\S+).html",
     "dtUrlName": "/span/text()",
     "dtUrlNameR": "",
     "playUrl": "https://www.yytvs.com/vodplay/{playUrl}.html",
     "playUa": "",
-    "searchUrl": "https://www.yytvs.com/vodsearch/{wd}-------------.html",
+    "searchUrl": "https://www.yytvs.com/vsearch/{wd}-------------.html",
 //  "searchUrl": "https://www.yytvs.com/ajax/suggest?mid=1&wd={wd}&limit=
     "scVodNode": "//div[@class='module-search-item']//div[@class='video-info-header']/a",
     "scVodName": "/@title",
     "scVodId": "/@href",
-    "scVodIdR": "/voddetail/(\\w+).html",
+    "scVodIdR": "/detail/(\\w+).html",
     "scVodImg": "/../../..//div[@class='module-item-pic']/img/@data-src",
     "scVodMark": "/text()",
     "filter": {
@@ -199,6 +199,10 @@
                     {
                         "n": "全部",
                         "v": ""
+                    },
+                    {
+                        "n": "2026",
+                        "v": "2026"
                     },
                     {
                         "n": "2025",
@@ -369,6 +373,10 @@
                         "v": ""
                     },
                     {
+                        "n": "2026",
+                        "v": "2026"
+                    },
+                    {
                         "n": "2025",
                         "v": "2025"
                     },
@@ -509,6 +517,10 @@
                     {
                         "n": "全部",
                         "v": ""
+                    },
+                    {
+                        "n": "2026",
+                        "v": "2026"
                     },
                     {
                         "n": "2025",
@@ -657,6 +669,10 @@
                     {
                         "n": "全部",
                         "v": ""
+                    },
+                    {
+                        "n": "2026",
+                        "v": "2026"
                     },
                     {
                         "n": "2025",
@@ -829,6 +845,10 @@
                     {
                         "n": "全部",
                         "v": ""
+                    },
+                    {
+                        "n": "2026",
+                        "v": "2026"
                     },
                     {
                         "n": "2025",
