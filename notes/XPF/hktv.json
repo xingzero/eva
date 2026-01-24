@@ -18,13 +18,13 @@
         "电视剧": "2",
         "综艺": "3",
         "动漫": "4",
-        "短剧": "19"
+        "短剧": "5"
     },
     "homeVodNode": "//div[contains(@class, 'col-lg-wide-75')]//ul[contains(@class,'myui-vodlist')]/li//a[contains(@class,'myui-vodlist__thumb')]",
     "homeVodName": "/@title",
     "homeVodId": "/@href",
     "homeVodIdR": "/vod/detail/id/(\\w+).html",
-    "homeVodImg": "@data-original",
+    "homeVodImg": "/@data-original",
     "homeVodImgR": "\\S+(http\\S+)",
     "homeVodMark": "/span[contains(@class,'pic-tag')]/span[@class='tag']/text()",
     "cateUrl": "http://www.hktv09.com/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
@@ -32,7 +32,7 @@
     "cateVodName": "/@title",
     "cateVodId": "/@href",
     "cateVodIdR": "/vod/detail/id/(\\w+).html",
-    "cateVodImg": "@data-original",
+    "cateVodImg": "/@data-original",
     "cateVodImgR": "\\S+(http\\S+)",
     "cateVodMark": "/span[contains(@class,'pic-tag')]/span[@class='tag']/text()",
     "dtUrl": "http://www.hktv09.com/vod/detail/id/{vid}.html",
@@ -47,7 +47,7 @@
     "dtYearR": "",
     "dtArea": "//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '地区')]/following-sibling::*/text()",
     "dtAreaR": "",
-    "dtMark": "",
+    "dtMark": "//div[@class='myui-content__detail']/p[@class='data hidden-sm']/span[@class='text-red']/text()",
     "dtMarkR": "",
     "dtActor": "//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '主演')]/following-sibling::*/text()",
     "dtActorR": "",
@@ -61,7 +61,7 @@
     "dtFromNameR": "",
     "dtUrlNode": "//div[@class='myui-panel_bd clearfix']/ul[contains(@class,'myui-content__list')]",
     "dtUrlSubNode": "//li/a",
-    "dtUrlId": "@href",
+    "dtUrlId": "/@href",
     "dtUrlIdR": "/vod/play/id/(\\S+).html",
     "dtUrlName": "/text()",
     "dtUrlNameR": "",
@@ -792,7 +792,7 @@
                 ]
             }
         ],
-        "19": [
+        "5": [
             {
                 "key": "area",
                 "name": "地区",
