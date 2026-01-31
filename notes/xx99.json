@@ -1600,6 +1600,11 @@
             "url": "http://hufa.zabc.net:8080/iptvpro.txt"
         },
         {
+            "name": "4key",
+            "type": 0,
+            "url": "https://4key.cn/vy6"
+        },
+        {
             "name": "小芳",
             "type": 0,
             "url": "http://gc.gt.tc/o/i/小芳.txt"
