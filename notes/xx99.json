@@ -204,6 +204,7 @@
             "key": "幸福",
             "name": "幸福",
             "type": 1,
+            "timeout": 15,
             "api": "https://xzybb1.com/api.php/provide/vod/?ac=list"
         },
         {
@@ -1565,24 +1566,9 @@
             "url": "https://tv.anboxtv.online/tv"
         },
         {
-            "name": "FG_litv",
-            "type": 0,
-            "url": "http://ezc.xtvantsc.xyz/litv.php"
-        },
-        {
-            "name": "FG_台湾",
-            "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/FGBLH/FG/main/台湾TV"
-        },
-        {
             "name": "FG_x视频",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/FGBLH/FG/main/xxx视频资源"
-        },
-        {
-            "name": "FG_海角",
-            "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/FGBLH/FG/main/海角社区博主"
         },
         {
             "name": "FG_iptv",
@@ -1590,9 +1576,29 @@
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/FGBLH/FG/main/iptvpro"
         },
         {
-            "name": "FG_iptv2",
+            "name": "FG_安博",
             "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/FGBLH/FG/main/iptvpro2"
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/FGBLH/FG/main/安博"
+        },
+        {
+            "name": "FG_海角",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/ext/海角社区博主"
+        },
+        {
+            "name": "mpimg",
+            "type": 0,
+            "url": "https://mpimg.cn/down.php/d8d8bfbb160bc11e89ad922b152295e2.txt"
+        },
+        {
+            "name": "cccimg",
+            "type": 0,
+            "url": "https://cccimg.com/down.php/81f7c2bfa1f23ed6f0ef7a0c9037da7d.txt"
+        },
+        {
+            "name": "catbox",
+            "type": 0,
+            "url": "https://files.catbox.moe/st7pac.txt"
         },
         {
             "name": "hufa",
