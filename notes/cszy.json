@@ -1,5 +1,5 @@
 {
-    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260201.jpg;md5;58149e856fa117ba01d13b0b5de47bd4",
+    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260202.jpg;md5;46134f58a2d0e6c5824bf14d3ab882b3",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -515,7 +515,7 @@
             "name": "魔方(SP)",
             "type": 3,
             "api": "csp_AppGet",
-            "ext": "https://snysw.xyz/mf4kzs327.txt|1234567887654321",
+            "ext": "https://snysw.xyz/mf4kev328.txt|1234567887654321",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251225.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
         },
         {
@@ -803,14 +803,6 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260123.jar;md5;09c634709dc18668b1bfaacbd4dc7459"
         },
         {
-            "key": "魔方2",
-            "name": "魔方2(SP)",
-            "type": 3,
-            "api": "csp_AppGetV2",
-            "ext": "N/01JeZBCBEQ0wOXNuAI/kwsk5p8MqEDFtLQfMnVixA9uUmSyf8n3xJtB2ubjJgYDhEd8h65xeqKRf3iKR9uIvzwZqvJoAyTyNrVFvsjj6rcrxaUxJIDJDV+KiOB9j0MI9CVrh+0wQG3G8vH/qBglRDfzuIN1DlTTpdxYERAYZMCSEu+sgf5JR61CAzwsdc09W//YFaJbpDv8kHaw052cULBNQ/P1FyVDvk+GHOADm3OLhFSpDjSGPgKadu0GSlZGl+7EnLianWrSuY9H12iPoBA0zf6ulDwWqStOH2yTARHrda3y3m35sh0GGABp/ThOHszC2tl2naN0POZsXbyi7enFffI15opZinoBAA/LWiYkiEaH+cIZ/29C418TvMUpuM4GXXQsSbu43K56xSFdjTi66WemimTIKQ89FJIVuR9qDVI1iFyNmpS2kz8TwPJNsyrT8rAw3iXvLuwhNjOndlJruvPH+sewnXTdp9dqf6r4MAzLwL9f9EJ2C6F+Jqx",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260123.jar;md5;09c634709dc18668b1bfaacbd4dc7459"
-        },
-        {
             "key": "星星2",
             "name": "星星2(SP)",
             "type": 3,
@@ -1083,13 +1075,43 @@
             "key": "永乐",
             "name": "永乐",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/永乐视频.js"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/永乐视频2.js"
         },
         {
             "key": "apple",
             "name": "apple",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/apple.js"
+        },
+        {
+            "key": "3Q",
+            "name": "3Q影视",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/3Q影视3.js"
+        },
+        {
+            "key": "独播",
+            "name": "独播",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/独播库2.js"
+        },
+        {
+            "key": "Emby",
+            "name": "Emby",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/Emby.js"
+        },
+        {
+            "key": "荐片3",
+            "name": "荐片3",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/荐片3.js"
+        },
+        {
+            "key": "金牌3",
+            "name": "金牌3",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/金牌影院.js"
         },
         {
             "key": "鲸鱼(py)",
@@ -1185,6 +1207,12 @@
             "name": "猎手(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/猎手影视.py"
+        },
+        {
+            "key": "csp_小红",
+            "name": "小红(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/小红影视.py"
         },
         {
             "key": "csp_哇哇",
@@ -1305,6 +1333,12 @@
             "name": "新韩剧(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/新韩剧网.py"
+        },
+        {
+            "key": "csp_国外剧",
+            "name": "国外剧(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/海外剧.py"
         },
         {
             "key": "LiteApple",
@@ -1690,6 +1724,12 @@
             "name": "星芽(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/星芽短剧.py"
+        },
+        {
+            "key": "七星",
+            "name": "七星(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/七星短剧.py"
         },
         {
             "key": "星之阁",
@@ -2291,6 +2331,12 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/耐看视频.js"
         },
         {
+            "key": "泥巴(js)",
+            "name": "泥巴(js)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/泥泥视频.js"
+        },
+        {
             "key": "追剧迷(js)",
             "name": "追剧迷(js)",
             "type": 3,
@@ -2534,6 +2580,18 @@
             "api": "https://py.doube.eu.org/v2/spider?site=9037cfae7c64405111e0e364401adb60"
         },
         {
+            "key": "聚梦",
+            "name": "聚梦(T4)",
+            "type": 4,
+            "api": "https://catbox.n13.club/t9/jumeng.php"
+        },
+        {
+            "key": "星阁",
+            "name": "星阁(T4)",
+            "type": 4,
+            "api": "https://catbox.n13.club/t9/xingzhige.php"
+        },
+        {
             "key": "小旺旺",
             "name": "小旺旺",
             "type": 4,
@@ -2552,11 +2610,23 @@
             "api": "http://zhangqun1818.serv00.net/js.php"
         },
         {
+            "key": "php集合",
+            "name": "php集合",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/php.php"
+        },
+        {
             "key": "采集集合",
             "name": "采集集合",
             "type": 4,
             "api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
             "ext": "1"
+        },
+        {
+            "key": "评书",
+            "name": "评书",
+            "type": 4,
+            "api": "https://catbox.n13.club/t9/suishenting.php"
         },
         {
             "key": "综合",
