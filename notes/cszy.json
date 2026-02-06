@@ -1,5 +1,5 @@
 {
-    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260202.jpg;md5;46134f58a2d0e6c5824bf14d3ab882b3",
+    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260206.jpg;md5;01da32c9bde90313b87f785710070eee",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -157,7 +157,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOX1voDIQhH8epBwtCFsub1+mmfmIi0nGlgK8i7X0oYLxBVvSwnsuM5MLkOhoI/4z/TJMVFz2ow52AyXL42Edzeou/SGHg="
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+Trbx9vpwD4hapLgE1cZIgdPoXR38vM+JO9LxoRrqSmZfNZNwXw+v2ZtAf8gB9+crrmXQzblHKPEg6m0XXGnjhlkfQQO/cKgEA30BI8NAtRipG5WS0c="
         },
         {
             "key": "极狐",
@@ -179,7 +179,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOX1voDIQhH8epBwpmIsuSspW+fnt3j0Gkxas3qVQ5bZRBVvSwnsuM5MOJ0isFT7Xq5Kctln34euXsyXL42Edzeou/SGHg="
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+S/Cz8j6xik9ZIrwCw8aZkEOtiQw5qNif+ZRw904uGiCZNFRz3ln6nh5Q+wpBsGA6aydW3fmWrXH1ve0HjKxzV5kNEdcrI7mT1i2DMtcTIh17XhLS0D2Cr6rghboDg=="
         },
         {
             "key": "橘子",
@@ -190,7 +190,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZwM/jwik9Zoy3AAlFMxpf9CY77fshJ+II0I4x7mOKd5IWnT40uC1p"
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TXe0NPv1yt7LM60XkwYLA1No3EluLI1d/gV1t5vq2+PaJZO0X8y4XhhFKorB8fL8quaRzegVrmV3P39FC7u1UYsIlVb07zwEm/4Hc0/c9s1snJBF1/lWqakhRaj"
         },
         {
             "key": "鲸鱼",
@@ -201,7 +201,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TXC3NH30m85MMiyVkwSIgNArXpwrLZwJOlInMRrq2qCb88RxXck6mdnBfx+E9mVr+/WQHKnXOuf1rT3CHH2zSEDJ0lM/ZH/GF+kFMAPQfAluHgdCEy1QqmjhV0="
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TXC3NH30m85MMiyVkwSIgNArXpwrLZwJOlInMRrq2qCb88RxXck6mdnBfx+E9mVr7CRV3DjHKPEg6m0XXGnjhlkfQR72J78AFGkC9UAXMZC0hlWSxa1Bv3jlR7vRcQK"
         },
         {
             "key": "糯米",
@@ -295,22 +295,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "key": "每日",
-            "name": "每日(xml)",
-            "type": 1,
-            "api": "https://mrgj.cc/api.php/provide/vod/",
-            "timeout": 15
-        },
-        {
-            "key": "港迷",
-            "name": "港迷(SP)",
-            "type": 3,
-            "api": "csp_AppSK",
-            "timeout": 15,
-            "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZMAYVUEz5FpK6jnh0fUMKIpzPWz0jI/rymDTutcXiX2Dhu1XsjGntrH8QzPldJXdqa2h7TLjJF3DFX",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/jar_fty250223.jar;md5;9a4e27dc8671d07587f5cb752ea80fd3"
         },
         {
             "key": "csp_Tvyb",
@@ -1013,6 +997,13 @@
             "api": "csp_XPath",
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XP/yyu3.json",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
+        },
+        {
+            "key": "每日",
+            "name": "每日(xml)",
+            "type": 1,
+            "api": "https://mrgj.cc/api.php/provide/vod/",
+            "timeout": 15
         },
         {
             "key": "老雅",
@@ -2334,7 +2325,8 @@
             "key": "泥巴(js)",
             "name": "泥巴(js)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/泥泥视频.js"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/lib4/drpy2.min.js",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/泥泥视频.js"
         },
         {
             "key": "追剧迷(js)",
@@ -3348,6 +3340,11 @@
             "url": "http://121.40.174.45:299/api/?key=C929E46077B4A0H&url="
         },
         {
+            "name": "kalb",
+            "type": 1,
+            "url": "https://kalbim.xatut.top/kalbim2025/781718/play/video_player.php?url="
+        },
+        {
             "name": "小腾",
             "type": 1,
             "url": "http://shybot.top/v2/video/jx/?shykey=4595a71a4e7712568edcfa43949236b42fcfcb04997788ebe7984d6da2c6a51c&url="
@@ -3356,6 +3353,11 @@
             "name": "小芒",
             "type": 1,
             "url": "http://shybot.top/v2/video/jx/?shykey=4595a71a4e7712568edcfa43949236b42fcfcb04997788ebe7984d6da2c6a51c&qn=max&url="
+        },
+        {
+            "name": "芒果4k",
+            "type": 1,
+            "url": "http://mg.itufm.top/mg.php?url="
         },
         {
             "name": "岁岁",
@@ -3666,6 +3668,11 @@
             "url": "http://43.251.226.89:8080/live.m3u"
         },
         {
+            "name": "ds65",
+            "type": 0,
+            "url": "https://ds65.tv1288.xyz/"
+        },
+        {
             "name": "CCSH",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/CCSH/IPTV/main/live.txt"
@@ -3879,6 +3886,26 @@
             "url": "https://l.gmbbk.com/upload/39183918.txt"
         },
         {
+            "name": "梦仙",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/mengxianshengaaa/IPTV/main/网络收集.txt"
+        },
+        {
+            "name": "小南",
+            "type": 0,
+            "url": "http://a.xncjys.xyz/dszb/xnds.txt"
+        },
+        {
+            "name": "d8ws",
+            "type": 0,
+            "url": "http://110.42.63.134:8889/down/d8wSCuYMIDmz.m3u"
+        },
+        {
+            "name": "临时",
+            "type": 0,
+            "url": "https://pan.ymxx.net/f/vBMSZ/临时测试.txt"
+        },
+        {
             "name": "大哥",
             "type": 0,
             "url": "http://1.94.31.214/live/live9/dgtv.txt"
@@ -3899,11 +3926,6 @@
             "type": 0,
             "url": "https://iptv.catvod.com/tv.m3u",
             "ua": "okHttp/Mod-1.4.0.0"
-        },
-        {
-            "name": "ds65",
-            "type": 0,
-            "url": "https://ds65.tv1288.xyz/"
         },
         {
             "name": "冰茶",
