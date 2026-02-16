@@ -1551,6 +1551,11 @@
             "url": "http://qq1.229d.cn/sese.txt"
         },
         {
+            "name": "半年",
+            "type": 0,
+            "url": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/cc3cee8ec886804f/稳了半年还没挂.txt"
+        },
+        {
             "name": "yihad168",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/yihad168/tv/main/tv.m3u"
@@ -1584,6 +1589,16 @@
             "name": "FG_海角",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/ext/海角社区博主"
+        },
+        {
+            "name": "日本",
+            "type": 0,
+            "url": "https://down.nigx.cn/gist.githubusercontent.com/yuanwangokk-1/b48e4fd7edad33594c4f3f1972684d0d/raw/be7f76552c480817d1ea8726a3df9a205fe03f43/jp.m3u"
+        },
+        {
+            "name": "韩团",
+            "type": 0,
+            "url": "https://down.nigx.cn/gist.githubusercontent.com/yuanwangokk-1/a661dd0e88466aa22f2a7c1fb375635e/raw/8708d9947be1c64c52bb1610a30aaa1b595848c9/韩国女团直播.m3u"
         },
         {
             "name": "mpimg",

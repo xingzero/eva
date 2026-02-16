@@ -1,5 +1,5 @@
 {
-    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260213.jpg;md5;3c695518362841f59d1ade4506a860ab",
+    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260216.jpg;md5;70ede5af5668684d4b087a10fa147118",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -171,7 +171,7 @@
         },
         {
             "key": "光影2",
-            "name": "光影2",
+            "name": "光影2(SP)",
             "type": 3,
             "api": "csp_AppSxGuard",
             "timeout": 10,
@@ -192,6 +192,17 @@
             "ext": "rfOK0+FRORAJ7epFjN2F7bP2pj/S2dv+12kxb9+pQQpHMwhf/DAv+ahpb/AK395yqCLHO95E22owqzUyRqJqWIyC7r+JSyPqCPuBxumlV3vunAkpMUNO7IzyUAvpWItUc/s90m9ZW3utPd2r9BfgNsVJiEwsU0/4MGjtm7xEH5A8xm9NHJo1PflGchc71emjvM2a8kJQQNJEaMPlXmDCHN7nifbUsfHOSN+XY1sre39KfXMKYPIYtLdALABm565MmrEYxmUArbjXh4UP+KXycTX0GW1HVuCtU0B5ag=="
         },
         {
+            "key": "视界",
+            "name": "视界(SP)",
+            "type": 3,
+            "api": "csp_AppNoxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOK0+FRORAJ7epFjN2FsOb1+GqQnoi1lWpnKce9V0IZMxpf6yxk9eNgZeUK3MNzrGGcdpZC2H5zoS1uF+soEYzGuuXCAiOuXKzelf2sV2f621J5ZQ4c7pP8BFS7Fs0PEY8lpRhZWwqtPa6rhhvgNctJ9j0sLEz4Mhrtm89EFe48xmFNHps1S/1GchY72uijv7aa/zlQQ6REaL7lUmXCHtnni/jUsIDOSq2XESorCnJKfnEKa/QYtsdAUX9+jckWyvpXjSYtrOSAxtsspLn9bGehSG8SBuqoXBRnclRsUdCF4g=="
+        },
+        {
             "key": "播客",
             "name": "播客(SP)",
             "type": 3,
@@ -201,6 +212,17 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOK0+FRORAJ7epFjN2FsOb0+G+dnI21lWFvI8G1X0oOORAJ9GV87aJ0e7pO1NFrtWjZfNRTjiJz92xnFP1qSozOrPjICH+mT6DW1uW0R2X42VBkbwRN8JHlF0G6Fd5MCZdG0mBWVATZOKbUiB7mOcxNiEUrUDSBQmHp7MgwFZU4ymgyH+IwTPJPAh4+opPawrLh/T1YM6tDZLjgXhrGY9bs9/7QsIu1PqvuECJRdAZEDnRzG/wRyMxOU3sE8rYTzu1dh2Qss/eOxPcB5qHlcTv8FGpMBeuuUBFoLFZpAMDe"
+        },
+        {
+            "key": "播客2",
+            "name": "播客2(SP)",
+            "type": 3,
+            "api": "csp_AppNoxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOK0+FRORAJ7epFjN2FsOb0+G+dnI21lWFvI8G1X0oOORAJ9GV87aJ0e7pO1NFrtWjZfNRTjiJz92xnFP1qSozOqvjICH+mT6DW1uW0R2X+2VBkbwRN8JHlF0G6Fd5MCZdG0mBWVATZOKbUiB7mOcxNiEUrUDSBQmHp7MgwFZU4ymgyH+IwTPJPAh4+opPawrLh/T1YM6tDZLjgXhrGY9bs9/7QsIu1PqvuECJRdAZEDnRzG/wRyMxOU3sE8rYTzu1dh2Qss/eOxPcB5qHlfzSjSWBNBu/zUUBvI1poVMDe"
         },
         {
             "key": "猫猫",
@@ -223,6 +245,17 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+S3T18333j8hL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0k5GV9Quw0AIzUurGBVyPqCLrdirfpAz+n0Qh7PVBWo8uxWhO1Bs1MCYA1pCM="
+        },
+        {
+            "key": "爱影2",
+            "name": "爱影2(SP)",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+T/f39S8zDAiZ5+3AB0bcUIX63E2s7EhOq5X1M8s5yKOeMNFwX1htW9jAal7Rc+duvLCVGCiCPOCxu3v"
         },
         {
             "key": "奥特",
@@ -420,6 +453,14 @@
             "type": 3,
             "api": "csp_AppQi",
             "ext": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/juyu3.json|AAdgrdghjfgsABC1",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251225.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
+        },
+        {
+            "key": "方源",
+            "name": "方源(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://fyys9.fytd.top/1.txt|0ef6fc92a64b4e74",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251225.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
         },
         {
@@ -764,6 +805,18 @@
             "api": "http://115.191.55.109:8080/video/qqqys?token=47f318660fa5ca46"
         },
         {
+            "key": "金蝉",
+            "name": "金蝉(T4)",
+            "type": 4,
+            "api": "http://115.191.55.109:8080/video/jincan?token=47f318660fa5ca46"
+        },
+        {
+            "key": "清风",
+            "name": "清风(T4)",
+            "type": 4,
+            "api": "http://sspa8.top:8100/php/清风.php"
+        },
+        {
             "key": "csp_SaoHuo",
             "name": "火火(SP)",
             "type": 3,
@@ -808,8 +861,8 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260210.png;md5;c4def4496c2e1a0959c8fedfaff41488"
         },
         {
-            "key": "爱影2",
-            "name": "爱影2(SP)",
+            "key": "爱影3",
+            "name": "爱影3(SP)",
             "type": 3,
             "api": "csp_AppGetV2",
             "ext": "pghUv+IPbIqGFEhny2nISuI5KzOEA1E0lc1jMsyog/OYwSADcPIna2eOlbOHVLkxfaciWdUITQtbDmt+qom9EDLq0KWEj3SHoDu3fQMMBl1u2lBOF9gzpQ6FBQk/2JG/jDC6/VkvMcjNGodxs3pEU/+wMqkFAAGj4WF8XuTAwoo5JyFxX199zYzXgzxycMnb0i0okine9tS7+HOMNCBm+Eu+ADiWgMNGklY/fqFqBmkoDK3Gv5Uw4/f0TLQGJNOLkzwOtJeniAXX+FA5NI2d7QJN+JB6+ncywM2284y9i/0ghc0ACRL6sLLpn/k0lFIyV4bobtPaDWA4PnHaMTMGpbGHUxzPiebQbNA/J71KT4o=",
@@ -2877,6 +2930,12 @@
             "changeable": 1
         },
         {
+            "key": "柚子",
+            "name": "柚子(xml)",
+            "type": 0,
+            "api": "https://api.yzzy-api.com/inc/api.php"
+        },
+        {
             "key": "艾旦影视",
             "name": "艾旦影视(xml)",
             "type": 1,
@@ -3865,6 +3924,11 @@
             "url": "http://zo.gt.tc/o/i/HKTV.txt"
         },
         {
+            "name": "HKTV3",
+            "type": 0,
+            "url": "http://gc.gt.tc/c/HKTV.txt"
+        },
+        {
             "name": "蚂蚁",
             "type": 0,
             "url": "http://ox.my.to/i/蚂蚁.txt"
@@ -3910,6 +3974,11 @@
             "url": "http://1tv.dqtx.cc/"
         },
         {
+            "name": "dqtx2",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/dqtx760/1TV/refs/heads/main/index.html"
+        },
+        {
             "name": "蜂蜜",
             "type": 0,
             "url": "http://dd.ma/sXzhujlk",
@@ -3924,11 +3993,6 @@
             "name": "天浪",
             "type": 0,
             "url": "http://210.245.166.84:1299/live/live1.txt"
-        },
-        {
-            "name": "金海",
-            "type": 0,
-            "url": "https://l.gmbbk.com/upload/50435043.txt"
         },
         {
             "name": "clun",
@@ -3951,11 +4015,6 @@
             "name": "freetv",
             "type": 0,
             "url": "https://t.freetv.fun/m3u/playlist.txt"
-        },
-        {
-            "name": "海燕",
-            "type": 0,
-            "url": "https://chuxinya.top/f/p83JtA/海燕.txt"
         },
         {
             "name": "飞扬",
@@ -3991,6 +4050,21 @@
             "name": "tvzb9",
             "type": 0,
             "url": "http://d.jsy777.top/box/tvzb9.txt"
+        },
+        {
+            "name": "海燕",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/wujiangliu/live-sources/main/haiyan.txt"
+        },
+        {
+            "name": "电视家",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/wujiangliu/live-sources/main/电视家.m3u"
+        },
+        {
+            "name": "axzy",
+            "type": 0,
+            "url": "http://ax570383885.serv00.net/zy.txt"
         },
         {
             "name": "catvod_live",
