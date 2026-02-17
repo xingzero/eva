@@ -1,5 +1,5 @@
 {
-    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260216.jpg;md5;70ede5af5668684d4b087a10fa147118",
+    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260217.jpg;md5;e3401ec8d207b9d9a14bad13a67af3ee",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -162,34 +162,12 @@
             "key": "光影",
             "name": "光影(SP)",
             "type": 3,
-            "api": "csp_AppSxGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprG9un3+T/Ky8ijlm1jJ8+yU0seIgQe6DRwqrUqYeBZw91iuG3ZcN1Sz2Im+G8mF+shR+eNzbfXXm6lQP/dh6jgV3vuhAU7ZRwc9pSgTUu4VYIbAYdt+2ddGRy/WuLwxQbgQsRBzg=="
-        },
-        {
-            "key": "光影2",
-            "name": "光影2(SP)",
-            "type": 3,
-            "api": "csp_AppSxGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TrS2dv+1y8lL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0k4zImBOA4Uobe87udCDvyWafXmuGpRG3z0Vg1KUZQ7ty7UE+qFZ1UBoc16Q=="
-        },
-        {
-            "key": "米团",
-            "name": "米团(SP)",
-            "type": 3,
             "api": "csp_AppNoxGuard",
             "timeout": 10,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOK0+FRORAJ7epFjN2F7bP2pj/S2dv+12kxb9+pQQpHMwhf/DAv+ahpb/AK395yqCLHO95E22owqzUyRqJqWIyC7r+JSyPqCPuBxumlV3vunAkpMUNO7IzyUAvpWItUc/s90m9ZW3utPd2r9BfgNsVJiEwsU0/4MGjtm7xEH5A8xm9NHJo1PflGchc71emjvM2a8kJQQNJEaMPlXmDCHN7nifbUsfHOSN+XY1sre39KfXMKYPIYtLdALABm565MmrEYxmUArbjXh4UP+KXycTX0GW1HVuCtU0B5ag=="
+            "ext": "rfOK0+FRORAJ7epFjN2FsOb1+GqQnoi1lWpnKce9V0IZMxpf6yxk9eNgZeUK3MNzrGGcdpZC2H5zoS1uF+soEYzGuuXCAiOuXKzelf2sV2f621J5ZQ4c7pP8BFS7Fs0PEY8lpRhZWwqtPa6rhhvgNctJ9j0sLEz4Mhrtm89EFe48xmFNHps1S/1GchY72uijv7aa/zlQQ6REaL7lUmXCHtnni/jUsIDOSq2XESorCnJKfnEKa/QYtsdAUX9+jckWyvpX3A=="
         },
         {
             "key": "视界",
@@ -200,29 +178,18 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOK0+FRORAJ7epFjN2FsOb1+GqQnoi1lWpnKce9V0IZMxpf6yxk9eNgZeUK3MNzrGGcdpZC2H5zoS1uF+soEYzGuuXCAiOuXKzelf2sV2f621J5ZQ4c7pP8BFS7Fs0PEY8lpRhZWwqtPa6rhhvgNctJ9j0sLEz4Mhrtm89EFe48xmFNHps1S/1GchY72uijv7aa/zlQQ6REaL7lUmXCHtnni/jUsIDOSq2XESorCnJKfnEKa/QYtsdAUX9+jckWyvpXjSYtrOSAxtsspLn9bGehSG8SBuqoXBRnclRsUdCF4g=="
+            "ext": "rfOK0+FRORAJ7epFjN2FsOb0+G+dnI21lWFvI8G1X0oOORAJ9GV87aJ0e7pO1NFrtWjZfNRTjiJz92xnFP1qSozOqvjICH+mT6DW1uW0R2X+2VBkbwRN8JHlF0G6Fd5MCZdG0mBWVATZOKbUiB7mOcxNiEUrUDSBQmHp7MgwFZU4ymgyH+IwTPJPAh4+opPawrLh/T1YM6tDZLjgXhrGY9bs9/7QsIu1PqvuECJRdAZEDnRzG/wRyMxOU3sE8rYTzu0M"
         },
         {
             "key": "播客",
             "name": "播客(SP)",
             "type": 3,
-            "api": "csp_AppNoxGuard",
+            "api": "csp_AppSxGuard",
             "timeout": 10,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOK0+FRORAJ7epFjN2FsOb0+G+dnI21lWFvI8G1X0oOORAJ9GV87aJ0e7pO1NFrtWjZfNRTjiJz92xnFP1qSozOrPjICH+mT6DW1uW0R2X42VBkbwRN8JHlF0G6Fd5MCZdG0mBWVATZOKbUiB7mOcxNiEUrUDSBQmHp7MgwFZU4ymgyH+IwTPJPAh4+opPawrLh/T1YM6tDZLjgXhrGY9bs9/7QsIu1PqvuECJRdAZEDnRzG/wRyMxOU3sE8rYTzu1dh2Qss/eOxPcB5qHlcTv8FGpMBeuuUBFoLFZpAMDe"
-        },
-        {
-            "key": "播客2",
-            "name": "播客2(SP)",
-            "type": 3,
-            "api": "csp_AppNoxGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "rfOK0+FRORAJ7epFjN2FsOb0+G+dnI21lWFvI8G1X0oOORAJ9GV87aJ0e7pO1NFrtWjZfNRTjiJz92xnFP1qSozOqvjICH+mT6DW1uW0R2X+2VBkbwRN8JHlF0G6Fd5MCZdG0mBWVATZOKbUiB7mOcxNiEUrUDSBQmHp7MgwFZU4ymgyH+IwTPJPAh4+opPawrLh/T1YM6tDZLjgXhrGY9bs9/7QsIu1PqvuECJRdAZEDnRzG/wRyMxOU3sE8rYTzu1dh2Qss/eOxPcB5qHlfzSjSWBNBu/zUUBvI1poVMDe"
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+SDcz8rnlT83d5z3FhMaeEUUqDo3pqx1fbpMycIs9SKEeN0FligzxT55OaAlO5qM0+WFfzCsCLA="
         },
         {
             "key": "猫猫",
@@ -351,6 +318,50 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+TXe0NPv1yt7LM60XkwYLA1No3EluLI1d/gV1t5vq2+PaJZO0X8y4XhhFKorB8fL8quaRzegVrmV3P39FC7u1UYsIlVb07zwEm/4Hc0/c9s1snJBF1/lWqakhRaj"
+        },
+        {
+            "key": "光影2",
+            "name": "光影2(SP)",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+T/Ky8ijlm1jJ8+yU0seIgQe6DRwqrUqYeBZw91iuG3ZcN1Sz2Im+G8mF+shR+eNzbfXXm6lQP/dh6jgV3vuhAU7ZRwc9pSgTUu4VYIbAYdt+2ddGRy/WuLwxQbgQsRBzg=="
+        },
+        {
+            "key": "光影3",
+            "name": "光影3(SP)",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TrS2dv+1y8lL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0k4zImBOA4Uobe87udCDvyWafXmuGpRG3z0Vg1KUZQ7ty7UE+qFZ1UBoc16Q=="
+        },
+        {
+            "key": "米团",
+            "name": "米团(SP)",
+            "type": 3,
+            "api": "csp_AppNoxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOK0+FRORAJ7epFjN2F7bP2pj/S2dv+12kxb9+pQQpHMwhf/DAv+ahpb/AK395yqCLHO95E22owqzUyRqJqWIyC7r+JSyPqCPuBxumlV3vunAkpMUNO7IzyUAvpWItUc/s90m9ZW3utPd2r9BfgNsVJiEwsU0/4MGjtm7xEH5A8xm9NHJo1PflGchc71emjvM2a8kJQQNJEaMPlXmDCHN7nifbUsfHOSN+XY1sre39KfXMKYPIYtLdALABm565MmrEYxmUArbjXh4UP+KXycTX0GW1HVuCtU0B5ag=="
+        },
+        {
+            "key": "播客2",
+            "name": "播客2(SP)",
+            "type": 3,
+            "api": "csp_AppNoxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOK0+FRORAJ7epFjN2FsOb0+G+dnI21lWFvI8G1X0oOORAJ9GV87aJ0e7pO1NFrtWjZfNRTjiJz92xnFP1qSozOrPjICH+mT6DW1uW0R2X42VBkbwRN8JHlF0G6Fd5MCZdG0mBWVATZOKbUiB7mOcxNiEUrUDSBQmHp7MgwFZU4ymgyH+IwTPJPAh4+opPawrLh/T1YM6tDZLjgXhrGY9bs9/7QsIu1PqvuECJRdAZEDnRzG/wRyMxOU3sE8rYTzu1dh2Qss/eOxPcB5qHlcTv8FGpMBeuuUBFoLFZpAMDe"
         },
         {
             "key": "剧多多",
@@ -861,14 +872,6 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260210.png;md5;c4def4496c2e1a0959c8fedfaff41488"
         },
         {
-            "key": "爱影3",
-            "name": "爱影3(SP)",
-            "type": 3,
-            "api": "csp_AppGetV2",
-            "ext": "pghUv+IPbIqGFEhny2nISuI5KzOEA1E0lc1jMsyog/OYwSADcPIna2eOlbOHVLkxfaciWdUITQtbDmt+qom9EDLq0KWEj3SHoDu3fQMMBl1u2lBOF9gzpQ6FBQk/2JG/jDC6/VkvMcjNGodxs3pEU/+wMqkFAAGj4WF8XuTAwoo5JyFxX199zYzXgzxycMnb0i0okine9tS7+HOMNCBm+Eu+ADiWgMNGklY/fqFqBmkoDK3Gv5Uw4/f0TLQGJNOLkzwOtJeniAXX+FA5NI2d7QJN+JB6+ncywM2284y9i/0ghc0ACRL6sLLpn/k0lFIyV4bobtPaDWA4PnHaMTMGpbGHUxzPiebQbNA/J71KT4o=",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260210.png;md5;c4def4496c2e1a0959c8fedfaff41488"
-        },
-        {
             "key": "顾我",
             "name": "顾我(SP)",
             "type": 3,
@@ -1050,6 +1053,7 @@
             "name": "易剧集(XPF)",
             "type": 3,
             "api": "csp_XPathFilter",
+            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XPF/kktvb.json",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
@@ -1073,14 +1077,6 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
         {
-            "key": "秀儿",
-            "name": "秀儿(XP)",
-            "type": 3,
-            "api": "csp_XPath",
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XP/xiuer.json",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
-        },
-        {
             "key": "YY粤语",
             "name": "YY粤语(XP)",
             "type": 3,
@@ -1089,11 +1085,12 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
         {
-            "key": "每日",
-            "name": "每日(xml)",
-            "type": 1,
-            "api": "https://mrgj.cc/api.php/provide/vod/",
-            "timeout": 15
+            "key": "秀儿",
+            "name": "秀儿(XP)",
+            "type": 3,
+            "api": "csp_XPath",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XP/xiuer.json",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
         {
             "key": "老雅",
@@ -1520,6 +1517,14 @@
             "name": "天空(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/天空影视.py"
+        },
+        {
+            "key": "咕噜",
+            "name": "咕噜(fox)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
+            "ext": "http://www.yingsw.top",
+            "ver": 3
         },
         {
             "key": "木瓜",
@@ -4032,7 +4037,7 @@
             "url": "http://a.xncjys.xyz/dszb/xnds.txt"
         },
         {
-            "name": "d8ws",
+            "name": "光影",
             "type": 0,
             "url": "http://110.42.63.134:8889/down/d8wSCuYMIDmz.m3u"
         },
