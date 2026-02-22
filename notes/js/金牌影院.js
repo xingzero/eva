@@ -1,6 +1,6 @@
 import 'assets://js/lib/crypto-js.js';
 const { HOSTS, KEY, USER_AGENT } = {
-  HOSTS: ["https://hnytxj.com","https://www.hkybqufgh.com","https://www.sizhengxt.com","https://www.sdzhgt.com","https://www.jiabaide.cn","https://m.9zhoukj.com","https://m.cqzuoer.com","https://www.hellosht52bwb.com"],
+  HOSTS: ["https://www.hkybqufgh.com","https://www.sizhengxt.com","https://www.sdzhgt.com","https://www.jiabaide.cn","https://m.9zhoukj.com","https://m.cqzuoer.com","https://www.hellosht52bwb.com","https://hnytxj.com"],
   KEY: "cb808529bae6b6be45ecfab29a4889bc",
   USER_AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.61 Safari/537.36"
 };

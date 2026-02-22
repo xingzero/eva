@@ -1,11 +1,12 @@
 //发布页网址：https://i.qg50.com/
 //发布页网址：https://ho9.cc/lmm
 //发布页网址：https://ho9.net/lmm
+//永久网址：https://www.lmmzx.com
 {
  "ua": "",
- "homeUrl": "https://www.lmm50.com",
+ "homeUrl": "https://www.lmm85.com",
  "dcVipFlag": "true",
- "pCfgJs": "https://www.lmm50.com/static/js/playerconfig.js",
+ "pCfgJs": "https://www.lmm85.com/static/js/playerconfig.js",
  "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
  "dcShow2Vip": {},
  "dcPlayUrl": "true",
@@ -26,7 +27,7 @@
  "homeVodImg": "//div[@class='img-box cover-md']/a/img/@data-src",
  "homeVodImgR": "\\S+(http\\S+)",
  "homeVodMark": "//div[@class='img-box cover-md']/a/div/span/text()",
- "cateUrl": "https://www.lmm50.com/vod/show/id/{cateId}/page/{catePg}/year/{year}/by/{by}.html",
+ "cateUrl": "https://www.lmm85.com/vod/show/id/{cateId}/page/{catePg}/year/{year}/by/{by}.html",
  "cateVodNode": "//div[@class='col-6 col-sm-4 col-lg-3']",
  "cateVodName": "//div[@class='detail']/h6/a/text()",
  "cateVodId": "//div[@class='detail']/h6/a/@href",
@@ -34,7 +35,7 @@
  "cateVodImg": "//div[@class='img-box cover-md']/a/img/@data-src",
  "cateVodImgR": "\\S+(http\\S+)",
  "cateVodMark": "//div[@class='img-box cover-md']/a/div/span/text()",
- "dtUrl": "https://www.lmm50.com/detail/{vid}.html",
+ "dtUrl": "https://www.lmm85.com/detail/{vid}.html",
  "dtNode": "//section[@class='pb-3 pb-e-lg-30']",
  "dtName": "//div[@class='video-info']/div[@class='video-info-header']/h1/text()",
  "dtNameR": "",
@@ -63,9 +64,9 @@
  "dtUrlIdR": "/play/(\\S+).html",
  "dtUrlName": "/span/text()",
  "dtUrlNameR": "",
- "playUrl": "https://www.lmm50.com/play/{playUrl}.html",
+ "playUrl": "https://www.lmm85.com/play/{playUrl}.html",
  "playUa": "",
- "searchUrl": "https://www.lmm50.com/ajax/suggest?mid=1&wd={wd}",
+ "searchUrl": "https://www.lmm85.com/ajax/suggest?mid=1&wd={wd}",
  "scVodNode": "json:list",
  "scVodName": "name",
  "scVodId": "id",
