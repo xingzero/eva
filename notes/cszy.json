@@ -419,14 +419,6 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260228.png;md5;96a8b5e130d6aac01a449bd006f9a460"
         },
         {
-            "key": "厂长2",
-            "name": "厂长2(SP)",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "ext": "https://www.cz01.org",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260228.png;md5;96a8b5e130d6aac01a449bd006f9a460"
-        },
-        {
             "key": "荐片2",
             "name": "荐片2(SP)",
             "type": 3,
@@ -562,8 +554,8 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260228.png;md5;96a8b5e130d6aac01a449bd006f9a460"
         },
         {
-            "key": "爱影6",
-            "name": "爱影6(SP)",
+            "key": "爱影5",
+            "name": "爱影5(SP)",
             "type": 3,
             "api": "csp_AppQi",
             "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q18.txt|fff32466kkf87666",
@@ -575,6 +567,14 @@
             "type": 3,
             "api": "csp_AppQi",
             "ext": "https://juziapp-1319209748.cos.ap-chengdu.myqcloud.com/juzi.txt|jasaFBcdV3zrUDf2|305",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260228.png;md5;96a8b5e130d6aac01a449bd006f9a460"
+        },
+        {
+            "key": "小羊",
+            "name": "小羊(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://xy4k.com/url.txt|7SDWjknU34zqFbVr",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260228.png;md5;96a8b5e130d6aac01a449bd006f9a460"
         },
         {
@@ -930,14 +930,6 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260227.jpg;md5;aaa9b40512e3477914a8c27430b05b2b"
         },
         {
-            "key": "橘子5",
-            "name": "橘子5(nox)",
-            "type": 3,
-            "api": "csp_AppNox",
-            "ext": "YLWJkztQiwSjuZDrZ91gip8ZpX/jAcq+e6JYZJ1zu9qVBMl4/yJwa3gHDaHenBMoRodJbXRStSjAY3TvKzVibVjhM6gyO3D23RaVDa99kFD1571FT72h+Hdqw0lZTejHxIduMZbuO6vur2CS41T4TxM0v1hrNszRCSd6B72KQh8ED57otSzRgAisD6RBFvP/8MCWgGzLS6jzlnrStAaE9AHBEzv7RJNLuPpy10eBo2c=",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260227.jpg;md5;aaa9b40512e3477914a8c27430b05b2b"
-        },
-        {
             "key": "爱影3",
             "name": "爱影3(nox)",
             "type": 3,
@@ -948,14 +940,6 @@
         {
             "key": "爱影4",
             "name": "爱影4(SP)",
-            "type": 3,
-            "api": "csp_AppGetV2",
-            "ext": "7DgWlrk+zTw/OTxcOCwV3r7Lpk/K0TtaGVKJShO/E6Lk6FeK68XEx1pCxXVGd79dHo3uoVmkO8cjE/OPrzfqwtqkLmII0OFhC+/yXTQYD1LnjTjwaziomg6j1QgFlaH8SiWSpPbCdJ793wFaE6h/B0Gu8rh1IIA6oSO5q1t+wC5J3bwWj68Ld5wJv85CyjZ0FZaAPxa3AEpX2qHwf6pxlSfXxW0+QrujAQyyGrboM4p1W/QMVGUY4TInedIR3s9XjQ9dtYsoyDE3W2Q2yDaW+HssklIUDZB4wP+fzQWFItdjG1QYDAki8rLiMUha/kMh5rCVIreKFUzrDC5Bq8GVo8BzSc1c3B2G78i3/lmFS87IfEMv9cU5TYXXbbnvphZOAWONg5fMXYgXhets5TtPzzwwdleVgQ+2hHE+7bJXqsoOQi5SgKT2+4vMI+h7c9xDXGZaLlfWpfFcWuSkZ3xnXUMLzUM1aN114TEOUtYcxM5ZdiGBhaYWS9+7YF4KwmZ+lj52a59sbTBxrTDuX7ueObojalskLlsfobtEfskw4xg=",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260227.jpg;md5;aaa9b40512e3477914a8c27430b05b2b"
-        },
-        {
-            "key": "爱影5",
-            "name": "爱影5(SP)",
             "type": 3,
             "api": "csp_AppGetV2",
             "ext": "JyrToknN5uLOlsitzBJ39qJnMEaMwQSAZR9uzkp9v3yJBtK2PrAcXhJnNjiixwS6vrWirQq42oP1txl1xVAoYP49Qgrx/rSRifuVbQBUp1DvxJesyvbDHvbKT8ppv0MAilXO8AkJlUgmjy6AqHJO73w3Up22TCgIHEbLqDf2aKJYMdJSpprdIvkp9sNcDsyD92j1DwuSQtYH6DmSxBtoUkMicrkmW4b7Lb9YKoQnk1hxL5N1O0EOuKkeOxldYKOyIc49RB9tgtHbpcEOrKtpsAfn15/fuAoxrlCWhXu1D7gZeBEgOxpevXYjcaF8VxWA0mDVphQfqxDlek5hRNTy08hRWfN19oZaiLeyh3ifWEfcMjp00PjNvwTkJSOsxBhnMSPLp87yZ+cqf230cVXoZzQm+kkuzSPFeuQGdn+sRWeElOSKwY/voalPkuQgpf3VTIM8AAQpuYIisxOyoLFHGTTe7aVTYu3gAHKjnoPxX4P1zNW23JAxxEpfcK/lk4D9VFnOVTfVMSP/2GA/y79C4g==",
@@ -3563,16 +3547,6 @@
             "epg": "https://epg.diypapp.sbs/epg.php?ch={name}&date={date}"
         },
         {
-            "name": "潇雨",
-            "type": 0,
-            "url": "http://43.251.226.89:8080/live.txt"
-        },
-        {
-            "name": "潇雨2",
-            "type": 0,
-            "url": "http://43.251.226.89:8080/live.m3u"
-        },
-        {
             "name": "ds65",
             "type": 0,
             "url": "https://ds65.tv1288.xyz/"
@@ -3663,19 +3637,9 @@
             "url": "https://epg.pw/test_channels_hong_kong.m3u"
         },
         {
-            "name": "裤佬",
-            "type": 0,
-            "url": "https://upld.zone.id/uploads/q9iq9e5iq/lvse.txt"
-        },
-        {
             "name": "风云",
             "type": 0,
             "url": "http://iptv.4666888.xyz/FYTV.txt"
-        },
-        {
-            "name": "BXTV",
-            "type": 0,
-            "url": "https://bxtv.3a.ink/live.m3u"
         },
         {
             "name": "lalifeier",
@@ -3694,16 +3658,6 @@
         },
         {
             "name": "HKTV",
-            "type": 0,
-            "url": "http://gc.gt.tc/o/i/HKTV.txt"
-        },
-        {
-            "name": "HKTV2",
-            "type": 0,
-            "url": "http://zo.gt.tc/o/i/HKTV.txt"
-        },
-        {
-            "name": "HKTV3",
             "type": 0,
             "url": "http://gc.gt.tc/c/HKTV.txt"
         },
@@ -3738,11 +3692,6 @@
             "url": "http://iptv.ruyitv.cc/m3u/tv.txt"
         },
         {
-            "name": "Bpjt",
-            "type": 0,
-            "url": "http://txt.gt.tc/users/Bpjt.txt"
-        },
-        {
             "name": "阿烈",
             "type": 0,
             "url": "http://zo.xo.je/2/i/综艺.txt"
@@ -3756,12 +3705,6 @@
             "name": "dqtx2",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/dqtx760/1TV/refs/heads/main/index.html"
-        },
-        {
-            "name": "蜂蜜",
-            "type": 0,
-            "url": "http://dd.ma/sXzhujlk",
-            "ua": "Lavf/58.12.100"
         },
         {
             "name": "蜂巢",
@@ -3809,11 +3752,6 @@
             "name": "小南",
             "type": 0,
             "url": "http://a.xncjys.xyz/dszb/xnds.txt"
-        },
-        {
-            "name": "光影",
-            "type": 0,
-            "url": "http://110.42.63.134:8889/down/d8wSCuYMIDmz.m3u"
         },
         {
             "name": "临时",
