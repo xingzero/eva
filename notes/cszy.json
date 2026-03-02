@@ -610,6 +610,14 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260228.png;md5;96a8b5e130d6aac01a449bd006f9a460"
         },
         {
+            "key": "缘梦2",
+            "name": "缘梦2(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://www.zipfve.cn|1234567890987654",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260228.png;md5;96a8b5e130d6aac01a449bd006f9a460"
+        },
+        {
             "key": "王子",
             "name": "王子(SP)",
             "type": 3,
@@ -1157,6 +1165,12 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/永乐视频2.js"
         },
         {
+            "key": "HDmoli",
+            "name": "HDmoli",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/HDmoli3.js"
+        },
+        {
             "key": "apple",
             "name": "apple",
             "type": 3,
@@ -1185,6 +1199,30 @@
             "name": "金牌3",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/金牌影院.js"
+        },
+        {
+            "key": "茶狐",
+            "name": "茶狐",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/茶杯狐3.js"
+        },
+        {
+            "key": "月光",
+            "name": "月光",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/月光影视.js"
+        },
+        {
+            "key": "星辰",
+            "name": "星辰",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/星辰影院.js"
+        },
+        {
+            "key": "爱看机器人",
+            "name": "爱看机器人",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/爱看机器人.js"
         },
         {
             "key": "文才",
@@ -1424,6 +1462,13 @@
                 "versionCode": "10000",
                 "UMENG_CHANNEL": "guan"
             }
+        },
+        {
+            "key": "恋鱼",
+            "name": "恋鱼(fox)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
+            "ext": "http://103.117.137.33:2443"
         },
         {
             "key": "咕噜",
@@ -1895,6 +1940,14 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
+            "key": "VS影视",
+            "name": "VS影视(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/VS影视.json",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
             "key": "小镇",
             "name": "小镇(XBPQ)",
             "type": 3,
@@ -2269,6 +2322,14 @@
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/壹影视1.js"
         },
         {
+            "key": "100听书",
+            "name": "100听书(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/100听书.json",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
             "key": "六月听书(js)",
             "name": "六月听书(js)",
             "type": 3,
@@ -2442,6 +2503,12 @@
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/lib4/drpy2.min.js",
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/音乐磁场.js"
+        },
+        {
+            "key": "人人",
+            "name": "人人(T4)",
+            "type": 4,
+            "api": "http://jiduo666.dpdns.org/rrsp.php"
         },
         {
             "key": "小苹果",
@@ -2919,11 +2986,25 @@
             "changeable": 0
         },
         {
+            "key": "凤凰FM",
+            "name": "凤凰FM(js)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/lib4/drpy2.min.js",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/凤凰FM.js"
+        },
+        {
             "key": "蜻蜓FM",
             "name": "蜻蜓收音(js)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/lib4/drpy2.min.js",
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/蜻蜓FM.js"
+        },
+        {
+            "key": "戏曲大全",
+            "name": "戏曲大全(js)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/lib4/drpy2.min.js",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/戏曲大全.js"
         },
         {
             "key": "seed",
@@ -3715,6 +3796,11 @@
             "name": "天浪",
             "type": 0,
             "url": "http://210.245.166.84:1299/live/live1.txt"
+        },
+        {
+            "name": "FZv",
+            "type": 0,
+            "url": "http://129.211.14.102:50085/sub?7pVBnFZv=txt"
         },
         {
             "name": "clun",
