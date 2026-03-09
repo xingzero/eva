@@ -244,6 +244,12 @@
             "api": "https://xingba222.com/api.php/provide/vod/?ac=list"
         },
         {
+            "key": "杏吧2",
+            "name": "杏吧2",
+            "type": 1,
+            "api": "https://json.xingba222.com/api.php/provide/vod/"
+        },
+        {
             "key": "百度",
             "name": "百度",
             "type": 1,
@@ -274,8 +280,8 @@
             "api": "https://api.998zy.com/api.php/provide/vod/at/json/"
         },
         {
-            "key": "杏吧2",
-            "name": "杏吧2",
+            "key": "杏吧3",
+            "name": "杏吧3",
             "type": 1,
             "api": "https://api.xgbbk8.com/api.php/provide/vod/?ac=list"
         },
@@ -1344,6 +1350,12 @@
             "name": "中文X直播(飞)",
             "type": 1,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/franksun1211/TXT/main/TVbox/E8jin/lib/中文X直播.py"
+        },
+        {
+            "key": "souavzyw",
+            "name": "souavzyw",
+            "type": 1,
+            "api": "https://api.souavzyw.net/api.php/provide/vod/?ac=list"
         },
         {
             "key": "辣椒2",
