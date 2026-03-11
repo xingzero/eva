@@ -198,7 +198,8 @@
             "key": "奶香",
             "name": "奶香",
             "type": 1,
-            "api": "https://naixxzy.com/api.php/provide/vod/?ac=list"
+            "api": "https://naixxzy.com/api.php/provide/vod/?ac=list",
+            "playUrl": "https://nxbfvod.com/?url="
         },
         {
             "key": "幸福",
@@ -435,12 +436,12 @@
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/经典三部曲.json"
         },
         {
-            "key": "经典三部曲",
-            "name": "经典三部曲",
+            "key": "哥布林",
+            "name": "哥布林",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/经典三部曲.json"
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/哥布林.json"
         },
         {
             "key": "91吃瓜",
