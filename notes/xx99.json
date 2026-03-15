@@ -198,8 +198,7 @@
             "key": "奶香",
             "name": "奶香",
             "type": 1,
-            "api": "https://naixxzy.com/api.php/provide/vod/?ac=list",
-            "playUrl": "https://nxbfvod.com/?url="
+            "api": "https://naixxzy.com/api.php/provide/vod/?ac=list"
         },
         {
             "key": "幸福",
