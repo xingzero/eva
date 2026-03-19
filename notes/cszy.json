@@ -949,21 +949,6 @@
             }
         },
         {
-            "key": "小鸟",
-            "name": "小鸟(SP)",
-            "type": 3,
-            "api": "https://13826.kstore.vip/getapp.py",
-            "ext": {
-                "host": "http://154.222.26.58:7788",
-                "指定域名": "1",
-                "数据密钥": "guodan2004031600",
-                "数据向量": "guodan2004031600",
-                "接口版本": "/api.php/getappapi",
-                "登录类型": "token",
-                "认证令牌": "fd035ffa03d62775add295bfbb7d99c131e0bb49bb9451309b0ffc4df1631146"
-            }
-        },
-        {
             "key": "csp_Duanju",
             "name": "短剧(SP)",
             "type": 3,
@@ -1516,20 +1501,6 @@
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
             "ext": "https://qh.70qh.top"
-        },
-        {
-            "key": "柳花",
-            "name": "柳花(fox)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
-            "ext": "http://nico.oiio.fun"
-        },
-        {
-            "key": "火花",
-            "name": "火花(fox)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
-            "ext": "http://huohua.itcxo.cn"
         },
         {
             "key": "粉象",
@@ -2698,8 +2669,7 @@
             "key": "金蝉",
             "name": "金蝉(xml)",
             "type": 1,
-            "api": "https://zy.jinchancaiji.com/api.php/provide/vod/?ac=list",
-            "playUrl": "json:http://114.66.40.16:7700/api.php?url="
+            "api": "https://zy.jinchancaiji.com/api.php/provide/vod/?ac=list"
         },
         {
             "key": "影视狗",
