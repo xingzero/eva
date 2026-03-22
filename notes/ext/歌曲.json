@@ -433,7 +433,7 @@
       "type_id": "吾爱评测"
     }
   ], 
-  "filter": {
+  "filters": {
     "搞笑": [
       {
         "key": "duration", 

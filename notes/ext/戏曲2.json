@@ -185,7 +185,7 @@
       "type_id": "高腔超清"
     }
   ], 
-  "filter": {
+  "filters": {
     "搞笑": [
       {
         "key": "duration", 

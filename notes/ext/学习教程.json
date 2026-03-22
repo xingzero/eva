@@ -157,7 +157,7 @@
             "type_id": "影视仓教程"
         }
     ],
-    "filter": {
+    "filters": {
         "C语言": [
             {
                 "key": "order",

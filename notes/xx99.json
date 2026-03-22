@@ -238,6 +238,12 @@
             "api": "https://vnzyz.com/api.php/provide/vod/"
         },
         {
+            "key": "裤佬",
+            "name": "裤佬",
+            "type": 1,
+            "api": "https://19q.cc/api.php/provide/vod"
+        },
+        {
             "key": "杏吧",
             "name": "杏吧",
             "type": 1,

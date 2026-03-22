@@ -117,7 +117,7 @@
       "type_id": "高中信息技术"
     }
   ], 
-  "filter": {
+  "filters": {
     "高一语文": [
       {
         "key": "tid", 

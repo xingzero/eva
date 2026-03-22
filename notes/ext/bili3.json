@@ -125,7 +125,7 @@
       "type_id": "北师大版课程"
     }  
   ], 
-  "filter": {
+  "filters": {
     "美食超清": [
       {
         "key": "order", 

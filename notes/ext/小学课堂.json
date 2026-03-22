@@ -77,7 +77,7 @@
       "type_id": "6年级英语"
     }
   ], 
-  "filter": {
+  "filters": {
     "1年级语文": [
       {
         "key": "tid", 

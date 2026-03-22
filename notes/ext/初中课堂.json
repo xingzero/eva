@@ -101,7 +101,7 @@
       "type_id": "9年级化学"
     }
   ], 
-  "filter": {
+  "filters": {
     "7年级语文": [
       {
         "key": "tid", 
