@@ -162,23 +162,23 @@
             "key": "光影",
             "name": "光影(SP)",
             "type": 3,
-            "api": "csp_AppNoxGuard",
+            "api": "csp_AppSxGuard",
             "timeout": 10,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOK0+FRORAJ7epFxdCFsq+gvTWZ1sP1yzpkeoroQVYOZVlfpWUluKg1buFZwtJ5rmyCc81Gmm8l/S04Vu07Edyx+PjaCDPgGfSG1ve0CzC7jwVkfQQLo9y7UE+9AtYPEY8lpWxXXwC1UL7i2kusEoYCxR40Vyz9QmHpksg7b5U7tmhKauIyMPI5ch4925OnzLKU/z0oQKs+F7juVxq2btae9f6uxIvGO6vuYiIsDQYxD3QEYPwfysw7LXt18bYZyfVH5j58+aDT5YAg96GEDm/zFmU9W/3k"
+            "ext": "rfOX1voDIQhH8epBwpmIsuSzojrZxdTnzy4lcpy3AAlFMxpf9CY77fshLs0O9fE94T6hWZAWnkpluC1p"
         },
         {
             "key": "视界",
             "name": "视界(SP)",
             "type": 3,
-            "api": "csp_AppNoxGuard",
+            "api": "csp_AppSxGuard",
             "timeout": 10,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOK0+FRORAJ7epFjN2FsOb0+G+dnI+4lWpuLce9V0IYMxpf6yxk9eNgZeUKx9NtuGiHL8VT2Ch5q3FzA/wpUpTequjCAiOuXKzelf2sV2H63VJyZQ4c7pP8BFS7Fs0PEY8l0RhZXAOtNtyr8hvgS7hJiUAsUDP4QRvtkbFEb5s8uhxNaug1QfpGf2o72OyjvreagTpQQNBEaLPlXB3CE6LnhIbUuoXOOtSXE1grCABKC38KFogYurdAWX9+j7EWxPpX3A=="
+            "ext": "rfOX1voDIQhH8epBwpmIsuS1pDrb3t3j0G9nLcv9Hk5HJ1EK9mVu7apib64Gl9tN42ugKclqmXsYtX9DROtqWIyC+ajCEDTiGLA="
         },
         {
             "key": "花花",
@@ -190,6 +190,17 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+TbEn4q2l2kibom2DB9cJ0IB72Vu7apib64Gl9Ew6WDTJcIVzWsluDxqEaBqWIyM77GBXCPqCPmCyOr3RGfwjlsjchkArMHzTFT1VY9QUooz8m8BXA2mSa/whkG7SpZP100qUm6hMmTjm8YQQ51m6mxEE7hhEK1eNQ=="
+        },
+        {
+            "key": "播客",
+            "name": "播客(SP)",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOX1voDIQhH8epBwpmIsuS1pGyZxdH63T1kep6jS1xHcE9fpWUnrqJhf/sMidJ9qDXccstMjiJz925iVqZ9QpyF"
         },
         {
             "key": "爱影",
@@ -298,8 +309,8 @@
             "ext": "rfOX1voDIQhH8epBwpmIsuStuSyZxtH332ksdImjS1xHcE9fpWVy8fNjc+8DhNI67j3SJZRGjnM="
         },
         {
-            "key": "app1",
-            "name": "app1(SP)",
+            "key": "数字",
+            "name": "数字(SP)",
             "type": 3,
             "api": "csp_AppSxGuard",
             "timeout": 10,
@@ -331,8 +342,8 @@
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+T/f39S8zDAiZ5+3AB0bcUIX63E2s7EhOq5X1M8s5yKOeMNFwX1htW9jAal7Rc+duvLCVGCiCPOCxu3v"
         },
         {
-            "key": "爱影3",
-            "name": "爱影3(SP)",
+            "key": "爱营",
+            "name": "爱营(SP)",
             "type": 3,
             "api": "csp_AppSxGuard",
             "timeout": 10,
@@ -342,8 +353,8 @@
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+S3T18333j8hL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0k5GV9Quw0AIzUurGBVyPqCLrdirfpAz+n0Qh7PVBWo8uxWhO1Bs1MCYA1pCM="
         },
         {
-            "key": "仓鼠2",
-            "name": "仓鼠2(SP)",
+            "key": "仓鼠",
+            "name": "仓鼠(SP)",
             "type": 3,
             "api": "csp_AppSxGuard",
             "timeout": 10,
@@ -401,7 +412,7 @@
             "name": "荐片2(SP)",
             "type": 3,
             "api": "csp_Jianpian",
-            "ext": "https://ev2089.zxbwv.com",
+            "ext": "https://fg7q8g.zxesz.com",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260313.png;md5;9c8e45f60d3d413d8b140ec21811deb0"
         },
         {
@@ -644,8 +655,8 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260313.png;md5;9c8e45f60d3d413d8b140ec21811deb0"
         },
         {
-            "key": "数字",
-            "name": "数字(SP)",
+            "key": "数字2",
+            "name": "数字2(SP)",
             "type": 3,
             "api": "csp_AppGet",
             "ext": "http://app1-0-0.87333.cc|VwsHxkCViDXEExWa",
@@ -799,8 +810,8 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260320.png;md5;be34098bc78d1b0cf269c2617e8df966"
         },
         {
-            "key": "仓鼠APP",
-            "name": "仓鼠APP(SP)",
+            "key": "仓鼠2",
+            "name": "仓鼠2(SP)",
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://cs450appcms.cs4k.top|cD7wZ7iY6qN3sU1z",
@@ -823,16 +834,16 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260320.png;md5;be34098bc78d1b0cf269c2617e8df966"
         },
         {
-            "key": "橘子5",
-            "name": "橘子5(SP)",
+            "key": "橘子3",
+            "name": "橘子3(SP)",
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://juziapp-1319209748.cos.ap-chengdu.myqcloud.com/juzi.txt|jasaFBcdV3zrUDf2|122",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260320.png;md5;be34098bc78d1b0cf269c2617e8df966"
         },
         {
-            "key": "顾我3",
-            "name": "顾我3(SP)",
+            "key": "顾我",
+            "name": "顾我(SP)",
             "type": 3,
             "api": "csp_AppGet",
             "ext": "http://117.50.204.35:520|ca94b06ca3c7d80e|122",
@@ -847,92 +858,12 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260320.png;md5;be34098bc78d1b0cf269c2617e8df966"
         },
         {
-            "key": "米诺2",
-            "name": "米诺2(SP)",
-            "type": 3,
-            "api": "csp_AppGetV2",
-            "ext": "bRtykTI0E/bflZnq1JM3e08RuRCBH84G7OpoWQIgGOV+FFHUNVByXZ0PFvPhpPxRBzNuTy7q7aY9yW4R5EfO5khk4s55/MhnaGXG98lcl2M7gYEonc1PXB8ZTpZPaqzEYApqpaUgi4X9Fs1KuHe741V1gyL2fgkKVEG9OwrVfh3a16ZU2kntzJJ5YADoDK+6BOmUHYp9HFK8RaREcKVxq3riMmx723Loo1oVLapeum9+QsIU+EFOB2KTxCVaX6Cd/rafn8eTFlzZ3GxAjXOKedg7aRTl18/fV1MMc1tbUuDcPgfBiWQnyMMXKRKlDbND4PTl4QxsXmo5YVA7etr+lfcI6piqxdVOj2PZlUuyGl1caM7R+B5U/3df9qzlVJy2hClniTE148oQIEJUiQitA56KLbvVex4RRxuHwP0cRv7VzZTuXA5d1G1Pculo6vxZR6uEFlYYlVFpRiUHiqk+uoUULtqQzFTb/LrtDhraaUQ8h9KcKOLbY2Jsjszoufow",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260303.png;md5;d2f54313ccb8c1b16b25581836ddba22"
-        },
-        {
-            "key": "爱营",
-            "name": "爱营(SP)",
-            "type": 3,
-            "api": "csp_AppGetV2",
-            "ext": "N/01JeZBCBEQ0wOXNuAI/kwsk5p8MqEDFtLQfMnVixAS3aeDEPdCV317OImxNn6T3Hb5VmwFLOhgFAQJ+is4HZ3ndDCtqOfPVULszPg13PiW+RHbzH5TtSdAiFfw0D1dLa7TDpTcFxuXv5MJI8925dg51pBjkSqNZt8Jz0nbRDK8eQSoCbsw2I93ke+olS9cVWkurB8mwxms5nD8AqSV4eHdYOwwU2q4ln6jV8KEyhnOHxJEjNLT8hk0SFdgLqRwqbqyl6kSqmTlPX681FYZnBN19r49ojprcBeFmLUB3Rn0LrpWzz0zIeycV8N00oXiCh5kd2caQMyUPPWdyfQbKwV6V+6dQAKtSNoTpxRNGqTimifZEJFGizQMko6AQpQpW0FHr7B3gLmmiknNMWJe/gcG7lhWSAiIGzxVnzBhCmSlOKB3sq/tAQSBrPNWKpSNFx5prQHKpStELIHAnqdNUS31u0xrGq9ejUdadgR9pxO6QcCHk0Ln0tnUA69uiJ9q1udCFx8+5i+c320rpMKGnA==",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260303.png;md5;d2f54313ccb8c1b16b25581836ddba22"
-        },
-        {
-            "key": "顾我",
-            "name": "顾我(SP)",
-            "type": 3,
-            "api": "csp_AppGetV2",
-            "ext": "FNc7O3Sq/hxz7uCzbccPTwmKS9QhqbhDC5J/tBK99TXBAOG5IeeHo7xSXryC0vBoO5B1l2XmjJKdkeCZu5v1UxCZcIXe/1cmcBYcHAk746JE1FosonleIPqUFKByjhLwUU1doZS06jAVhSjz7X90y5GWmFqHmqD7ArxYzUSMQxyKerhNQ2ZWaJ2ka4jFMRPVVDQrBge5CgBGsw/HTb/+Q12qdcSTymLUN/cfwoUZ4uqBcSPbxSIrB4znIU2PcCtnX14vLtsWp1u/cbGV+kP8486YY8kGEs2qq+T34UaXBZf9Kk1t0Qt6yrj57yptwkeJXa2gK176ebs/D71tmX2ErBjije7pqwpRtEmeAmBWxohh9kLrGdh97ODRSzyNYE93Ai7nbGoskd/2r1Uu5NLCEqCIBBhH1qI6Jl/jWIVcngIDBm5KoTPs1ZxNWEqnOyP8nf8FuHZkRp/o26HL5LXb17UOkCmecqDKg3vjcnBKPNg=",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260303.png;md5;d2f54313ccb8c1b16b25581836ddba22"
-        },
-        {
-            "key": "顾我2",
-            "name": "顾我2(SP)",
-            "type": 3,
-            "api": "csp_AppGetV2",
-            "ext": "0YM2rlqPCLd5eMAslwMf/kCE22ncNd3xnmwrQY9SCQH4bzbsInD9sIckq+98B40sapFI39hNz19UJRSOMiO5WF7Ct1G6M0pXHPfBZ3URMQAUGIFaIwQBxfim4IuDd+JtVRuOIXJonLrsDQ6YTPTu/9DzxK2yUhySEsxgZYEjICuH86BscJNcew7X60/NQzx0HNLgfebn40B7XJIXoQDUCL4EVrIxuWAPZhF+/jvhWtPRUzMJUNeNP/xsqNz66JJkK3QKvMj/9Ybkjfe1zka9UOykuKDrZj/wCtUdlP7AcN2RT9NYsg2SafDmJn2iVNRCqG6lUwbT63SjfOlbX5rnqN57KvmUJOHLWW9/fGbqKyqVEVRhPR8X5VOTX7iX69AQa6d3N1DOe74vzHwt8MuvsfzHFPDsJJr+06Mwna4B/aYDbNnK1FYck/9p8vMz7KPnb2sIFDEYpPgcEWk1/rdp5YXEXoRAN3FmvYr3RJgmVwmguO+Zvpqfx5SDVmJxgctZ",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260303.png;md5;d2f54313ccb8c1b16b25581836ddba22"
-        },
-        {
-            "key": "仓鼠",
-            "name": "仓鼠(SP)",
-            "type": 3,
-            "api": "csp_AppGetV2",
-            "ext": "pghUv+IPbIqGFEhny2nISo6q1U3I9nHoNa/iHpCGtvb/Z7AclrLHwfwwyHDOwlw+atwP39gPrsYXKDI2Mngr/+2oFaQiwYBOw20A/zpOef2PJhp0gISCLDyOOYtqku0RNCx0R7ClMxfgscA//pQaZEjeTx4K6ZolxVEj8KM1Vv6EI90iHnRKqIp1svmftZHfi/GL/C7LAEWfo0g8L8lEqe4nNXFecvk0JibeCb5FKCpck8aCsVSlrjVmbYCEHCTIXRYssqMokxKNEVvEqFB7p2DOoScmKCoVjSE0AWhBaykPGZXJG0SdnhBlNDNtBJD/",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260303.png;md5;d2f54313ccb8c1b16b25581836ddba22"
-        },
-        {
-            "key": "云云",
-            "name": "云云(SP)",
-            "type": 3,
-            "api": "csp_AppGetV2",
-            "ext": "pghUv+IPbIqGFEhny2nISqwnd+ZrLZS4oOovoDKrPwYhc6bnxBhXj1yUmpQGo2dda4yKJA0rzNerKhlHbvHl2NW8J2/czPb8KoXWysWftEuunGdjctZYVk9kaYo9OOTce8YVqdhI8ypdGZCEcUzz2pWMwXc39sUREXkM2amM4x0Gl/gkP1RjYRQL3DAR1p96sdLh6Es3IRBp6pTNo5dRq8O3FFYM5IsRns9nK3/E1xuw4B7dLtmmtV+DuxfedWwn4SvT2c9mBH5Z+0qwyZtR2C647k60KDtO8wb6sSYYFsjA/CmuM5PTIx03nY2J3EQEuiBIm29b7NB7zZEWmPR34U//7AYgoku20jOO0uigRZf5oPzxxQzu+7pc+aSufNUb",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260303.png;md5;d2f54313ccb8c1b16b25581836ddba22"
-        },
-        {
-            "key": "JINPIA",
-            "name": "JINPIA(SP)",
-            "type": 3,
-            "api": "csp_AppGetV2",
-            "ext": "N/01JeZBCBEQ0wOXNuAI/kwsk5p8MqEDFtLQfMnVixDB3xui1lDymx4fnoCgxm59NbdMM2FDEd1LoNOCZvedKAplW6Go0JtGfzXnn65Pg1kPIthOoYoQWgY/lKhQKzzcLQKb1ezm1qhhKR/lEhfm+EbojsfeaAOeOaSCVPPzSkVw2DmHMhYv+yWi9ExOHyfuXX1csfF6G/UWPw12lFNeElpZMAUAQG2LEcbRadEvVmNm3YDM07Dn4F8Fcvsnb08MRb3GO2sEZSdjqf85kk1tVNb5zdfho1F01S/Cvzp4Lz84cQdryYTNnZCggLd9vL5TzLkGb3USPOKaq2v4jzsIlGKXcyRYbIDf/vcihcS2/VvRXNBBU782kwniaIiq+4rEN3u8hlLic89wNWeBa60vQgYvjsfM7t1zsospH+7CcEEliFOlYdCrMcW2NGR9Gjj/",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260303.png;md5;d2f54313ccb8c1b16b25581836ddba22"
-        },
-        {
-            "key": "柚子",
-            "name": "柚子(SP)",
-            "type": 3,
-            "api": "csp_AppGetV2",
-            "ext": "bRtykTI0E/bflZnq1JM3e08RuRCBH84G7OpoWQIgGOVzL+f2PT/MUwtXKmQJNtHSG+AtsUghAdOl1KNzlknY4fZ674zNHl8MI1g1mp6itXiw1oHZuMgY4GfZjvoN0Jh9+rzqR00E9CWMcgheD4OAb2cgjwNPZ9nOdkqCTjdimiQFTXmTJnwJ7fzAJqaCSCs7bL1gfkFjOuMCixjTugMb0C3DMz41+9tF/cIKGdLgsaqmxk0e9mcnjFQ+zg0UmRTPzsHlYMUxruFHv+Gxhc+VfhZkOkT/lvkZ3KcA596IrPIp21/QZG0cFMl19NnbnDBj3wvMA/WB7WegNeg6bhAI7FHNfyb8kOfgB5tiwDqwP9JbLSfY359Fi66PR+Z4Ecev3Fj4FIIL4clUeUYKnMXPbhyO7aWca6MbrcFrCHqhvXbu2sVrn8x3/ht5awmURmssuQLUsbe8iDYhiLfXP+Z6UQYYvUw1VU3EMhbs0ZpMK+jGHnuwzaoeIA7UjIpyWljEexx843QVwu9UjCAUEudFcvHq02TbcO8R+nou7QV8W5s=",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260303.png;md5;d2f54313ccb8c1b16b25581836ddba22"
-        },
-        {
-            "key": "橘子3",
-            "name": "橘子3(SP)",
-            "type": 3,
-            "api": "csp_AppGetV2",
-            "ext": "pghUv+IPbIqGFEhny2nISk+xygMDLIUeoyKFU8yxKlNVrgrcirdV3YINpNZnwDWWlJoI1+YwCT971kI1lcLM0tzIyHBz96Ly2iz/tFqjAerxg6klaKzTwi6jg5OOo6Mwvnbg/KZWUzU+J7aDaHc72Nucd9aASNNVEfOZ2/3HXtYs3eu8yJM7+mLSvr5mRz9+k4L/WI59yc+PqdX8OqL8HylGowei2F3008X+DCyhFqONooDf9IEFgJXOExW3L3Wb3a0nnnfyr0HqRDiEaoEW2qcVMVHR0CvPhnSp/eEmlvQQ94YDUCH/YVORQoZMD5LteQKiOzSjZbmRbCWxP3hc1A==",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260303.png;md5;d2f54313ccb8c1b16b25581836ddba22"
-        },
-        {
-            "key": "橘子4",
-            "name": "橘子4(SP)",
-            "type": 3,
-            "api": "csp_AppGetV2",
-            "ext": "7DgWlrk+zTw/OTxcOCwV3r7Lpk/K0TtaGVKJShO/E6LIk4jSxJZnpCtrE9eNmer0S76opF1k6B6YKqAJwj212o2hU9wsE9ttuYen2FA/GlkbRWsyH2zXHWs/KKOWHww2ZMBmduYPZRzKfLb8D3GMzxY6euqlI9dTjBCfeEkzDTQEykUO8SIPD9n6WPRbNIc0ef8Hr/WFZfBJEMNyzJ9ti0v9vbE2TuSODTTXU0K2wDEsAcVAjgmCEbmfGvoLy8ylr1OHFkjB4sfzjD9Wl+qHUANcPjPeJNjEhGsD3Dt30iTF7uL5Cwqd/2715JydiRfzdxgSK6HcO7F/VaXESPD9VkPeSWfbcRlPp9Nb2i54cFLXT9J0NcSz5e8RrhZQWOGfa3TkenTw6uIEu8Bj81kNYJeUionweCQ0q351zhprbR/hxY+14YcWyTzE76gFrhXUgCYbvO2JFckkjlq85jXByx+L7Srinf+k6vm3fMQ5Dk2I9ieK73ai8rp0fn9cGozcKZsB0JsdJdjdsMCA8VrxSbYFwBlQimwIHaavT2Fhpoc=",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260303.png;md5;d2f54313ccb8c1b16b25581836ddba22"
-        },
-        {
-            "key": "爱影4",
-            "name": "爱影4(nox)",
+            "key": "爱影3",
+            "name": "爱影3(nox)",
             "type": 3,
             "api": "csp_AppNox",
             "ext": "mOSIdLC2tthoJSjZpTekEaIwDaRshBrqWi7P32oLbp1s7NGWMXRizHlp68QMoyWr+LwvogjaOvSo8mKlY3ocSJo/wyGWivT8BAbISZL+5AJ8TswhGy8oP1QT5uMK7GoZgBgJP0hZAB4pcA25XVFupwJxZq71I1YpehNeBYQwkgIlBobHHvTAtW/Ui9m6ftBS96BTh6ri0HX/0tkKtW63glxEgqpOBD3N9eWINV3tR9A=",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260303.png;md5;d2f54313ccb8c1b16b25581836ddba22"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260320.png;md5;be34098bc78d1b0cf269c2617e8df966"
         },
         {
             "key": "麻雀",
@@ -1845,31 +1776,6 @@
             "ext": "{\"模板\":\"https://gitee.com/smallmi1007/mimi/raw/master/nox.json\",\"域名-c\":\"http://111.170.7.114:8081\",\"xas\":\"3D:D7:7B:07:B0:81:49:AF:90:5E:39:2B:B8:59:A9:99:89:EB:D5:35:6E:06:C0:A4:BE:44:B6:16:43:33:C4:C3\",\"xavn\":\"0.1.5\",\"xap\":\"com.muyuesg.app\",\"xavc\":\"15\"}"
         },
         {
-            "key": "独家",
-            "name": "独家",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "timeout": 12,
-            "jar": "https://img2.gelonghui.com/library/1fdce-37f3cc0f-eca7-4efa-ad79-b86d68bde3b5.jpg;md5;1fdce64a3b67359e8f6f9ea64a3326f5",
-            "ext": "{\"模板\":\"https://gitee.com/smallmi1007/mimi/raw/master/nox.json\",\"域名-c\":\"https://xdsj.xywla.com\",\"xas\":\"7D:69:AF:92:9A:9F:A6:88:65:07:B2:DB:50:FC:CD:DD:2D:C2:9A:E4:01:9C:ED:56:12:2C:50:6D:E3:CD:38:F6\",\"xavn\":\"1.0.5\",\"xap\":\"com.xiaodoshijie.app\",\"xavc\":\"15\"}"
-        },
-        {
-            "key": "猫咪2",
-            "name": "猫咪2(nox)",
-            "type": 3,
-            "api": "csp_Nox",
-            "ext": "7lj763gg402i794242218hi3g0129882llggjk13il87203g120318lil7035k000ljh49gk8857j1jk7h5lhi93k6l011k4l1747j51kglji1kl298h7lhl2lkl550jlhk7j2klk57k25769k56294797h5122630k3g23401i794l8j4j10gl83246463537k17jg19211k511j5795j772hh645h3lk437ki259872l12l32317i8840g3j4961664k5j63kl17j7l2hi0g1687170ik64g27gj74j03824k15h33hg1j033hlh3557lhh2l90k905h900i24l47685914k2g6i203j47ikgk17595lik8i54g43h88756j1l5g557jk56j654h4ij7ikhki3li122470g7g453il8546213i1h8gg69h9jkgkk8j1hg61j8llgj32k78k8jj6495il9j427h74017184g6i91iikh3j935i74g8jh2g6k828020lhh0l76i6ljl7ij0h30130720",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/0224QJ.jar;md5;f32184d39cf75de2e832c17e7beffac3"
-        },
-        {
-            "key": "粉象2",
-            "name": "粉象2(nox)",
-            "type": 3,
-            "api": "csp_Nox",
-            "ext": "7lj763gg0939795h0564ji87lk0kj9i0hil1990794j964714k5g5hh1lg18551g1k9849lg8i4h83817947lji1l7ki08khl963754gkjhji5h32i9632lj2jk10j02k2hgi3h2k63g3171984i3j4187k54j2428l1h84g03hi99l4jlj279lh4j3k494j459l03ghk968k41jgg08260i59il3gi4874j7kig51l4276h82211kh58k713k436262435k14k21jg28gi4746g846073kj4k5lgl00j33623k2233kh514723387325kl5h28205k7569l0k2hlj0i8j99382177343l4996g10k044k938i18h7318g79695g055765g6206h0g4i9ligg9i7lj55246lg2g8128kii5h2k714hj8l3i099k8kji902gj429llij82577h19222i3jl97407565012589k5i14182h5ii6gi24690glk2k9274204l85833i6l4l9jj142k01096j0j1kg3",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/0224QJ.jar;md5;f32184d39cf75de2e832c17e7beffac3"
-        },
-        {
             "key": "巧搜1",
             "name": "巧搜1(SP)",
             "type": 3,
@@ -1898,6 +1804,27 @@
             "type": 3,
             "api": "csp_AppYsV2Guard",
             "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
+        },
+        {
+            "key": "极影",
+            "name": "极影(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2Guard",
+            "ext": "http://101.201.171.207:802/api.php/app/"
+        },
+        {
+            "key": "晓米",
+            "name": "晓米(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2Guard",
+            "ext": "http://111.170.58.23:802/api.php/app/"
+        },
+        {
+            "key": "超前",
+            "name": "超前(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2Guard",
+            "ext": "http://chaoqianys.top:91/api.php/app/"
         },
         {
             "key": "空城",
@@ -3624,6 +3551,19 @@
             ]
         },
         {
+            "name": "豆瓣图片",
+            "hosts": [
+                "doubanio.com"
+            ],
+            "regex": [
+                "view/photo",
+                "m_ratio_poster",
+                "public",
+                "jpg"
+            ],
+            "referer": "https://www.douban.com/"
+        },
+        {
             "name": "火山",
             "hosts": [
                 "huoshan.com"
@@ -3650,6 +3590,32 @@
                 "最新",
                 "直播",
                 "更新"
+            ]
+        },
+        {
+            "name": "磁力广告",
+            "hosts": [
+                "magnet"
+            ],
+            "regex": [
+                "更多",
+                "请访问",
+                "example",
+                "社 區",
+                "x u u",
+                "直 播",
+                "更 新",
+                "社 区",
+                "有趣",
+                "有 趣",
+                "英皇体育",
+                "全中文AV在线",
+                "澳门皇冠赌场",
+                "哥哥快来",
+                "美女荷官",
+                "裸聊",
+                "新片首发",
+                "UUE29"
             ]
         },
         {
@@ -3744,9 +3710,108 @@
             "url": "https://ds65.tv1288.xyz/"
         },
         {
-            "name": "CCSH",
+            "name": "日后",
             "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/CCSH/IPTV/main/live.txt"
+            "url": "http://rihou.cc:555/gggg.nzk"
+        },
+        {
+            "name": "宝盒",
+            "url": "https://3043.kstore.space/bhvip/bh/bhzb4.txt"
+        },
+        {
+            "name": "lalifeier",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt"
+        },
+        {
+            "name": "HKTV",
+            "type": 0,
+            "url": "http://gc.gt.tc/c/HKTV.txt"
+        },
+        {
+            "name": "HKTV2",
+            "type": 0,
+            "url": "http://bak.dou.ddns-ip.net/user/HKTV.php?key=HKTV"
+        },
+        {
+            "name": "如意",
+            "type": 0,
+            "url": "http://iptv.ruyitv.cc/m3u/tv.txt"
+        },
+        {
+            "name": "开心",
+            "type": 0,
+            "url": "http://vip.bhh.indevs.in/kxzb.php"
+        },
+        {
+            "name": "dqtx",
+            "type": 0,
+            "url": "http://1tv.dqtx.cc/"
+        },
+        {
+            "name": "dqtx2",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/dqtx760/1TV/refs/heads/main/index.html"
+        },
+        {
+            "name": "蜂巢",
+            "type": 0,
+            "url": "https://pan.ymxx.net/f/x5BFz/555.txt"
+        },
+        {
+            "name": "clun",
+            "type": 0,
+            "url": "https://clun.top/lib/iptv.txt"
+        },
+        {
+            "name": "clun2",
+            "type": 0,
+            "url": "https://clun.top/lib/iptv.m3u"
+        },
+        {
+            "name": "freetv",
+            "type": 0,
+            "url": "https://t.freetv.fun/m3u/playlist.txt"
+        },
+        {
+            "name": "测试",
+            "type": 0,
+            "url": "https://epg.pw/test_channels_hong_kong.m3u"
+        },
+        {
+            "name": "风云",
+            "type": 0,
+            "url": "http://iptv.4666888.xyz/FYTV.txt"
+        },
+        {
+            "name": "jackTV",
+            "type": 0,
+            "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
+        },
+        {
+            "name": "tv123",
+            "type": 0,
+            "url": "http://tv123.vvvv.ee/tv.m3u"
+        },
+        {
+            "name": "飞扬",
+            "type": 0,
+            "url": "https://l.gmbbk.com/upload/39183918.txt"
+        },
+        {
+            "name": "飞扬2",
+            "type": 0,
+            "url": "https://chuxinya.top/f/QnyjCo/飞扬直播.txt"
+        },
+        {
+            "name": "自用",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/ext/live.txt"
+        },
+        {
+            "name": "梦仙",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/mengxianshengaaa/IPTV/main/网络收集.txt"
         },
         {
             "name": "雷蒙",
@@ -3757,6 +3822,16 @@
             "name": "FGBLH",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/FGBLH/FG/main/港台大陆无18内容"
+        },
+        {
+            "name": "易发",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fafa002/yf2025/main/yiyifafa.txt"
+        },
+        {
+            "name": "CCSH",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/CCSH/IPTV/main/live.txt"
         },
         {
             "name": "alantang1977",
@@ -3799,11 +3874,6 @@
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/alantang1977/X/main/live/live_ipv4.m3u"
         },
         {
-            "name": "易发",
-            "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fafa002/yf2025/main/yiyifafa.txt"
-        },
-        {
             "name": "bbxx",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/kimwang1978/collect-txt/main/bbxx.txt"
@@ -3814,218 +3884,14 @@
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/kimwang1978/collect-txt/main/others_output.txt"
         },
         {
-            "name": "Supprise0901",
-            "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt"
-        },
-        {
-            "name": "日后",
-            "type": 0,
-            "url": "http://rihou.cc:555/gggg.nzk",
-            "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
-            "logo": "https://gongdian.top/tv/taibiao/{name}.png",
-            "core": {
-                "auth": "local://tvbus",
-                "name": "123",
-                "pass": "345",
-                "resp": "{\"result_code\":\"0\",\"result\":\"ok\",\"keys\":{\"user_id\":\"0027000005f5c398\",\"peer_id\":\"0ec044591d9e1418\",\"session_key\":\"0a49662f37674af5\"}}",
-                "so": "http://rihou.cc:555/tvbus.so",
-                "pkg": "com.svc.vlive.home.ytv9x",
-                "sign": "308203533082023ba00302010202042108f284300d06092a864886f70d01010b05003059310c300a0603550406130378797a310d300b060355040813047a7a7979310d300b0603550407130479787978310d300b060355040a130478797879310d300b060355040b130479797878310d300b06035504031304787879793020170d3139303332363038333233305a180f32313139303330323038333233305a3059310c300a0603550406130378797a310d300b060355040813047a7a7979310d300b0603550407130479787978310d300b060355040a130478797879310d300b060355040b130479797878310d300b060355040313047878797930820122300d06092a864886f70d01010105000382010f003082010a0282010100bb3298eb5910860b7ae30b6b874ca374667133fd08cbf42bb52d5c1a49e0fe4818fc768f5155a95eacc465d8649467c40ce632081297fb66c6838534ee4221e3d2b6b56060fdde5569e37465852f9daa3a987bff4f013981c9ff063b7e0ca7d52ccacfeddbe066bcc29780d78e929ad9dacc3b804f51c9eb0548aac4803b0d32764135d6d8d987381adea6d5ec34966aebdec717c95e064e203a3ba6d10bf8336eae43a01ca42406055c62312c6ed057afb386cd12b0b54ac1611e6e1fef8e71c8da0597a43f542e645f54e614c2603b58ce3690e69e0da24e944eecacdcf6faa2043ccce1f15860432527b706269510cd6bd8314999fa870fb8825a1e1805070203010001a321301f301d0603551d0e041604149fcb5d4d1dd5743459052b9ab79539ebc8924570300d06092a864886f70d01010b05000382010100658ddae3d7833e5b7cbf504cc016deda2cee97cb2b0bbdb889d06f19860389904ffcdf0f21966299d4c0e19d109065bdd769977f1a67d4928fecdee48eb3c7ce5fb4009653510b9897bdc66aa54a29930ed5c27cbd3a75c4362944afa4625a7c7f0d3e77bcaf8f23d9233ad9c83d33305c88f6110f6d50de9eec1c47135fff99826bc79c88355f99d41c00eb54a7292c44a340fb78d3ac1acf39ad0d13bccc2fdf69e1d86504ae4087a4b59a662986a4e03c0b379f92dce5c8c9da54e164f9480c8a9fed01bcc562640b78adaaa5adcfda0e03a477ea63ec136819298e55f428f74076c1b444556001b84cbd5d47b080b6aeb5f1a567c03ea6a64a9c2876e3b2"
-            }
-        },
-        {
-            "name": "宝盒",
-            "url": "https://3043.kstore.space/bhvip/bh/bhzb4.txt",
-            "ua": "okHttp/Mod-1.3.0.0",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}&",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png",
-            "core": {
-                "auth": "local://tvbus",
-                "name": "123",
-                "pass": "345",
-                "resp": "{\"result_code\":\"0\",\"result\":\"ok\",\"keys\":{\"user_id\":\"0027000005f5c398\",\"peer_id\":\"0ec044591d9e1418\",\"session_key\":\"0a49662f37674af5\"}}",
-                "so": "https://tang.hz.cz/so/xy.so",
-                "pkg": "com.svc.vlive.home.ytv9x",
-                "sign": "308203533082023ba00302010202042108f284300d06092a864886f70d01010b05003059310c300a0603550406130378797a310d300b060355040813047a7a7979310d300b0603550407130479787978310d300b060355040a130478797879310d300b060355040b130479797878310d300b06035504031304787879793020170d3139303332363038333233305a180f32313139303330323038333233305a3059310c300a0603550406130378797a310d300b060355040813047a7a7979310d300b0603550407130479787978310d300b060355040a130478797879310d300b060355040b130479797878310d300b060355040313047878797930820122300d06092a864886f70d01010105000382010f003082010a0282010100bb3298eb5910860b7ae30b6b874ca374667133fd08cbf42bb52d5c1a49e0fe4818fc768f5155a95eacc465d8649467c40ce632081297fb66c6838534ee4221e3d2b6b56060fdde5569e37465852f9daa3a987bff4f013981c9ff063b7e0ca7d52ccacfeddbe066bcc29780d78e929ad9dacc3b804f51c9eb0548aac4803b0d32764135d6d8d987381adea6d5ec34966aebdec717c95e064e203a3ba6d10bf8336eae43a01ca42406055c62312c6ed057afb386cd12b0b54ac1611e6e1fef8e71c8da0597a43f542e645f54e614c2603b58ce3690e69e0da24e944eecacdcf6faa2043ccce1f15860432527b706269510cd6bd8314999fa870fb8825a1e1805070203010001a321301f301d0603551d0e041604149fcb5d4d1dd5743459052b9ab79539ebc8924570300d06092a864886f70d01010b05000382010100658ddae3d7833e5b7cbf504cc016deda2cee97cb2b0bbdb889d06f19860389904ffcdf0f21966299d4c0e19d109065bdd769977f1a67d4928fecdee48eb3c7ce5fb4009653510b9897bdc66aa54a29930ed5c27cbd3a75c4362944afa4625a7c7f0d3e77bcaf8f23d9233ad9c83d33305c88f6110f6d50de9eec1c47135fff99826bc79c88355f99d41c00eb54a7292c44a340fb78d3ac1acf39ad0d13bccc2fdf69e1d86504ae4087a4b59a662986a4e03c0b379f92dce5c8c9da54e164f9480c8a9fed01bcc562640b78adaaa5adcfda0e03a477ea63ec136819298e55f428f74076c1b444556001b84cbd5d47b080b6aeb5f1a567c03ea6a64a9c2876e3b2"
-            }
-        },
-        {
-            "name": "测试",
-            "type": 0,
-            "url": "https://epg.pw/test_channels_hong_kong.m3u"
-        },
-        {
-            "name": "风云",
-            "type": 0,
-            "url": "http://iptv.4666888.xyz/FYTV.txt"
-        },
-        {
-            "name": "lalifeier",
-            "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt"
-        },
-        {
-            "name": "jackTV",
-            "type": 0,
-            "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
-        },
-        {
-            "name": "tv123",
-            "type": 0,
-            "url": "http://tv123.vvvv.ee/tv.m3u"
-        },
-        {
-            "name": "HKTV",
-            "type": 0,
-            "url": "http://gc.gt.tc/c/HKTV.txt"
-        },
-        {
-            "name": "HKTV2",
-            "type": 0,
-            "url": "http://bak.dou.ddns-ip.net/user/HKTV.php?key=HKTV"
-        },
-        {
-            "name": "HK飞",
-            "type": 0,
-            "url": "http://12306.ct.ws/users/HKTV.txt"
-        },
-        {
-            "name": "HK飞2",
-            "type": 0,
-            "url": "http://12306.ct.ws/users/hktv.txt"
-        },
-        {
-            "name": "飞鸿",
-            "type": 0,
-            "url": "http://ge.html-5.me//ii/新飞鸿制作官方授权直播.txt"
-        },
-        {
-            "name": "蚂蚁",
-            "type": 0,
-            "url": "http://ox.my.to/i/蚂蚁.txt"
-        },
-        {
-            "name": "TVB",
-            "type": 0,
-            "url": "http://gc.gt.tc/o/i/TVB.txt"
-        },
-        {
-            "name": "港澳台",
-            "type": 0,
-            "url": "http://gc.gt.tc/o/i/港澳台TV.txt"
-        },
-        {
-            "name": "酷马",
-            "type": 0,
-            "url": "http://zo.gt.tc/o/i/酷马.txt"
-        },
-        {
-            "name": "HS",
-            "type": 0,
-            "url": "http://gc.gt.tc/o/i/HS.txt"
-        },
-        {
-            "name": "如意",
-            "type": 0,
-            "url": "http://iptv.ruyitv.cc/m3u/tv.txt"
-        },
-        {
-            "name": "开心",
-            "type": 0,
-            "url": "http://vip.bhh.indevs.in/kxzb.php"
-        },
-        {
-            "name": "阿烈",
-            "type": 0,
-            "url": "http://zo.xo.je/2/i/综艺.txt"
-        },
-        {
-            "name": "dqtx",
-            "type": 0,
-            "url": "http://1tv.dqtx.cc/"
-        },
-        {
-            "name": "dqtx2",
-            "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/dqtx760/1TV/refs/heads/main/index.html"
-        },
-        {
-            "name": "蜂巢",
-            "type": 0,
-            "url": "https://pan.ymxx.net/f/x5BFz/555.txt"
-        },
-        {
-            "name": "天浪",
-            "type": 0,
-            "url": "http://210.245.166.84:1299/live/live1.txt"
-        },
-        {
-            "name": "FZv",
-            "type": 0,
-            "url": "http://129.211.14.102:50085/sub?7pVBnFZv=txt"
-        },
-        {
-            "name": "clun",
-            "type": 0,
-            "url": "https://clun.top/lib/iptv.txt"
-        },
-        {
-            "name": "clun2",
-            "type": 0,
-            "url": "https://clun.top/lib/iptv.m3u"
-        },
-        {
-            "name": "cttv",
-            "type": 0,
-            "url": "https://www.cttv.vip/ys/json/ctzb.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://www.cttv.vip/ys/images/{name}.png"
-        },
-        {
-            "name": "freetv",
-            "type": 0,
-            "url": "https://t.freetv.fun/m3u/playlist.txt"
-        },
-        {
-            "name": "飞扬",
-            "type": 0,
-            "url": "https://l.gmbbk.com/upload/39183918.txt"
-        },
-        {
-            "name": "飞扬2",
-            "type": 0,
-            "url": "https://chuxinya.top/f/QnyjCo/飞扬直播.txt"
-        },
-        {
-            "name": "梦仙",
-            "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/mengxianshengaaa/IPTV/main/网络收集.txt"
-        },
-        {
-            "name": "小南",
-            "type": 0,
-            "url": "http://a.xncjys.xyz/dszb/xnds.txt"
-        },
-        {
             "name": "临时",
             "type": 0,
             "url": "https://pan.ymxx.net/f/vBMSZ/临时测试.txt"
         },
         {
-            "name": "大哥",
+            "name": "bhmb",
             "type": 0,
-            "url": "http://1.94.31.214/live/live9/dgtv.txt"
-        },
-        {
-            "name": "tvzb9",
-            "type": 0,
-            "url": "http://d.jsy777.top/box/tvzb9.txt"
-        },
-        {
-            "name": "海燕",
-            "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/wujiangliu/live-sources/main/haiyan.txt"
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/wujiangliu/live-sources/main/bhmb.m3u"
         },
         {
             "name": "电视家",
@@ -4035,7 +3901,7 @@
         {
             "name": "3kids",
             "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/moonkeyhoo/3kids/main/0186Yspf4m88.m3u"
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/moonkeyhoo/3kids/main/dashengruoyu5lENmOjW.m3u"
         },
         {
             "name": "vinkerq",
@@ -4043,29 +3909,14 @@
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/vinkerq/iptv-api/master/iptv.txt"
         },
         {
-            "name": "DDYS",
-            "type": 0,
-            "url": "http://156.238.248.80:8880/live.txt"
-        },
-        {
             "name": "酒店",
             "type": 0,
             "url": "http://129.211.14.102:50085/sub?tv.sohu.blog=txt"
         },
         {
-            "name": "axzy",
-            "type": 0,
-            "url": "http://ax570383885.serv00.net/zy.txt"
-        },
-        {
             "name": "test",
             "type": 0,
             "url": "https://php.946985.filegear-sg.me/test.m3u"
-        },
-        {
-            "name": "stv",
-            "type": 0,
-            "url": "http://iptv.cqshushu.com/stv.php"
         },
         {
             "name": "Jsnzkpg",
@@ -4078,6 +3929,11 @@
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u"
         },
         {
+            "name": "lenin",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/alenin-zhang/IPTV/main/lenin.txt"
+        },
+        {
             "name": "suxuang",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u"
@@ -4086,6 +3942,21 @@
             "name": "DailyIPTV",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/mymsnn/DailyIPTV/main/outputs/full_validated.m3u"
+        },
+        {
+            "name": "DailyIPTV2",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/mymsnn/DailyIPTV/main/outputs/full_raw.m3u"
+        },
+        {
+            "name": "DailyIPTV3",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/mymsnn/DailyIPTV/main/outputs/other.m3u"
+        },
+        {
+            "name": "DailyIPTV4",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/mymsnn/DailyIPTV/main/outputs/satellite.m3u"
         },
         {
             "name": "swtvlive",
@@ -4116,21 +3987,6 @@
             "ua": "okhttp/3.15,AptvPlayer/1.4.0"
         },
         {
-            "name": "fulei2",
-            "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fuleishu/ceshi/main/zhibo1.txt"
-        },
-        {
-            "name": "fulei3",
-            "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fuleishu/ceshi/main/ceshi123.m3u"
-        },
-        {
-            "name": "xiyou",
-            "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fuleishu/ceshi/main/xiyou12.txt"
-        },
-        {
             "name": "ffmking",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/ffmking/tv1/refs/heads/main/888.txt"
@@ -4143,9 +3999,9 @@
             "logo": "https://epg.v1.mk/logo/{name}.png"
         },
         {
-            "name": "PizazzGY",
+            "name": "livetv",
             "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/PizazzGY/TV/refs/heads/master/output/user_result.txt"
+            "url": "https://livetv.gungfu2012.tk"
         },
         {
             "name": "gdyd",
@@ -4153,29 +4009,9 @@
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/1996TV/iptv/main/gdyd.m3u"
         },
         {
-            "name": "livetv",
+            "name": "Supprise0901",
             "type": 0,
-            "url": "https://livetv.gungfu2012.tk"
-        },
-        {
-            "name": "大视界",
-            "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ywg228/dsjtv/main/live.txt"
-        },
-        {
-            "name": "iiptv",
-            "type": 0,
-            "url": "http://iiptv.xyz/tv/ZB"
-        },
-        {
-            "name": "vUBde",
-            "type": 0,
-            "url": "https://qu.ax/vUBde.txt"
-        },
-        {
-            "name": "rad168",
-            "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/rad168/iptv/main/live.m3u"
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt"
         }
     ],
     "flags": [
