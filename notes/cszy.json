@@ -879,10 +879,16 @@
             "api": "http://sspa8.top:8100/php/清风.php"
         },
         {
+            "key": "摸鱼",
+            "name": "摸鱼(T4)",
+            "type": 4,
+            "api": "http://我不是.摸鱼儿.com/api/feng/moyu.php?token=moyu996"
+        },
+        {
             "key": "秒看",
             "name": "秒看(SP)",
             "type": 3,
-            "api": "https://13826.kstore.vip/getapp.py",
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/getapp.py",
             "ext": {
                 "host": "https://mk1080.top/get.txt",
                 "指定域名": "1",
@@ -897,7 +903,7 @@
             "key": "花猪3",
             "name": "花猪3(SP)",
             "type": 3,
-            "api": "https://13826.kstore.vip/getapp.py",
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/getapp.py",
             "ext": {
                 "host": "https://tiantangwulu.oss-cn-shanghai.aliyuncs.com/axiba.txt",
                 "指定域名": "1",
@@ -1060,7 +1066,7 @@
             "key": "老雅",
             "name": "老雅(SP)",
             "type": 3,
-            "api": "https://13826.kstore.vip/fox.js",
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/fox.js",
             "ext": {
                 "host": "https://cms99api.ystva.com"
             }
@@ -1069,7 +1075,7 @@
             "key": "老雅2",
             "name": "老雅2(SP)",
             "type": 3,
-            "api": "https://13826.kstore.vip/fox.js",
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/fox.js",
             "ext": {
                 "host": "http://host1.sopython.top/host.json"
             }
@@ -2627,6 +2633,12 @@
             "api": "https://zy.jinchancaiji.com/api.php/provide/vod/?ac=list"
         },
         {
+            "key": "全聚",
+            "name": "全聚(xml)",
+            "type": 1,
+            "api": "https://gctf.tfdh.top/api.php/provide/vod"
+        },
+        {
             "key": "影视狗",
             "name": "影视狗(xml)",
             "type": 1,
@@ -3804,6 +3816,36 @@
             "url": "https://chuxinya.top/f/QnyjCo/飞扬直播.txt"
         },
         {
+            "name": "尘墨",
+            "type": 0,
+            "url": "https://52xiaobai.cn/ceshi/zb.php"
+        },
+        {
+            "name": "mpimg",
+            "type": 0,
+            "url": "https://mpimg.cn/down.php/15fde33c6a9638590910d23179208bc1.txt"
+        },
+        {
+            "name": "夜空",
+            "type": 0,
+            "url": "https://pan.szfx.top/down.php/4f5dad27633e1293d7ef2317ee9c801e.txt"
+        },
+        {
+            "name": "天浪",
+            "type": 0,
+            "url": "http://210.245.166.84:1299/live/live1.txt"
+        },
+        {
+            "name": "龙壹",
+            "type": 0,
+            "url": "http://210.245.166.84:1299/live/live.txt"
+        },
+        {
+            "name": "澜露",
+            "type": 0,
+            "url": "https://cloud.7so.top/f/Bgw1H8/大改.txt"
+        },
+        {
             "name": "自用",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/ext/live.txt"
@@ -4009,7 +4051,7 @@
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/1996TV/iptv/main/gdyd.m3u"
         },
         {
-            "name": "Supprise0901",
+            "name": "Supprise",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt"
         }
