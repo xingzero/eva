@@ -27,7 +27,8 @@ class Spider(Spider):
 
 #   host='https://api.ubj83.com'
 #   host='https://ev2089.zxbwv.com'
-    host='https://fg7q8g.zxesz.com'
+#   host='https://fg7q8g.zxesz.com'
+    host='https://api.ztcgi.com'
 
     headers={
         'User-Agent': 'Mozilla/5.0 (Linux; Android 11; M2012K10C Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.4280.141 Mobile Safari/537.36;webank/h5face;webank/1.0;netType:NETWORK_WIFI;appVersion:416;packageName:com.jp3.xg3',
