@@ -3505,8 +3505,13 @@
         },
         {
             "name": "HKTV",
-            "type": 1,
+            "type": 0,
             "url": "http://gc.gt.tc/c/HKTV.txt"
+        },
+        {
+            "name": "港澳台",
+            "type": 0,
+            "url": "http://ok.zoho.to//i/?T=港澳台1"
         },
         {
             "name": "如意",
@@ -3537,6 +3542,11 @@
             "name": "蜂巢",
             "type": 0,
             "url": "https://pan.ymxx.net/f/x5BFz/555.txt"
+        },
+        {
+            "name": "cluntop",
+            "type": 0,
+            "url": "https://fastgit.cc/https://raw.githubusercontent.com/leilingzero/cluntop_tvbox/main/lib/iptv.txt"
         },
         {
             "name": "clun",
@@ -3582,6 +3592,11 @@
             "name": "hw2837",
             "type": 0,
             "url": "https://gitee.com/hw2837/iptv/raw/master/iptv"
+        },
+        {
+            "name": "catvod",
+            "type": 0,
+            "url": "https://live.catvod.com/?tk=691aed6eddc2e361474044878e71f344"
         },
         {
             "name": "测试",
