@@ -1,5 +1,5 @@
 {
-    "spider": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260415.jpg;md5;66c8320a11411420db914bba8b77e34b",
+    "spider": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260418.jpg;md5;927158dd12133ed25e056d3659a6b3ca",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -126,6 +126,16 @@
             "changeable": 1
         },
         {
+            "key": "糯米",
+            "name": "糯米(SP)",
+            "type": 3,
+            "api": "csp_NmyswvGuard",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "热播",
             "name": "热播(SP)",
             "type": 3,
@@ -136,16 +146,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "uqGL1bNENExT7/hGxpSE5qU="
-        },
-        {
-            "key": "糯米",
-            "name": "糯米(SP)",
-            "type": 3,
-            "api": "csp_NmyswvGuard",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         },
         {
             "key": "剧圈",
@@ -160,14 +160,25 @@
         },
         {
             "key": "光影",
-            "name": "光影",
+            "name": "光影(SP)",
             "type": 3,
             "api": "csp_AppSxGuard",
             "timeout": 10,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOX1voDIQhH8epBwtCFsub18Wmenoi4l29kKsy7X0oRJRBVvSwnsuM5MO9ZiIJs6T6MfJNEk2ptvW4yXL42Edzeou/SHng="
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg=="
+        },
+        {
+            "key": "视界",
+            "name": "视界(SP)",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOX1voDIQhH8epBwpmIsuSjpyyamoq83jM9L4r3AlwEM1kc4mV87aNKLeF/iNNL7ne1LNZlk3Bz8A=="
         },
         {
             "key": "花花",
@@ -185,11 +196,11 @@
             "name": "播客(SP)",
             "type": 3,
             "api": "csp_AppSxGuard",
-            "timeout": 15,
+            "timeout": 10,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOX1voDIQhH8epBwpmIsuS1pGyZxdH63T1kep6jS1xHcE9fpWUnrqJhf/sMidJ9qDXccstMjiJz925iVqZ9QpyF"
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+SPC3Nbv1SI/b5LtAUhbYkFU/DFvsLBvd/oV3cA4uGiCZNFRz3ln6nh5Q+AgDZiM5KrCAiO7S7SVzv31EG78jVB4JEMNrMPzTgWqRZdMTdR1smBWWwru"
         },
         {
             "key": "爱影",
@@ -200,7 +211,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprGv+T3+22cnI+1lW1gL8i1UUQeJQBMqCc2+bF/Yq4Ul9lvoCLVO51Skm9i8zNvRa47T5uA+erCUw=="
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TbK3c790iI/b5LtEhxNfAQK7DRvrLcqbf1Q0MQntXLZfMhK0Xsn6nwmF+shR8eZ76qXW3y9XKbblunmCSPux0YtJlscp9zpDmW7Ju4ufOtv+BcyBX7VWrSzyUWoVcxGhUtv"
         },
         {
             "key": "奥特",
@@ -296,6 +307,28 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOX1voDIQhH8epBwtCFsra0umqGnpe+lWNtKs6yVR1PMxpf9CY77fshTPNP+c5lnl6CWfxm7XYO7C1p"
+        },
+        {
+            "key": "播客2",
+            "name": "播客2(SP)",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOX1voDIQhH8epBwpmIsuS1pGyZxdH63T1kep6jS1xHcE9fpWUnrqJhf/sMidJ9qDXccstMjiJz925iVqZ9QpyF"
+        },
+        {
+            "key": "爱影2",
+            "name": "爱影2(SP)",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOb1uAWbkRHp7hdxprGv+T3+22cnI+1lW1gL8i1UUQeJQBMqCc2+bF/Yq4Ul9lvoCLVO51Skm9i8zNvRa47T5uA+erCUw=="
         },
         {
             "key": "TVB云播",
@@ -2627,6 +2660,18 @@
             "api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list"
         },
         {
+            "key": "co4k",
+            "name": "co4k(xml)",
+            "type": 1,
+            "api": "https://co4k.1ljx.com:32010/c_api/co4k_cj/?ac="
+        },
+        {
+            "key": "尘墨",
+            "name": "尘墨(xml)",
+            "type": 1,
+            "api": "https://movies.52xiaobai.cn/api.php/provide/vod/?ac=list"
+        },
+        {
             "key": "魅蓝",
             "name": "魅蓝(xml)",
             "type": 1,
@@ -2840,7 +2885,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "siteUrl": "http://38.55.131.86:82/"
+                "siteUrl": "http://107.148.176.74:8383/"
             },
             "indexs": 0,
             "style": {
@@ -3150,6 +3195,26 @@
             "url": "http://chaoqianys.top:98/api/jsonindex.php/?key=IfCDTGs10x816urQy2&url="
         },
         {
+            "name": "戮默",
+            "type": 1,
+            "url": "https://fanghu.52xiaobai.cn/qq4k/qq4k.php?url="
+        },
+        {
+            "name": "江南",
+            "type": 1,
+            "url": "http://jiexi.fc8001.top/bexZfWnCdiKtEhvb.php?url="
+        },
+        {
+            "name": "4Kexo",
+            "type": 1,
+            "url": "http://125.208.22.184:6019/api/index?parsesId=550266&appid=10000&videoUrl="
+        },
+        {
+            "name": "通用",
+            "type": 1,
+            "url": "https://fanghu.52xiaobai.cn/1080/1080.php?url="
+        },
+        {
             "name": "五妹轮询",
             "type": 0,
             "url": "https://down.nigx.cn/jx.zzong6599.workers.dev/?url="
@@ -3226,6 +3291,19 @@
         }
     ],
     "rules": [
+        {
+            "name": "cdn.ryplay",
+            "hosts": [
+                "cdn.ryplay"
+            ],
+            "regex": [
+                "5.480000",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.480000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:5.320000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:3.360000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:4.000000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:0.560000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+            ]
+        },
         {
             "name": "量非",
             "hosts": [
@@ -3619,6 +3697,21 @@
             "url": "https://mpimg.cn/down.php/8f4d44220555d8090879cb45224b861e.txt"
         },
         {
+            "name": "海马",
+            "type": 0,
+            "url": "http://ok.zoho.to//i/?T=海鲜市场"
+        },
+        {
+            "name": "经典",
+            "type": 0,
+            "url": "https://d.kstore.dev/download/6974/jdzby.txt"
+        },
+        {
+            "name": "强哥",
+            "type": 0,
+            "url": "https://d.kstore.dev/download/17626/20260409.txt"
+        },
+        {
             "name": "海燕",
             "type": 0,
             "url": "https://chuxinya.top/f/AD5QHE/海燕.txt"
@@ -3679,6 +3772,11 @@
             "url": "https://cloud.7so.top/f/Bgw1H8/大改.txt"
         },
         {
+            "name": "冰点",
+            "type": 0,
+            "url": "https://154.64.254.52:9999/down/Tjik2tar4v8s.php"
+        },
+        {
             "name": "自用",
             "type": 0,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/ext/live.txt"
@@ -3712,6 +3810,21 @@
             "name": "易发",
             "type": 0,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/fafa002/yf2025/main/yiyifafa.txt"
+        },
+        {
+            "name": "小易",
+            "type": 0,
+            "url": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/ext/live2.txt"
+        },
+        {
+            "name": "zilong",
+            "type": 0,
+            "url": "https://fastgit.cc/https://raw.githubusercontent.com/zilong7728/Collect-IPTV/main/best_sorted.m3u"
+        },
+        {
+            "name": "ajqubbs",
+            "type": 0,
+            "url": "https://fastgit.cc/https://raw.githubusercontent.com/ajqubbs/zhiboyuan/main/mitv.txt"
         },
         {
             "name": "CCSH",
