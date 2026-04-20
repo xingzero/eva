@@ -360,6 +360,14 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260313.png;md5;9c8e45f60d3d413d8b140ec21811deb0"
         },
         {
+            "key": "奇奇",
+            "name": "奇奇(SP)",
+            "type": 3,
+            "api": "csp_AppQi",
+            "ext": "http://110.42.67.221:8003|123456789abcdefg|122",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260313.png;md5;9c8e45f60d3d413d8b140ec21811deb0"
+        },
+        {
             "key": "老鹰",
             "name": "老鹰(SP)",
             "type": 3,
@@ -536,6 +544,14 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260313.png;md5;9c8e45f60d3d413d8b140ec21811deb0"
         },
         {
+            "key": "米饭(SP)",
+            "name": "米饭(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://miget-1313189639.cos.ap-guangzhou.myqcloud.com/mifun.txt|GETMIFUNGEIMIFUN",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260313.png;md5;9c8e45f60d3d413d8b140ec21811deb0"
+        },
+        {
             "key": "热热",
             "name": "热热(SP)",
             "type": 3,
@@ -641,6 +657,14 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://shangjihuoke.com|8E2DC386FD452D05|119",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260330.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3"
+        },
+        {
+            "key": "稀饭(SP)",
+            "name": "稀饭(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://app.xifanys.com|HM6Ly9yeS4ya3dvL|119",
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260330.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3"
         },
         {
@@ -888,6 +912,18 @@
             "name": "聚合短剧2",
             "type": 3,
             "api": "http://rihou.cc:88/js/聚合短剧.js"
+        },
+        {
+            "key": "短剧聚合",
+            "name": "短剧聚合",
+            "type": 3,
+            "api": "http://nn.4688888.xyz/py/短剧聚合.py"
+        },
+        {
+            "key": "布布",
+            "name": "布布",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/布布.js"
         },
         {
             "key": "麻雀2",
@@ -1577,6 +1613,13 @@
             "searchable": 0,
             "quickSearch": 0,
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/op260330.jar;md5;a4f403a000bc5e4ebdd9da27fcb05852"
+        },
+        {
+            "key": "csp_高兴",
+            "name": "高兴(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2Guard",
+            "ext": "http://8.mftv.top/api.php/app/"
         },
         {
             "key": "csp_久久",
@@ -2660,12 +2703,6 @@
             "api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list"
         },
         {
-            "key": "co4k",
-            "name": "co4k(xml)",
-            "type": 1,
-            "api": "https://co4k.1ljx.com:32010/c_api/co4k_cj/?ac="
-        },
-        {
             "key": "尘墨",
             "name": "尘墨(xml)",
             "type": 1,
@@ -3150,44 +3187,9 @@
             "url": "Web"
         },
         {
-            "name": "江湖",
-            "type": 1,
-            "url": "http://52.163.202.210:8808/jhjson/daoyongsiquanjia.php?url="
-        },
-        {
-            "name": "4k",
-            "type": 1,
-            "url": "http://103.163.47.120:7777/api/?key=yvgfYsmenad7cqm4b2&url="
-        },
-        {
-            "name": "青风",
-            "type": 1,
-            "url": "http://121.40.174.45:299/api/?key=C929E46077B4A0H&url="
-        },
-        {
             "name": "kalb",
             "type": 1,
             "url": "https://kalbim.xatut.top/kalbim2025/781718/play/video_player.php?url="
-        },
-        {
-            "name": "小腾",
-            "type": 1,
-            "url": "http://shybot.top/v2/video/jx/?shykey=4595a71a4e7712568edcfa43949236b42fcfcb04997788ebe7984d6da2c6a51c&url="
-        },
-        {
-            "name": "小芒",
-            "type": 1,
-            "url": "http://shybot.top/v2/video/jx/?shykey=4595a71a4e7712568edcfa43949236b42fcfcb04997788ebe7984d6da2c6a51c&qn=max&url="
-        },
-        {
-            "name": "芒果4k",
-            "type": 1,
-            "url": "http://mg.itufm.top/mg.php?url="
-        },
-        {
-            "name": "岁岁",
-            "type": 1,
-            "url": "http://sspa8.top:8100/api/?key=1060089351&url="
         },
         {
             "name": "限时2",
@@ -3195,24 +3197,39 @@
             "url": "http://chaoqianys.top:98/api/jsonindex.php/?key=IfCDTGs10x816urQy2&url="
         },
         {
-            "name": "戮默",
-            "type": 1,
-            "url": "https://fanghu.52xiaobai.cn/qq4k/qq4k.php?url="
-        },
-        {
             "name": "江南",
             "type": 1,
             "url": "http://jiexi.fc8001.top/bexZfWnCdiKtEhvb.php?url="
         },
         {
-            "name": "4Kexo",
-            "type": 1,
-            "url": "http://125.208.22.184:6019/api/index?parsesId=550266&appid=10000&videoUrl="
-        },
-        {
             "name": "通用",
             "type": 1,
             "url": "https://fanghu.52xiaobai.cn/1080/1080.php?url="
+        },
+        {
+            "name": "YYNB解析",
+            "type": 1,
+            "url": "https://json.cfysoft.cc/api/?key=5249e5bb3cb34032040224799dae6d45&url="
+        },
+        {
+            "name": "YYNB解析2",
+            "type": 1,
+            "url": "https://json.cfysoft.cc/api/?key=6294df9ba1f2c6da489bd78fdd9f6d46&url="
+        },
+        {
+            "name": "YYNB解析3",
+            "type": 1,
+            "url": "https://api.jxapi.cc/api/?key=87169fe0f2971cedba3d7c9d6718882e&url="
+        },
+        {
+            "name": "开心果解析",
+            "type": 1,
+            "url": "http://116.62.133.86:56682/api/?key=oDE5dyA0Xosa3OtRzV&url="
+        },
+        {
+            "name": "芒果4k",
+            "type": 1,
+            "url": "http://mg.itufm.top/mg.php?url="
         },
         {
             "name": "五妹轮询",
@@ -3622,6 +3639,11 @@
             "url": "https://pan.ymxx.net/f/x5BFz/555.txt"
         },
         {
+            "name": "全球",
+            "type": 0,
+            "url": "http://xingioe.top/down.php/82d0754d79de3be03e9b63e4d2d96818.jpg"
+        },
+        {
             "name": "cluntop",
             "type": 0,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/leilingzero/cluntop_tvbox/main/lib/iptv.txt"
@@ -3755,6 +3777,16 @@
             "name": "夜空",
             "type": 0,
             "url": "https://pan.szfx.top/down.php/4f5dad27633e1293d7ef2317ee9c801e.txt"
+        },
+        {
+            "name": "划了",
+            "type": 0,
+            "url": "https://pan.szfx.top/down.php/dcb0cc6a6935b5e62b2659eba6718471.txt"
+        },
+        {
+            "name": "yuan",
+            "type": 0,
+            "url": "http://wangziduoqing.com/yuan/zb.txt"
         },
         {
             "name": "天浪",
