@@ -1,1 +1,6 @@
 http://45.43.29.111:9527
+https://get.mymifun.com
+https://getcf.mymifun.com
+https://getcn.mymifun.com
+
+
