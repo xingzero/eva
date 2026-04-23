@@ -1,5 +1,5 @@
 {
-    "spider": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260418.jpg;md5;927158dd12133ed25e056d3659a6b3ca",
+    "spider": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260422.jpg;md5;4ce29ce27eeff6a73a230dd92d98ba0c",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -453,6 +453,14 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://ios.hgyx.vip|062dec75d039980e",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260313.png;md5;9c8e45f60d3d413d8b140ec21811deb0"
+        },
+        {
+            "key": "魔方",
+            "name": "魔方(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://www.alibaba31casaq.top|1234567887654321",
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260313.png;md5;9c8e45f60d3d413d8b140ec21811deb0"
         },
         {
@@ -2861,7 +2869,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "siteUrl": "http://107.148.176.74:8383/"
+                "siteUrl": "http://42.194.240.43:8888/"
             },
             "indexs": 0,
             "style": {
@@ -3581,6 +3589,21 @@
             "name": "全球",
             "type": 0,
             "url": "http://xingioe.top/down.php/82d0754d79de3be03e9b63e4d2d96818.jpg"
+        },
+        {
+            "name": "hs2026",
+            "type": 0,
+            "url": "https://gitee.com/hs2026/tv/raw/master/2026.txt"
+        },
+        {
+            "name": "EasyXC",
+            "type": 0,
+            "url": "https://fastgit.cc/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/api/tv.png"
+        },
+        {
+            "name": "平台",
+            "type": 0,
+            "url": "http://47.120.41.246:8025/vip/jar/zb.php"
         },
         {
             "name": "cluntop",
