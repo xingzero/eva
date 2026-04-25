@@ -3551,9 +3551,29 @@
             "url": "http://gc.gt.tc/c/HKTV.txt"
         },
         {
+            "name": "HKTV2",
+            "type": 0,
+            "url": "http://ok.zoho.to//i/?T=HKTV"
+        },
+        {
             "name": "港澳台",
             "type": 0,
             "url": "http://ok.zoho.to//i/?T=港澳台1"
+        },
+        {
+            "name": "夏天",
+            "type": 0,
+            "url": "http://ok.zoho.to//i/?T=夏天"
+        },
+        {
+            "name": "梦想",
+            "type": 0,
+            "url": "http://ok.zoho.to//i/?T=梦想科技"
+        },
+        {
+            "name": "洪都",
+            "type": 0,
+            "url": "http://ke.hongdus.com/i/21696.txt"
         },
         {
             "name": "如意",
@@ -3593,7 +3613,7 @@
         {
             "name": "hs2026",
             "type": 0,
-            "url": "https://gitee.com/hs2026/tv/raw/master/2026.txt"
+            "url": "https://gitee.com/hs2026/tv/raw/master/2026-TV.txt"
         },
         {
             "name": "EasyXC",
