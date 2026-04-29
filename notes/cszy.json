@@ -1,5 +1,5 @@
 {
-    "spider": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260422.jpg;md5;4ce29ce27eeff6a73a230dd92d98ba0c",
+    "spider": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260429.jpg;md5;bb41630d62485b4e6645f39c35a83d30",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -412,7 +412,7 @@
             "name": "星空(SP)",
             "type": 3,
             "api": "csp_AppGet",
-            "ext": "https://xkcms.xkgzs.xyz|107jkcdncofcdkjk",
+            "ext": "http://xk7.xkgzs.xyz/1/1234.txt|107jkcdncofcdkjk",
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260313.png;md5;9c8e45f60d3d413d8b140ec21811deb0"
         },
         {
@@ -565,14 +565,14 @@
             "type": 3,
             "api": "csp_AppRJ",
             "ext": "vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg=",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260420.png;md5;93c53bab6d0dd302b2434983938cd4a4"
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260428.zip;md5;4f72b8ae71ea963b29747cabf54a0181"
         },
         {
             "key": "csp_SaoHuo",
             "name": "火火(SP)",
             "type": 3,
             "api": "csp_SaoHuo",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260420.png;md5;93c53bab6d0dd302b2434983938cd4a4"
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260428.zip;md5;4f72b8ae71ea963b29747cabf54a0181"
         },
         {
             "key": "csp_Wwys",
@@ -580,60 +580,68 @@
             "type": 3,
             "api": "csp_Wwys",
             "ext": "https://vip.wwgz.cn:5200",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260420.png;md5;93c53bab6d0dd302b2434983938cd4a4"
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260428.zip;md5;4f72b8ae71ea963b29747cabf54a0181"
         },
         {
             "key": "csp_瓜子",
             "name": "瓜子(SP)",
             "type": 3,
             "api": "csp_Gz360",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260420.png;md5;93c53bab6d0dd302b2434983938cd4a4"
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260428.zip;md5;4f72b8ae71ea963b29747cabf54a0181"
         },
         {
             "key": "csp_FreeOk",
             "name": "FreeOk(SP)",
             "type": 3,
             "api": "csp_FreeOk",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260420.png;md5;93c53bab6d0dd302b2434983938cd4a4"
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260428.zip;md5;4f72b8ae71ea963b29747cabf54a0181"
         },
         {
             "key": "3Q影视",
             "name": "3Q影视(SP)",
             "type": 3,
             "api": "csp_App3Q",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260420.png;md5;93c53bab6d0dd302b2434983938cd4a4"
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260428.zip;md5;4f72b8ae71ea963b29747cabf54a0181"
         },
         {
-            "key": "牛牛",
-            "name": "牛牛(SP)",
+            "key": "驿站",
+            "name": "驿站(SP)",
             "type": 3,
             "api": "csp_AppGet",
-            "ext": "https://niuhulu.oss-cn-hangzhou.aliyuncs.com/niuniu.txt|uxxDgHxsdoSgVGZZ|122|okhttp/3.10.0|Lavf/58.12.100",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260420.png;md5;93c53bab6d0dd302b2434983938cd4a4"
+            "ext": "https://niuhulu.oss-cn-hangzhou.aliyuncs.com/niuniu.txt|uxxDgHxsdoSgVGZZ|V122|okhttp/3.10.0",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260428.zip;md5;4f72b8ae71ea963b29747cabf54a0181"
         },
         {
-            "key": "星河",
-            "name": "星河(SP)",
+            "key": "花猪",
+            "name": "花猪(SP)",
             "type": 3,
             "api": "csp_AppGet",
-            "ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt|kj37zs29q22jk96t|122|okhttp/3.10.0|Lavf/58.12.100",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260420.png;md5;93c53bab6d0dd302b2434983938cd4a4"
+            "ext": "https://c0nfb829mg2ds3z6x28fb1hjs7euh9vd.68.gy:7865|g68kj3fdh3c23t98",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260428.zip;md5;4f72b8ae71ea963b29747cabf54a0181"
+        },
+        {
+            "key": "首发",
+            "name": "首发(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/600.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260428.zip;md5;4f72b8ae71ea963b29747cabf54a0181"
         },
         {
             "key": "四叶草",
             "name": "四叶草(SP)",
             "type": 3,
             "api": "csp_AppGet",
-            "ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk|122|okhttp/3.10.0|Lavf/58.12.100",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260420.png;md5;93c53bab6d0dd302b2434983938cd4a4"
+            "ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk|V122|okhttp/3.10.0",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260428.zip;md5;4f72b8ae71ea963b29747cabf54a0181"
         },
         {
             "key": "爱影视",
             "name": "爱影视(SP)",
             "type": 3,
             "api": "csp_AppGet",
-            "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q22.txt|nzEqOYYH3QzHuEPl|122|Lavf/58.12.100",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260420.png;md5;93c53bab6d0dd302b2434983938cd4a4"
+            "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q22.txt|nzEqOYYH3QzHuEPl|V122",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260428.zip;md5;4f72b8ae71ea963b29747cabf54a0181"
         },
         {
             "key": "金牌",
@@ -641,7 +649,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://qj3.ggtvb.cc|eecbio48dsq13kkk|122",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260420.png;md5;93c53bab6d0dd302b2434983938cd4a4"
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260428.zip;md5;4f72b8ae71ea963b29747cabf54a0181"
         },
         {
             "key": "金牌2",
@@ -649,7 +657,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk|122",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260420.png;md5;93c53bab6d0dd302b2434983938cd4a4"
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260428.zip;md5;4f72b8ae71ea963b29747cabf54a0181"
         },
         {
             "key": "顾我",
@@ -657,7 +665,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "http://117.50.204.35:8090|ca94b06ca3c7d80e|122",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260420.png;md5;93c53bab6d0dd302b2434983938cd4a4"
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260428.zip;md5;4f72b8ae71ea963b29747cabf54a0181"
         },
         {
             "key": "段友",
@@ -665,7 +673,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://shangjihuoke.com|8E2DC386FD452D05|119",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260420.png;md5;93c53bab6d0dd302b2434983938cd4a4"
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260428.zip;md5;4f72b8ae71ea963b29747cabf54a0181"
         },
         {
             "key": "稀饭(SP)",
@@ -673,7 +681,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://app.xifanys.com|HM6Ly9yeS4ya3dvL|119",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260420.png;md5;93c53bab6d0dd302b2434983938cd4a4"
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260428.zip;md5;4f72b8ae71ea963b29747cabf54a0181"
         },
         {
             "key": "荐片2",
@@ -681,7 +689,7 @@
             "type": 3,
             "api": "csp_Jianpian",
             "ext": "https://api.ztcgi.com",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260420.png;md5;93c53bab6d0dd302b2434983938cd4a4"
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260428.zip;md5;4f72b8ae71ea963b29747cabf54a0181"
         },
         {
             "key": "清风",
@@ -711,8 +719,8 @@
             }
         },
         {
-            "key": "花猪",
-            "name": "花猪(SP)",
+            "key": "花猪2",
+            "name": "花猪2(SP)",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/getapp.py",
             "ext": {
@@ -729,7 +737,7 @@
             "name": "短剧(SP)",
             "type": 3,
             "api": "csp_DuanJu",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260420.png;md5;93c53bab6d0dd302b2434983938cd4a4"
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260428.zip;md5;4f72b8ae71ea963b29747cabf54a0181"
         },
         {
             "key": "csp_Music",
@@ -738,7 +746,7 @@
             "api": "csp_Music",
             "searchable": 0,
             "quickSearch": 0,
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260420.png;md5;93c53bab6d0dd302b2434983938cd4a4"
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260428.zip;md5;4f72b8ae71ea963b29747cabf54a0181"
         },
         {
             "key": "csp_Music2",
@@ -748,7 +756,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "ext": "http://www.qeecc.com",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260420.png;md5;93c53bab6d0dd302b2434983938cd4a4"
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260428.zip;md5;4f72b8ae71ea963b29747cabf54a0181"
         },
         {
             "key": "csp_Qfeng",
@@ -757,7 +765,7 @@
             "api": "csp_Qfeng",
             "searchable": 0,
             "quickSearch": 0,
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260420.png;md5;93c53bab6d0dd302b2434983938cd4a4"
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260428.zip;md5;4f72b8ae71ea963b29747cabf54a0181"
         },
         {
             "key": "csp_TingBook",
@@ -765,7 +773,7 @@
             "type": 3,
             "api": "csp_TingBook",
             "quickSearch": 0,
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260420.png;md5;93c53bab6d0dd302b2434983938cd4a4"
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260428.zip;md5;4f72b8ae71ea963b29747cabf54a0181"
         },
         {
             "key": "酷狗",
@@ -1648,6 +1656,27 @@
             "ext": "https://qpcj.69mini.com/api.php/app/"
         },
         {
+            "key": "大米",
+            "name": "大米(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2Guard",
+            "ext": "https://www.dmo6o1a9a3.shop/api.php/app/"
+        },
+        {
+            "key": "酷九",
+            "name": "酷九(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2Guard",
+            "ext": "https://www.55z9g0t0p3.shop/api.php/app/"
+        },
+        {
+            "key": "空气",
+            "name": "空气(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2Guard",
+            "ext": "https://www.airfun.fun/xgapp.php/v2/"
+        },
+        {
             "key": "空城",
             "name": "空城(V2)",
             "type": 3,
@@ -1864,8 +1893,13 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
-                "分类url": "https://www.iysdq.cc/vodshow/{cateId}-{area}-------{catePg}---.html",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+                "数组": "list-exp\"&&</a>",
+                "标题": "title=\"&&\"",
+                "图片": "data-src=\"&&\"",
+                "链接": "href=\"&&\"",
+                "搜索url": "https://www.iysdq.tv/vodsearch/{wd}----------{pg}---.html",
+                "分类url": "https://www.iysdq.tv/vodshow/{cateId}-{area}-------{catePg}---.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
             },
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
@@ -1879,6 +1913,40 @@
                 "线路标题": ">&&<",
                 "分类url": "https://www.zsledzm.com/type/{cateId}-{catePg}.html",
                 "分类": "国产剧$18#大陆综艺$30#国产动漫$26#韩剧$19#动作片$6#喜剧片$7#奇幻片$16#动画片$14#爱情片$8#恐怖片$10#战争片$12#悬疑片$13#犯罪片$15#剧情片$11#日韩综艺$31#港台综艺$32#日本动漫$27"
+            },
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "看戏网",
+            "name": "看戏网(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://www.kanxiw.com/tags/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+                "线路数组": "hl-tabs-btnhl-slide-swiper&&</a >"
+            },
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "微云",
+            "name": "微云(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://www.weiyuntv.com/vodshow/{cateId}-{area}-------{catePg}---.html",
+                "分类": "电影$1#连续剧$2#综艺$3#动漫$4#短剧$43#体育$5"
+            },
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "蘑菇",
+            "name": "蘑菇(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://moguvodw.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+                "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$5"
             },
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
@@ -2869,7 +2937,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "siteUrl": "http://42.194.240.43:8888/"
+                "siteUrl": "http://152.53.164.245:18080/"
             },
             "indexs": 0,
             "style": {
@@ -3691,6 +3759,11 @@
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt"
         },
         {
+            "name": "今日",
+            "type": 0,
+            "url": "http://43.251.226.110:9991/60jbes"
+        },
+        {
             "name": "今天",
             "type": 0,
             "url": "http://43.251.226.110:9991/xj7n7x"
@@ -3746,6 +3819,11 @@
             "url": "https://chuxinya.top/f/QnyjCo/飞扬直播.txt"
         },
         {
+            "name": "全飞扬",
+            "type": 0,
+            "url": "https://www.cccimg.com/down.php/657d29be8e72802eb9dbff859e968e11.txt"
+        },
+        {
             "name": "尘墨",
             "type": 0,
             "url": "https://52xiaobai.cn/ceshi/zb.php"
@@ -3789,6 +3867,11 @@
             "name": "冰点",
             "type": 0,
             "url": "https://154.64.254.52:9999/down/Tjik2tar4v8s.php"
+        },
+        {
+            "name": "新直播",
+            "type": 0,
+            "url": "http://47.120.41.246:8899/xinzb.txt"
         },
         {
             "name": "自用",
