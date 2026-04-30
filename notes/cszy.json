@@ -3595,57 +3595,52 @@
         },
         {
             "name": "萌萌",
-            "type": 0,
+            "type": 1,
             "url": "http://43.251.226.110:9991/qm0jue"
         },
         {
             "name": "日后",
-            "type": 0,
+            "type": 1,
             "url": "http://rihou.cc:555/gggg.nzk"
         },
         {
             "name": "宝盒",
-            "type": 0,
+            "type": 1,
             "url": "https://3043.kstore.space/bhvip/bh/bhzb4.txt"
         },
         {
             "name": "lalifeier",
-            "type": 0,
+            "type": 1,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt"
         },
         {
             "name": "HKTV",
-            "type": 0,
+            "type": 1,
             "url": "http://gc.gt.tc/c/HKTV.txt"
         },
         {
             "name": "HKTV2",
-            "type": 0,
+            "type": 1,
             "url": "http://ok.zoho.to//i/?T=HKTV"
         },
         {
             "name": "港澳台",
-            "type": 0,
+            "type": 1,
             "url": "http://ok.zoho.to//i/?T=港澳台1"
         },
         {
-            "name": "夏天",
-            "type": 0,
-            "url": "http://ok.zoho.to//i/?T=夏天"
-        },
-        {
             "name": "梦想",
-            "type": 0,
+            "type": 1,
             "url": "http://ok.zoho.to//i/?T=梦想科技"
         },
         {
             "name": "洪都",
-            "type": 0,
+            "type": 1,
             "url": "http://ke.hongdus.com/i/21696.txt"
         },
         {
             "name": "如意",
-            "type": 0,
+            "type": 1,
             "url": "http://iptv.ruyitv.cc/m3u/tv.txt"
         },
         {
@@ -3655,7 +3650,7 @@
         },
         {
             "name": "乘风",
-            "type": 0,
+            "type": 1,
             "url": "https://cnb.cool/fgvss/dszb1/-/git/raw/main/zbtv30.txt"
         },
         {
@@ -3669,23 +3664,13 @@
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/dqtx760/1TV/refs/heads/main/index.html"
         },
         {
-            "name": "蜂巢",
-            "type": 0,
-            "url": "https://pan.ymxx.net/f/x5BFz/555.txt"
-        },
-        {
             "name": "全球",
-            "type": 0,
+            "type": 1,
             "url": "http://xingioe.top/down.php/82d0754d79de3be03e9b63e4d2d96818.jpg"
         },
         {
-            "name": "hs2026",
-            "type": 0,
-            "url": "https://gitee.com/hs2026/tv/raw/master/2026-TV.txt"
-        },
-        {
             "name": "EasyXC",
-            "type": 0,
+            "type": 1,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/api/tv.png"
         },
         {
@@ -3695,12 +3680,12 @@
         },
         {
             "name": "cluntop",
-            "type": 0,
+            "type": 1,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/leilingzero/cluntop_tvbox/main/lib/iptv.txt"
         },
         {
             "name": "clun",
-            "type": 0,
+            "type": 1,
             "url": "https://clun.top/lib/iptv.txt"
         },
         {
@@ -3710,37 +3695,37 @@
         },
         {
             "name": "freetv",
-            "type": 0,
+            "type": 1,
             "url": "https://t.freetv.fun/m3u/playlist.txt"
         },
         {
             "name": "freetv2",
-            "type": 0,
+            "type": 1,
             "url": "https://freetv.fun/test_channels_hong_kong_original_new.txt"
         },
         {
             "name": "freetv3",
-            "type": 0,
+            "type": 1,
             "url": "https://freetv.fun/test_channels_taiwan_original_new.txt"
         },
         {
             "name": "xnk1",
-            "type": 0,
+            "type": 1,
             "url": "https://feer-cdn-bp.xpnb.qzz.io/xnkl.txt"
         },
         {
             "name": "linkenan",
-            "type": 0,
+            "type": 1,
             "url": "https://gitee.com/linkenan/linkenan/raw/master/01.txt"
         },
         {
             "name": "zwssina",
-            "type": 0,
+            "type": 1,
             "url": "https://gitee.com/zwssina/yunduanyuan/raw/master/SB"
         },
         {
             "name": "hw2837",
-            "type": 0,
+            "type": 1,
             "url": "https://gitee.com/hw2837/iptv/raw/master/iptv"
         },
         {
@@ -3755,47 +3740,42 @@
         },
         {
             "name": "卡卡西",
-            "type": 0,
+            "type": 1,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt"
         },
         {
             "name": "今日",
-            "type": 0,
+            "type": 1,
             "url": "http://43.251.226.110:9991/60jbes"
         },
         {
-            "name": "今天",
-            "type": 0,
-            "url": "http://43.251.226.110:9991/xj7n7x"
-        },
-        {
             "name": "魔鬼",
-            "type": 0,
+            "type": 1,
             "url": "https://mpimg.cn/down.php/8f4d44220555d8090879cb45224b861e.txt"
         },
         {
             "name": "海马",
-            "type": 0,
+            "type": 1,
             "url": "http://ok.zoho.to//i/?T=海鲜市场"
         },
         {
             "name": "经典",
-            "type": 0,
+            "type": 1,
             "url": "https://d.kstore.dev/download/6974/jdzby.txt"
         },
         {
             "name": "强哥",
-            "type": 0,
+            "type": 1,
             "url": "https://d.kstore.dev/download/17626/20260409.txt"
         },
         {
             "name": "海燕",
-            "type": 0,
+            "type": 1,
             "url": "https://chuxinya.top/f/AD5QHE/海燕.txt"
         },
         {
             "name": "风云",
-            "type": 0,
+            "type": 1,
             "url": "http://iptv.4666888.xyz/FYTV.txt"
         },
         {
@@ -3810,107 +3790,107 @@
         },
         {
             "name": "飞扬",
-            "type": 0,
+            "type": 1,
             "url": "https://l.gmbbk.com/upload/39183918.txt"
         },
         {
             "name": "飞扬2",
-            "type": 0,
+            "type": 1,
             "url": "https://chuxinya.top/f/QnyjCo/飞扬直播.txt"
         },
         {
             "name": "全飞扬",
-            "type": 0,
+            "type": 1,
             "url": "https://www.cccimg.com/down.php/657d29be8e72802eb9dbff859e968e11.txt"
         },
         {
             "name": "尘墨",
-            "type": 0,
+            "type": 1,
             "url": "https://52xiaobai.cn/ceshi/zb.php"
         },
         {
             "name": "mpimg",
-            "type": 0,
+            "type": 1,
             "url": "https://mpimg.cn/down.php/15fde33c6a9638590910d23179208bc1.txt"
         },
         {
             "name": "夜空",
-            "type": 0,
+            "type": 1,
             "url": "https://pan.szfx.top/down.php/4f5dad27633e1293d7ef2317ee9c801e.txt"
         },
         {
             "name": "划了",
-            "type": 0,
+            "type": 1,
             "url": "https://pan.szfx.top/down.php/dcb0cc6a6935b5e62b2659eba6718471.txt"
         },
         {
             "name": "yuan",
-            "type": 0,
+            "type": 1,
             "url": "http://wangziduoqing.com/yuan/zb.txt"
         },
         {
             "name": "天浪",
-            "type": 0,
+            "type": 1,
             "url": "http://210.245.166.84:1299/live/live1.txt"
         },
         {
             "name": "龙壹",
-            "type": 0,
+            "type": 1,
             "url": "http://210.245.166.84:1299/live/live.txt"
         },
         {
             "name": "澜露",
-            "type": 0,
+            "type": 1,
             "url": "https://cloud.7so.top/f/Bgw1H8/大改.txt"
         },
         {
-            "name": "冰点",
-            "type": 0,
-            "url": "https://154.64.254.52:9999/down/Tjik2tar4v8s.php"
-        },
-        {
             "name": "新直播",
-            "type": 0,
+            "type": 1,
             "url": "http://47.120.41.246:8899/xinzb.txt"
         },
         {
+            "name": "f503",
+            "type": 1,
+            "url": "http://110.40.170.5:8890/tg/live/f503.txt"
+        },
+        {
             "name": "自用",
-            "type": 0,
+            "type": 1,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/ext/live.txt"
         },
         {
             "name": "MoMo",
-            "type": 0,
+            "type": 1,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/jn950/live/main/tv/pllive.txt"
         },
         {
             "name": "fleung49",
-            "type": 0,
+            "type": 1,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/fleung49/star/main/mit"
         },
         {
             "name": "梦仙",
-            "type": 0,
+            "type": 1,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/mengxianshengaaa/IPTV/main/网络收集.txt"
         },
         {
             "name": "雷蒙",
-            "type": 0,
+            "type": 1,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/n3rddd/CTVLive/main/live.txt"
         },
         {
             "name": "FGBLH",
-            "type": 0,
+            "type": 1,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/FGBLH/FG/main/港台大陆无18内容"
         },
         {
             "name": "易发",
-            "type": 0,
+            "type": 1,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/fafa002/yf2025/main/yiyifafa.txt"
         },
         {
             "name": "小易",
-            "type": 0,
+            "type": 1,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/ext/live2.txt"
         },
         {
@@ -3920,17 +3900,17 @@
         },
         {
             "name": "ajqubbs",
-            "type": 0,
+            "type": 1,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/ajqubbs/zhiboyuan/main/mitv.txt"
         },
         {
             "name": "CCSH",
-            "type": 0,
+            "type": 1,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/CCSH/IPTV/main/live.txt"
         },
         {
             "name": "alantang1977",
-            "type": 0,
+            "type": 1,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/IPTV/main/live_ipv4.txt"
         },
         {
@@ -3970,18 +3950,13 @@
         },
         {
             "name": "bbxx",
-            "type": 0,
+            "type": 1,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/kimwang1978/collect-txt/main/bbxx.txt"
         },
         {
             "name": "kimwang1978",
-            "type": 0,
+            "type": 1,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/kimwang1978/collect-txt/main/others_output.txt"
-        },
-        {
-            "name": "临时",
-            "type": 0,
-            "url": "https://pan.ymxx.net/f/vBMSZ/临时测试.txt"
         },
         {
             "name": "bhmb",
@@ -3994,19 +3969,9 @@
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/wujiangliu/live-sources/main/电视家.m3u"
         },
         {
-            "name": "3kids",
-            "type": 0,
-            "url": "https://fastgit.cc/https://raw.githubusercontent.com/moonkeyhoo/3kids/main/dashengruoyu5lENmOjW.m3u"
-        },
-        {
             "name": "vinkerq",
-            "type": 0,
+            "type": 1,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/vinkerq/iptv-api/master/iptv.txt"
-        },
-        {
-            "name": "酒店",
-            "type": 0,
-            "url": "http://129.211.14.102:50085/sub?tv.sohu.blog=txt"
         },
         {
             "name": "test",
@@ -4015,7 +3980,7 @@
         },
         {
             "name": "Jsnzkpg",
-            "type": 0,
+            "type": 1,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"
         },
         {
@@ -4025,7 +3990,7 @@
         },
         {
             "name": "lenin",
-            "type": 0,
+            "type": 1,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/alenin-zhang/IPTV/main/lenin.txt"
         },
         {
@@ -4055,12 +4020,12 @@
         },
         {
             "name": "swtvlive",
-            "type": 0,
+            "type": 1,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/swhtv/1/main/swtvlive"
         },
         {
             "name": "雄健",
-            "type": 0,
+            "type": 1,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/xiongjian83/TvBox/main/live.txt"
         },
         {
@@ -4070,7 +4035,7 @@
         },
         {
             "name": "zxmlxw",
-            "type": 0,
+            "type": 1,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/zxmlxw520/5566/main/gat.txt"
         },
         {
@@ -4082,11 +4047,6 @@
             "ua": "okhttp/3.15,AptvPlayer/1.4.0"
         },
         {
-            "name": "ffmking",
-            "type": 0,
-            "url": "https://fastgit.cc/https://raw.githubusercontent.com/ffmking/tv1/refs/heads/main/888.txt"
-        },
-        {
             "name": "Guovin",
             "type": 0,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
@@ -4095,7 +4055,7 @@
         },
         {
             "name": "livetv",
-            "type": 0,
+            "type": 1,
             "url": "https://livetv.gungfu2012.tk"
         },
         {
@@ -4105,7 +4065,7 @@
         },
         {
             "name": "Supprise",
-            "type": 0,
+            "type": 1,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt"
         }
     ],

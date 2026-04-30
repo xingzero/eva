@@ -9,6 +9,8 @@
 甜蜜蜜-邓丽君,https://txmov2.a.kwimgs.com/bs3/video-hls/5188146953183755829_ccfe756e41aceceb_8978_hlsb.m3u8
 
 香港,#genre#
+秒开翡翠,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wfvjdD&tk=dqBxJk3yk6fU
+秒开小极,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nRNEl4&tk=dqBxJk3yk6fU
 翡翠台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=jade_twn
 翡翠台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=Jade_xue
 明珠台,https://woshinibaba.tzh911.qzz.io/play-smt.php?id=pearl_twn
