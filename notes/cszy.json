@@ -1,5 +1,5 @@
 {
-    "spider": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260429.jpg;md5;bb41630d62485b4e6645f39c35a83d30",
+    "spider": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260501.jpg;md5;e5d55ae742eea5fb2e210ff82f235b2c",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -212,6 +212,17 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+TbK3c790iI/b5LtEhxNfAQK7DRvrLcqbf1Q0MQntXLZfMhK0Xsn6nwmF+shR8eZ76qXW3y9XKbblunmCSPux0YtJlscp9zpDmW7Ju4ufOtv+BcyBX7VWrSzyUWoVcxGhUtv"
+        },
+        {
+            "key": "猫猫",
+            "name": "猫猫",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg=="
         },
         {
             "key": "奥特",
@@ -2937,7 +2948,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "siteUrl": "http://152.53.164.245:18080/"
+                "siteUrl": "https://ps.i3ei.com/"
             },
             "indexs": 0,
             "style": {
@@ -3596,7 +3607,7 @@
         {
             "name": "萌萌",
             "type": 1,
-            "url": "http://43.251.226.110:9991/qm0jue"
+            "url": "http://43.251.226.110:9991/hhba53"
         },
         {
             "name": "日后",
@@ -3647,6 +3658,11 @@
             "name": "开心",
             "type": 0,
             "url": "http://vip.bhh.indevs.in/kxzb.php"
+        },
+        {
+            "name": "天天",
+            "type": 1,
+            "url": "https://play.iptv365.org/天天开心/lives/%E2%91%A0live(EXO).txt"
         },
         {
             "name": "乘风",
@@ -3727,11 +3743,6 @@
             "name": "hw2837",
             "type": 1,
             "url": "https://gitee.com/hw2837/iptv/raw/master/iptv"
-        },
-        {
-            "name": "catvod",
-            "type": 0,
-            "url": "https://live.catvod.com/?tk=691aed6eddc2e361474044878e71f344"
         },
         {
             "name": "测试",
