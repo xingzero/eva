@@ -1,5 +1,5 @@
 {
-    "spider": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260501.jpg;md5;e5d55ae742eea5fb2e210ff82f235b2c",
+    "spider": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260502.jpg;md5;69a2e21f399421cf1f012a5ad501e31f",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -902,25 +902,11 @@
             }
         },
         {
-            "key": "麻雀",
-            "name": "麻雀(SP)",
-            "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/Applzxw.py",
-            "ext": "http://118.89.203.120:8365/"
-        },
-        {
             "key": "番喜",
             "name": "番喜(py)",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/Applzxw.py",
             "ext": "http://118.89.203.120:8762"
-        },
-        {
-            "key": "屁屁",
-            "name": "屁屁(py)",
-            "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/Applzxw.py",
-            "ext": "http://38.55.237.41:8762"
         },
         {
             "key": "聚合短剧",
@@ -941,8 +927,8 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/布布.js"
         },
         {
-            "key": "麻雀2",
-            "name": "麻雀2",
+            "key": "麻雀",
+            "name": "麻雀",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/麻雀视频.js"
         },
@@ -3635,9 +3621,29 @@
             "url": "http://ok.zoho.to//i/?T=HKTV"
         },
         {
+            "name": "HKTV3",
+            "type": 1,
+            "url": "http://gc.gt.tc/c/HKTV3.txt"
+        },
+        {
             "name": "港澳台",
             "type": 1,
             "url": "http://ok.zoho.to//i/?T=港澳台1"
+        },
+        {
+            "name": "港澳台",
+            "type": 1,
+            "url": "http://ke.html-5.me/i/港.txt"
+        },
+        {
+            "name": "飞龙",
+            "type": 1,
+            "url": "http://ge.html-5.me//ii/96070.txt"
+        },
+        {
+            "name": "宝藏",
+            "type": 1,
+            "url": "http://ge.html-5.me//ii/41297.txt"
         },
         {
             "name": "梦想",
