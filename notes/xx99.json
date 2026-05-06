@@ -310,6 +310,24 @@
             "api": "https://learnpython.ggff.net/hstv"
         },
         {
+            "key": "金坤",
+            "name": "金坤",
+            "type": 0,
+            "api": "https://www.jkunzyapi.com/api.php/provide/vod/at/xml"
+        },
+        {
+            "key": "开心果",
+            "name": "开心果",
+            "type": 0,
+            "api": "https://www.kxgav.com/api/xml.php"
+        },
+        {
+            "key": "老色逼",
+            "name": "老色逼",
+            "type": 1,
+            "api": "https://apilsbzy.com/api.php/provide/vod/?ac=list"
+        },
+        {
             "key": "XMVideo",
             "name": "熊猫",
             "type": 3,

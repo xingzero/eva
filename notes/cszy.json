@@ -1017,6 +1017,18 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/益达影院.js"
         },
         {
+            "key": "枫叶",
+            "name": "枫叶",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/枫叶.js"
+        },
+        {
+            "key": "鬼片",
+            "name": "鬼片",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/鬼片.js"
+        },
+        {
             "key": "爱看机器人",
             "name": "爱看机器人",
             "type": 3,
@@ -1412,6 +1424,12 @@
             "name": "荐片(py)",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/新荐片.py"
+        },
+        {
+            "key": "华数",
+            "name": "华数(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/华数.py"
         },
         {
             "key": "csp_动漫巴士",
@@ -2110,6 +2128,17 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
+            "key": "短剧屋",
+            "name": "短剧屋(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://www.djw5.com/w/{cateId}--------{catePg}---.html",
+                "分类": "全部$duanju#女频恋爱$nvpinlianai#现代都市$xiandaidushi#反转爽剧$fanzhuanshuangju#年代穿越$niandaichuanyue#古装仙侠$guzhuangxianxia#脑洞悬疑$naodongxuanyi#有声动漫$youshengdongman"
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
             "key": "短剧网",
             "name": "短剧网(XBPQ)",
             "type": 3,
@@ -2442,6 +2471,48 @@
             "api": "https://catbox.n13.club/t9/suishenting.php"
         },
         {
+            "key": "闪电",
+            "name": "闪电(T4)",
+            "type": 4,
+            "api": "https://xsd.sdzyapi.com/api.php/provide/vod"
+        },
+        {
+            "key": "AcFuns",
+            "name": "AcFuns(T4)",
+            "type": 4,
+            "api": "https://www.acfuns.net/api.php/provide/vod"
+        },
+        {
+            "key": "追剧吧",
+            "name": "追剧吧(xml)",
+            "type": 1,
+            "api": "https://zjuba.vip/api.php/provide/vod"
+        },
+        {
+            "key": "海豚",
+            "name": "海豚(xml)",
+            "type": 1,
+            "api": "https://hhzyapi.com/api.php/provide/vod"
+        },
+        {
+            "key": "高清资源",
+            "name": "高清资源(xml)",
+            "type": 1,
+            "api": "https://api.yzzy-api.com/inc/apijson.php"
+        },
+        {
+            "key": "猫眼",
+            "name": "猫眼(xml)",
+            "type": 1,
+            "api": "https://api.maoyanapi.top/api.php/provide/vod"
+        },
+        {
+            "key": "魔都",
+            "name": "魔都(xml)",
+            "type": 1,
+            "api": "https://caiji.moduapi.cc/api.php/provide/vod"
+        },
+        {
             "key": "综合",
             "name": "综合(xml)",
             "type": 1,
@@ -2455,20 +2526,26 @@
             "api": "https://cj.yayazy.net/api.php/provide/vod/"
         },
         {
+            "key": "鸭鸭2",
+            "name": "鸭鸭2(xml)",
+            "type": 1,
+            "api": "https://yayazy2.com/api.php/provide/vod/"
+        },
+        {
             "key": "爬虫",
             "name": "爬虫(xml)",
             "type": 1,
             "api": "https://dy.7772888.xyz/api.php/tvbox"
         },
         {
-            "key": "播剧",
-            "name": "播剧(xml)",
+            "key": "星球",
+            "name": "星球(xml)",
             "type": 1,
             "api": "https://www.ysxq.cc/api.php/provide/vod"
         },
         {
-            "key": "播剧2",
-            "name": "播剧2(xml)",
+            "key": "播剧",
+            "name": "播剧(xml)",
             "type": 1,
             "api": "https://www.boju.cc/api.php/provide/vod"
         },
@@ -3624,6 +3701,11 @@
             "name": "HKTV3",
             "type": 1,
             "url": "http://gc.gt.tc/c/HKTV3.txt"
+        },
+        {
+            "name": "HKTV4",
+            "type": 1,
+            "url": "http://12306.ct.ws/users/HKTV.txt"
         },
         {
             "name": "港澳台",
