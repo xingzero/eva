@@ -1026,7 +1026,7 @@
             "key": "鬼片",
             "name": "鬼片",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/鬼片.js"
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/鬼片之家.js"
         },
         {
             "key": "爱看机器人",
@@ -1430,6 +1430,12 @@
             "name": "华数(py)",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/华数.py"
+        },
+        {
+            "key": "高清电影",
+            "name": "高清电影(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/高清电影.py"
         },
         {
             "key": "csp_动漫巴士",
