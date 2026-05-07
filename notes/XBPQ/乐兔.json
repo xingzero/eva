@@ -1,0 +1,6 @@
+{
+    "首页": "https://www.letu.me",
+    "分类url": "https://www.letu.me/vodshow/{cateId}--------{catePg}---/",
+    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$46",
+    "图片": "data-src=\"&&\""
+}
