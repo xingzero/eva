@@ -1,5 +1,5 @@
 {
-    "spider": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260508.jpg;md5;1218c829b0edd8e3447b686468dc38fc",
+    "spider": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260509.jpg;md5;448a9f26f33109f6aa148971c3adab46",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -631,11 +631,11 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260507.jpg;md5;5dc14f5cfa13170d6d0f7d815d0c2559"
         },
         {
-            "key": "花猪",
-            "name": "花猪(SP)",
+            "key": "葫芦",
+            "name": "葫芦(SP)",
             "type": 3,
             "api": "csp_AppGet",
-            "ext": "https://c0nfb829mg2ds3z6x28fb1hjs7euh9vd.68.gy:7865|g68kj3fdh3c23t98",
+            "ext": "https://mobile-1251126973.cos.ap-guangzhou.myqcloud.com/maccos_config.txt|8R33VQSxzmCaHpEX|V122|okhttp/3.10.0",
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260507.jpg;md5;5dc14f5cfa13170d6d0f7d815d0c2559"
         },
         {
@@ -647,8 +647,16 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260507.jpg;md5;5dc14f5cfa13170d6d0f7d815d0c2559"
         },
         {
-            "key": "四叶草",
-            "name": "四叶草(SP)",
+            "key": "幸运",
+            "name": "幸运(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/sss.txt|wNCwbXzr0Bm6cS2C|V122|okhttp/3.10.0",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260507.jpg;md5;5dc14f5cfa13170d6d0f7d815d0c2559"
+        },
+        {
+            "key": "猪猪",
+            "name": "猪猪(SP)",
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk|V122|okhttp/3.10.0",
@@ -782,8 +790,8 @@
             }
         },
         {
-            "key": "花猪2",
-            "name": "花猪2(SP)",
+            "key": "花猪",
+            "name": "花猪(SP)",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/getapp.py",
             "ext": {
@@ -3566,12 +3574,12 @@
         {
             "name": "HKTV3",
             "type": 1,
-            "url": "http://gc.gt.tc/c/HKTV3.txt"
+            "url": "http://12306.ct.ws/users/HKTV.txt"
         },
         {
             "name": "HKTV4",
             "type": 1,
-            "url": "http://12306.ct.ws/users/HKTV.txt"
+            "url": "http://12306.ct.ws/users/HKTV2.txt"
         },
         {
             "name": "港澳台",
@@ -3608,6 +3616,22 @@
             "type": 1,
             "url": "http://ok.zoho.to//i/?T=poi",
             "ua": "UA888HG"
+        },
+        {
+            "name": "HDTV",
+            "type": 1,
+            "url": "http://ke.html-5.me//i/03296.txt",
+            "ua": "888HG"
+        },
+        {
+            "name": "龙峰",
+            "type": 1,
+            "url": "http://ke.html-5.me//i/30350.txt"
+        },
+        {
+            "name": "fmys",
+            "type": 1,
+            "url": "http://fmys.top/lib/tvlive.txt"
         },
         {
             "name": "9ef3",

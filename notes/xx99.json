@@ -146,6 +146,12 @@
             "api": "https://yutuzy10.com/api.php/provide/vod/"
         },
         {
+            "key": "玉兔3",
+            "name": "玉兔3",
+            "type": 1,
+            "api": "https://apiyutu.com/api.php/providedao/vod/?ac=list"
+        },
+        {
             "key": "桃花",
             "name": "桃花",
             "type": 1,
@@ -326,6 +332,18 @@
             "name": "老色逼",
             "type": 1,
             "api": "https://apilsbzy.com/api.php/provide/vod/?ac=list"
+        },
+        {
+            "key": "黑料",
+            "name": "黑料",
+            "type": 1,
+            "api": "https://www.heiliaozyapi.com/api.php/provide/vod/?ac=list"
+        },
+        {
+            "key": "小鸡",
+            "name": "小鸡",
+            "type": 1,
+            "api": "https://api.xiaojizy.live/provide/vod?ac=list"
         },
         {
             "key": "XMVideo",
@@ -1549,9 +1567,13 @@
     ],
     "parses": [
         {
-            "name": "解析5",
-            "type": 1,
-            "url": "https://lajiaoapi.com/watch?url="
+            "name": "玉兔",
+            "type": 0,
+            "url": "https://yutujx.com/?url="
+        },        {
+            "name": "杏吧",
+            "type": 0,
+            "url": "https://xbww888.com/?url="
         },
         {
             "name": "解析2",
@@ -1567,6 +1589,11 @@
             "name": "解析4",
             "type": 1,
             "url": "https://hd.iapijy.com/play?url="
+        },
+        {
+            "name": "解析5",
+            "type": 1,
+            "url": "https://lajiaoapi.com/watch?url="
         },
         {
             "name": "解析6",
