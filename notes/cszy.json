@@ -1399,6 +1399,20 @@
             "ext": "https://ysa.yy-fun.cc/feiapp"
         },
         {
+            "key": "疯姿",
+            "name": "疯姿(fei)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/Fei.py",
+            "ext": "https://dmc.yy-fun.cc/feiapp"
+        },
+        {
+            "key": "羽雪",
+            "name": "羽雪(fei)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/ppx.py",
+            "ext": "http://154.94.224.98:8762"
+        },
+        {
             "key": "嘶哩嘶哩",
             "name": "嘶哩嘶哩(sk)",
             "type": 3,
@@ -2087,6 +2101,22 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
+            "key": "安迪",
+            "name": "安迪(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/安迪影院.json",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "天龙",
+            "name": "天龙(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/天龙短剧.json",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
             "key": "书音",
             "name": "书音(XBPQ)",
             "type": 3,
@@ -2242,11 +2272,25 @@
             "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/ttt.js"
         },
         {
+            "key": "腾极",
+            "name": "腾极(js)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/lib4/drpy2.min.js",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/幽灵4kTX.js"
+        },
+        {
             "key": "guoguo",
             "name": "果果(js)",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/lib4/drpy2.min.js",
             "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/guoguo.js"
+        },
+        {
+            "key": "芒果",
+            "name": "芒果MG(js)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/lib4/drpy2.min.js",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/幽灵4kMG.js"
         },
         {
             "key": "drpy_360",
