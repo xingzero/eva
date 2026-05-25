@@ -1825,6 +1825,45 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
+            "key": "剧多多",
+            "name": "剧多多(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": {
+                "分类url": "https://jddzx.cc/vodshow/id/{cateId}/page/{catePg}.html",
+                "分类": "电影$dianying#剧集$juji#综艺$zongyi#动漫$dongman#短剧$duanju"
+            },
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "歪比巴卜",
+            "name": "歪比巴卜(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": {
+                "分类url": "https://wbbb1.com/show/{cateId}--------{catePg}---.html",
+                "分类": "电影$1#剧集$2#综艺$4#动漫$3"
+            },
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "枫叶影视",
+            "name": "枫叶(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": {
+                "分类url": "https://www.fengyeys.com/vodshow/{cateId}--------{catePg}---.html",
+                "分类": "电影$1#连续剧$2#综艺$4#动漫$3#短剧$5#体育$6#福利$7#其他$8"
+            },
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
             "key": "泥视频",
             "name": "泥视频(XBPQ)",
             "type": 3,
