@@ -367,6 +367,12 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260515.png;md5;b81a5747f91e7169bdc7e3f68bd995e0"
         },
         {
+            "key": "TVB云播2",
+            "name": "TVB云播2(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/TVB云播.py"
+        },
+        {
             "key": "csp_Xlys",
             "name": "修罗(SP)",
             "type": 3,
@@ -426,7 +432,7 @@
             "name": "猎豹(SP)",
             "type": 3,
             "api": "csp_AppGet",
-            "ext": "https://444421.xyz|#getapp@TMD@2025",
+            "ext": "https://444421.xyz|#getapp@TMD@2025|120",
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260515.png;md5;b81a5747f91e7169bdc7e3f68bd995e0"
         },
         {
@@ -435,6 +441,14 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://cms140.yhg.one|bM7iC9eA3oZ1nB7z",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260515.png;md5;b81a5747f91e7169bdc7e3f68bd995e0"
+        },
+        {
+            "key": "秒看",
+            "name": "秒看(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://mk1080.top/get.txt|c60d88b2eep53za8",
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260515.png;md5;b81a5747f91e7169bdc7e3f68bd995e0"
         },
         {
@@ -819,8 +833,8 @@
             "api": "http://我不是.摸鱼儿.com/api/feng/moyu.php?token=moyu996"
         },
         {
-            "key": "秒看",
-            "name": "秒看(SP)",
+            "key": "秒看2",
+            "name": "秒看2(SP)",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/getapp.py",
             "ext": {
@@ -1013,6 +1027,13 @@
             "ext": "http://118.89.203.120:8762"
         },
         {
+            "key": "看剧",
+            "name": "看剧(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/Applzxw.py",
+            "ext": "http://43.248.117.123:4680"
+        },
+        {
             "key": "聚合短剧",
             "name": "聚合短剧",
             "type": 3,
@@ -1071,6 +1092,12 @@
             "name": "独播2",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/独播库3.js"
+        },
+        {
+            "key": "毒舌",
+            "name": "毒舌",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/毒舌影视2.js"
         },
         {
             "key": "Emby",
@@ -1417,8 +1444,8 @@
             "ext": "https://ysa.yy-fun.cc/feiapp"
         },
         {
-            "key": "疯姿",
-            "name": "疯姿(fei)",
+            "key": "桔子",
+            "name": "桔子(fei)",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/Fei.py",
             "ext": "https://dmc.yy-fun.cc/feiapp"
@@ -1536,6 +1563,60 @@
             "name": "壹影视(py)",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/壹影视.py"
+        },
+        {
+            "key": "剧爸爸",
+            "name": "剧爸爸(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/追剧.py"
+        },
+        {
+            "key": "茶杯狐",
+            "name": "茶杯狐(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/茶杯狐2.py"
+        },
+        {
+            "key": "茶杯狐2",
+            "name": "茶杯狐2(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/茶杯狐3.py"
+        },
+        {
+            "key": "袋鼠",
+            "name": "袋鼠(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/袋鼠.py"
+        },
+        {
+            "key": "低端",
+            "name": "低端(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/低端.py"
+        },
+        {
+            "key": "麦田",
+            "name": "麦田(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/麦田2.py"
+        },
+        {
+            "key": "努努",
+            "name": "努努(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/努努.py"
+        },
+        {
+            "key": "天天",
+            "name": "天天(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/天天.py"
+        },
+        {
+            "key": "歪比巴卜",
+            "name": "歪比巴卜(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/歪比巴卜.py"
         },
         {
             "key": "csp_py_荐片",
@@ -1829,37 +1910,10 @@
             "name": "剧多多(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
+            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
             "ext": {
-                "分类url": "https://jddzx.cc/vodshow/id/{cateId}/page/{catePg}.html",
+                "分类url": "https://www.jddzx.vip/vodshow/id/{cateId}/page/{catePg}.html",
                 "分类": "电影$dianying#剧集$juji#综艺$zongyi#动漫$dongman#短剧$duanju"
-            },
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
-            "key": "歪比巴卜",
-            "name": "歪比巴卜(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": {
-                "分类url": "https://wbbb1.com/show/{cateId}--------{catePg}---.html",
-                "分类": "电影$1#剧集$2#综艺$4#动漫$3"
-            },
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
-            "key": "枫叶影视",
-            "name": "枫叶(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": {
-                "分类url": "https://www.fengyeys.com/vodshow/{cateId}--------{catePg}---.html",
-                "分类": "电影$1#连续剧$2#综艺$4#动漫$3#短剧$5#体育$6#福利$7#其他$8"
             },
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
@@ -2073,8 +2127,8 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
-            "key": "麦田",
-            "name": "麦田(XBPQ)",
+            "key": "麦田2",
+            "name": "麦田2(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/麦田影视.json",
@@ -2132,6 +2186,46 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/樱花动漫3.json",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "电影先生",
+            "name": "电影先生(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/电影先生3.json",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "鹊桥",
+            "name": "鹊桥(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/鹊桥.json",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "七味",
+            "name": "七味(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/七味.json",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "短剧网",
+            "name": "短剧网(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/短剧网2.json",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "4K动漫",
+            "name": "4K动漫(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/4K动漫.json",
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
@@ -3727,6 +3821,21 @@
             "name": "飞龙",
             "type": 1,
             "url": "http://ge.html-5.me//ii/96070.txt"
+        },
+        {
+            "name": "EasyTV",
+            "type": 0,
+            "url": "https://fastgit.cc/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/api/tv.png"
+        },
+        {
+            "name": "华丽",
+            "type": 0,
+            "url": "https://wp.kayyw.com/f/enWEFY/华丽接口.txt"
+        },
+        {
+            "name": "星辰",
+            "type": 0,
+            "url": "http://ke.hongdus.com/i/星辰大海.txt"
         },
         {
             "name": "宝藏",
