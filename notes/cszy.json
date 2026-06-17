@@ -599,6 +599,23 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260612.png;md5;5d388b3e0176de94a63e8c85dff7321a"
         },
         {
+            "key": "咕噜99",
+            "name": "咕噜(SP)",
+            "type": 3,
+            "api": "csp_App99",
+            "ext": {
+                "host": "http://103.45.132.22:19987/app/bn",
+                "LoginPath": "/app/log",
+                "appkey": "d1f0c269eab74d93821fffc9befdbbba",
+                "versionName": "1.9.5",
+                "name": "咕噜咕噜",
+                "package": "com.bd.tool.gulu",
+                "buildNumber": "2001",
+                "buildSignature": "B07C8F6DBEBD3ABEE6A4A4DE2BFBBF29A0AC3F984D532A39448EC3BF5DD36311"
+            },
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260612.png;md5;5d388b3e0176de94a63e8c85dff7321a"
+        },
+        {
             "key": "听心",
             "name": "听心(SP)",
             "type": 3,
@@ -611,24 +628,6 @@
                 "versionName": "2.8.1",
                 "name": "听心视频",
                 "package": "com.iksp.adsys.jjsp",
-                "buildNumber": "2001",
-                "buildSignature": "03DD38CE4C3D62D0F0DEFACC06768D14EB382C7BD77A05B2EBF4D66E154A0D47"
-            },
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260612.png;md5;5d388b3e0176de94a63e8c85dff7321a"
-        },
-        {
-            "key": "追番达人99",
-            "name": "追番(SP)",
-            "type": 3,
-            "api": "csp_App99",
-            "ext": {
-                "host": "https://app2026.ystva.com/api",
-                "LoginPath": "/app/log",
-                "version": "f341a4e57976d59e",
-                "appkey": "f3a8a193a7dc782cbc294159fcd91faf",
-                "versionName": "6.1.1",
-                "name": "追番达人",
-                "package": "com.yuaiweiwu.aixue.zfdr",
                 "buildNumber": "2001",
                 "buildSignature": "03DD38CE4C3D62D0F0DEFACC06768D14EB382C7BD77A05B2EBF4D66E154A0D47"
             },
@@ -1255,6 +1254,12 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/独播库.py"
         },
         {
+            "key": "影探",
+            "name": "影探(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/yt.py"
+        },
+        {
             "key": "追新",
             "name": "追新(py)",
             "type": 3,
@@ -1348,11 +1353,39 @@
             }
         },
         {
-            "key": "TVB云播",
-            "name": "TVB云播(fox)",
+            "key": "湘漓",
+            "name": "湘漓(fox)",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
-            "ext": "http://app.hktvyb.cc"
+            "ext": "https://ledayy.com"
+        },
+        {
+            "key": "嘉禾",
+            "name": "嘉禾(fox)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
+            "ext": "https://www.baidukuaiy.top"
+        },
+        {
+            "key": "峥嵘",
+            "name": "峥嵘(fox)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
+            "ext": "https://api2026.hboqy.cn"
+        },
+        {
+            "key": "猎鹰",
+            "name": "猎鹰(fox)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
+            "ext": "https://444421.xyz"
+        },
+        {
+            "key": "玫瑰",
+            "name": "玫瑰(fox)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
+            "ext": "http://43.251.227.45:3688"
         },
         {
             "key": "咕噜",
@@ -1385,13 +1418,6 @@
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/Fei.py",
             "ext": "https://dmc.yy-fun.cc/feiapp"
-        },
-        {
-            "key": "羽雪",
-            "name": "羽雪(fei)",
-            "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/ppx.py",
-            "ext": "http://154.94.224.98:8762"
         },
         {
             "key": "嘶哩嘶哩",
@@ -2175,6 +2201,22 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
+            "key": "全网看",
+            "name": "全网看(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/全网看.json",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "白嫖",
+            "name": "白嫖(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/白嫖.json",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
             "key": "七味2",
             "name": "七味2(XBPQ)",
             "type": 3,
@@ -2300,6 +2342,13 @@
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/lib4/drpy2.min.js",
             "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/冠建影视.js"
+        },
+        {
+            "key": "网飞猫",
+            "name": "网飞猫(js)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/lib4/drpy2.min.js",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/网飞猫影视.js"
         },
         {
             "key": "追剧迷(js)",
@@ -2560,6 +2609,12 @@
             "name": "牛牛(xml)",
             "type": 1,
             "api": "https://api.niuniuzy.me/api.php/provide/vod"
+        },
+        {
+            "key": "龙马",
+            "name": "龙马(xml)",
+            "type": 1,
+            "api": "http://jhysj.jiaheyy.top/api.php/provide/vod/?ac=list"
         },
         {
             "key": "AcFuns",
@@ -3758,14 +3813,9 @@
             "epg": "https://epg.diypapp.sbs/epg.php?ch={name}&date={date}"
         },
         {
-            "name": "ds65",
+            "name": "游魂",
             "type": 0,
-            "url": "https://ds65.tv1288.xyz/"
-        },
-        {
-            "name": "萌萌",
-            "type": 1,
-            "url": "http://43.251.226.110:9991/hhba53"
+            "url": "https://www.iyouhun.com/tv/zb"
         },
         {
             "name": "日后",
@@ -3790,17 +3840,7 @@
         {
             "name": "HKTV2",
             "type": 1,
-            "url": "http://ok.zoho.to//i/?T=HKTV"
-        },
-        {
-            "name": "HKTV3",
-            "type": 1,
-            "url": "http://12306.ct.ws/users/HKTV.txt"
-        },
-        {
-            "name": "HKTV4",
-            "type": 1,
-            "url": "http://12306.ct.ws/users/HKTV2.txt"
+            "url": "http://12306.rf.gd/users/HKTV.txt"
         },
         {
             "name": "港澳台",
@@ -3873,6 +3913,21 @@
             "name": "龙峰",
             "type": 1,
             "url": "http://ke.html-5.me//i/30350.txt"
+        },
+        {
+            "name": "龙峰2",
+            "type": 0,
+            "url": "http://ke.html-5.me//i/龙峰TV%20(2).txt"
+        },
+        {
+            "name": "锋云",
+            "type": 0,
+            "url": "https://fastgit.cc/https://raw.githubusercontent.com/807080747/zv/main/sese.txt"
+        },
+        {
+            "name": "锋云2",
+            "type": 0,
+            "url": "https://fastgit.cc/https://raw.githubusercontent.com/807080747/zv/main/suale.txt"
         },
         {
             "name": "fmys",
