@@ -27,8 +27,8 @@ class Spider(Spider):  # 直接继承Spider基类
         }
         
         # 分类映射
-        self.class_names = '电影&电视剧&综艺&动漫&日韩剧&国产剧&欧美剧&港台剧'.split('&')
-        self.class_urls = '1&2&3&4&16&13&15&14'.split('&')
+        self.class_names = '电影&剧集&综艺&动漫&短剧&港台剧&国产剧&日韩剧&欧美剧'.split('&')
+        self.class_urls = '1&2&3&4&5&14&13&15&16'.split('&')
         
         # 过滤条件映射
         self.filter_map = {

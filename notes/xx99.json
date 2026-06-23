@@ -779,6 +779,15 @@
             }
         },
         {
+            "key": "樱花视频",
+            "name": "樱花视频",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/樱花视频.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
             "key": "truvaze",
             "name": "truvaze(py)",
             "type": 3,
@@ -1765,6 +1774,11 @@
             "name": "小新",
             "type": 0,
             "url": "http://pan.aa53.cn/down.php/f15e574cc75afe3c3690a70e4e3a1576.txt"
+        },
+        {
+            "name": "小新TV",
+            "type": 0,
+            "url": "https://d.kstore.dev/download/9565/小新TV.txt"
         },
         {
             "name": "刘公子",
