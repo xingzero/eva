@@ -1,0 +1,11 @@
+{
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "数组": "video_content\"&&</a>",
+    "标题": "video_text\">&&</p>",
+    "图片": "src=\"&&\"",
+    "副标题": "video_time\">&&</p>",
+    "链接": "data-src=\"&&\"",
+    "分类url": "https://m.live.qq.com/video/data?page={catePg}&id={cateId}&nomore=false;;z",
+    "分类": "赛事集锦$1001#小视频$999#NBA$1#CBA$2#排球$103#足球$32#综合$50#专题$special"
+}
