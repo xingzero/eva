@@ -927,28 +927,6 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
         {
-            "key": "csp_xp_libv",
-            "name": "libv(XPF)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XPF/libv2.json",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
-        },
-        {
-            "key": "csp_xp_zxzj",
-            "name": "在线之家(XPF)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XPF/zxzjhd.json",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
-        },
-        {
             "key": "csp_xpath_lmm",
             "name": "路漫漫(XPF)",
             "type": 3,
@@ -2354,6 +2332,14 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
+            "key": "华视",
+            "name": "华视(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/华视影视.json",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
             "key": "樱花动漫",
             "name": "樱花动漫(XBPQ)",
             "type": 3,
@@ -2462,14 +2448,6 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/集百短剧.json",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c8"
-        },
-        {
-            "key": "草民短剧",
-            "name": "草民短剧(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/草民短剧.json",
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c8"
         },
         {
@@ -2951,6 +2929,12 @@
             "name": "快车(xml)",
             "type": 1,
             "api": "https://caiji.kuaichezy.org/api.php/provide/vod/"
+        },
+        {
+            "key": "98zy",
+            "name": "98资源(xml)",
+            "type": 1,
+            "api": "https://98zy.vip/api.php/provide/vod/"
         },
         {
             "key": "赤铜",
