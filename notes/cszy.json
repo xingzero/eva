@@ -1,5 +1,5 @@
 {
-    "spider": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260622.jpg;md5;1a7ffa0691e3836e78668e5f8b19f9f1",
+    "spider": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260627.jpg;md5;097bfd1388b83204958633f23eb6e4cb",
     "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
     "sites": [
         {
@@ -607,23 +607,6 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260622.jpg;md5;d6648fd1ac553d555ea8431b8adb7c71"
         },
         {
-            "key": "咕噜99",
-            "name": "咕噜(SP)",
-            "type": 3,
-            "api": "csp_App99",
-            "ext": {
-                "host": "http://103.45.132.22:19987/app/bn",
-                "LoginPath": "/app/log",
-                "appkey": "d1f0c269eab74d93821fffc9befdbbba",
-                "versionName": "1.9.5",
-                "name": "咕噜咕噜",
-                "package": "com.bd.tool.gulu",
-                "buildNumber": "2001",
-                "buildSignature": "B07C8F6DBEBD3ABEE6A4A4DE2BFBBF29A0AC3F984D532A39448EC3BF5DD36311"
-            },
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260622.jpg;md5;d6648fd1ac553d555ea8431b8adb7c71"
-        },
-        {
             "key": "听心",
             "name": "听心(SP)",
             "type": 3,
@@ -705,27 +688,6 @@
                 "package": "com.xchengzix.app",
                 "buildNumber": "2001",
                 "buildSignature": "99DA983CF878CEC016616175464A91A94775E20A489F07F76FCDEA1A0F2B6B45"
-            },
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260622.jpg;md5;d6648fd1ac553d555ea8431b8adb7c71"
-        },
-        {
-            "key": "宫阁",
-            "name": "宫阁99(SP)",
-            "type": 3,
-            "api": "csp_App99",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "host": "https://api.jciyuan.com/api",
-                "LoginPath": "/app/log",
-                "version": "",
-                "appkey": "193856c6f9b844e2b6c55d1ecc744593",
-                "versionName": "6.5.1",
-                "name": "落攻阁",
-                "package": "com.yuaiweiwu.aixue.lggys",
-                "buildNumber": "2001",
-                "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
             },
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260622.jpg;md5;d6648fd1ac553d555ea8431b8adb7c71"
         },
@@ -866,17 +828,6 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XPF/yueak.json",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
-        },
-        {
-            "key": "csp_xpath_3kgj",
-            "name": "3K港剧(XPF)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XPF/3kgj.json",
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
         {
@@ -2396,6 +2347,22 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
+            "key": "人人",
+            "name": "人人(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/人人.json",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "映像",
+            "name": "映像(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/映像星球.json",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
             "key": "短剧网",
             "name": "短剧网(XBPQ)",
             "type": 3,
@@ -2464,6 +2431,14 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/包子短剧.json",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c8"
+        },
+        {
+            "key": "短剧在线",
+            "name": "短剧在线(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/短剧在线.json",
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c8"
         },
         {
@@ -2833,7 +2808,7 @@
             "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/音乐磁场.js"
         },
         {
-            "key": "人人",
+            "key": "人人(T4)",
             "name": "人人(T4)",
             "type": 4,
             "api": "http://jiduo666.dpdns.org/rrsp.php"
@@ -4215,13 +4190,18 @@
         },
         {
             "name": "HKTV",
-            "type": 1,
-            "url": "http://bo.zoho.to/?o=HKTV.txt"
+            "type": 0,
+            "url": "http://gc.gt.tc/o/i/HKTV.txt"
         },
         {
             "name": "HKTV2",
-            "type": 1,
-            "url": "http://12306.rf.gd/users/HKTV.txt"
+            "type": 0,
+            "url": "http://zoto.3d.tc/i/i/HKTV.txt"
+        },
+        {
+            "name": "HKTV3",
+            "type": 0,
+            "url": "http://zoto.cc.cd/?o=HKTV"
         },
         {
             "name": "港澳台",
@@ -4441,6 +4421,11 @@
             "url": "https://epg.pw/test_channels_hong_kong.m3u"
         },
         {
+            "name": "天泽",
+            "type": 0,
+            "url": "https://fastgit.cc/https://raw.githubusercontent.com/tianze889/tvds/main/fyzb.txt"
+        },
+        {
             "name": "涛涛",
             "type": 1,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/taoBox2620/taoBox2620/main/log.png"
@@ -4449,6 +4434,11 @@
             "name": "卡卡西",
             "type": 1,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt"
+        },
+        {
+            "name": "adminouyang",
+            "type": 0,
+            "url": "https://fastgit.cc/https://raw.githubusercontent.com/adminouyang/231006/main/py/TV/output/ipv4/result.txt"
         },
         {
             "name": "今日",
