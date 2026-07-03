@@ -188,6 +188,12 @@
             "api": "https://www.jingpinx.com/api.php/provide/vod/?ac=list"
         },
         {
+            "key": "精品2",
+            "name": "精品2",
+            "type": 1,
+            "api": "https://jipinvip1.com/api.php/provide/vod/"
+        },
+        {
             "key": "森林1",
             "name": "森林1",
             "type": 1,
@@ -1483,6 +1489,12 @@
             "name": "鲨鱼(飞)",
             "type": 1,
             "api": "https://shayuapi.com/api.php/provide/vod/"
+        },
+        {
+            "key": "鲨鱼2",
+            "name": "鲨鱼2(飞)",
+            "type": 1,
+            "api": "https://shayuzy5.com/api.php/provide/vod/"
         },
         {
             "key": "小湿妹",
