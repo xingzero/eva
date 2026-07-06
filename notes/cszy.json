@@ -1,5 +1,5 @@
 {
-    "spider": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260701.jpg;md5;9ab472a9b588f9e5f45b67ca53d67d90",
+    "spider": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260704.jpg;md5;a4a7f967a36e78f6a72ee638585a6a71",
     "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
     "sites": [
         {
@@ -862,14 +862,6 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
         {
-            "key": "YY粤语",
-            "name": "YY粤语(XP)",
-            "type": 3,
-            "api": "csp_XPath",
-            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XP/yyu3.json",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
-        },
-        {
             "key": "csp_xpath_lmm",
             "name": "路漫漫(XPF)",
             "type": 3,
@@ -1678,6 +1670,48 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/影库.py"
         },
         {
+            "key": "奇优",
+            "name": "奇优(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/奇优影院.py"
+        },
+        {
+            "key": "优视频",
+            "name": "优视频(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/优视频.py"
+        },
+        {
+            "key": "麻花",
+            "name": "麻花(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/麻花影视.py"
+        },
+        {
+            "key": "星河",
+            "name": "星河(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/星河影视.py"
+        },
+        {
+            "key": "观风",
+            "name": "观风(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/观风影视.py"
+        },
+        {
+            "key": "小鸭子",
+            "name": "小鸭子(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/小鸭子看看.py"
+        },
+        {
+            "key": "山楂2",
+            "name": "山楂2(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/山楂影视.py"
+        },
+        {
             "key": "动漫巴士",
             "name": "动漫巴士(py)",
             "type": 3,
@@ -1702,7 +1736,7 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/嗷呜动漫.py"
         },
         {
-            "key": "樱花动漫(py)",
+            "key": "樱花动漫",
             "name": "樱花动漫(py)",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/樱花动漫2.py"
@@ -1718,6 +1752,12 @@
             "name": "西瓜卡通(py)",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/西瓜卡通.py"
+        },
+        {
+            "key": "喵物次元",
+            "name": "喵物次元(js)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/mwcy.js"
         },
         {
             "key": "B站番剧",
@@ -1792,6 +1832,12 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/抖音短剧网.py"
         },
         {
+            "key": "七猫",
+            "name": "️七猫(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/七猫影视.py"
+        },
+        {
             "key": "喜马拉雅",
             "name": "喜马拉雅(py)",
             "type": 3,
@@ -1808,6 +1854,12 @@
             "name": "西饭(js)",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/西饭短剧.js"
+        },
+        {
+            "key": "百度短剧",
+            "name": "百度短剧(js)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/bddj.js"
         },
         {
             "key": "九月听书",
@@ -2036,6 +2088,22 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
+            "key": "火车太堵",
+            "name": "火车太堵(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/火车太堵.json",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "明星",
+            "name": "明星(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/明星影院.json",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
             "key": "小镇",
             "name": "小镇(XBPQ)",
             "type": 3,
@@ -2202,8 +2270,8 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
-            "key": "奇优",
-            "name": "奇优(XBPQ)",
+            "key": "奇优2",
+            "name": "奇优2(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/qiyou.json",
@@ -2304,8 +2372,8 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
-            "key": "樱花动漫",
-            "name": "樱花动漫(XBPQ)",
+            "key": "樱花动漫2",
+            "name": "樱花动漫2(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/樱花动漫3.json",
@@ -2955,6 +3023,12 @@
             "name": "大众(xml)",
             "type": 1,
             "api": "https://cdn.dzzyapi.com/api.php/provide/vod"
+        },
+        {
+            "key": "樱花",
+            "name": "樱花(xml)",
+            "type": 1,
+            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod"
         },
         {
             "key": "追剧吧",
@@ -4348,6 +4422,11 @@
             "name": "洪都",
             "type": 1,
             "url": "http://ke.hongdus.com/i/21696.txt"
+        },
+        {
+            "name": "juli",
+            "type": 0,
+            "url": "https://files.catbox.moe/h3mb5a.txt"
         },
         {
             "name": "如意",
