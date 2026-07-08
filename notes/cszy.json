@@ -1,5 +1,5 @@
 {
-    "spider": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260704.jpg;md5;a4a7f967a36e78f6a72ee638585a6a71",
+    "spider": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260707.jpg;md5;cc4f45deda39564e41b80ba7b921718b",
     "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
     "sites": [
         {
@@ -629,6 +629,24 @@
                 "package": "com.qingtangxiaozhuan.xyz",
                 "buildNumber": "2002",
                 "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+            },
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260622.jpg;md5;d6648fd1ac553d555ea8431b8adb7c71"
+        },
+        {
+            "key": "咕噜99",
+            "name": "咕噜(SP)",
+            "type": 3,
+            "api": "csp_App99",
+            "searchable": 0,
+            "ext": {
+                "host": "http://103.45.132.22:19987/app/bn",
+                "LoginPath": "/app/log",
+                "appkey": "1a4c69b3c23e4cd2a315c26fb96cbac8",
+                "versionName": "2.0.1",
+                "name": "咕噜咕噜",
+                "package": "com.xiatianxiansheng.gulugulu",
+                "buildNumber": "2001",
+                "buildSignature": "8370FB5A96B50F39CC0FAEDE68759DFF6B0F0B6C6376331D8F22D171331DC96C"
             },
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260622.jpg;md5;d6648fd1ac553d555ea8431b8adb7c71"
         },
@@ -1676,6 +1694,12 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/奇优影院.py"
         },
         {
+            "key": "奇优2",
+            "name": "奇优2(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/奇优影院2.py"
+        },
+        {
             "key": "优视频",
             "name": "优视频(py)",
             "type": 3,
@@ -1698,6 +1722,18 @@
             "name": "观风(py)",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/观风影视.py"
+        },
+        {
+            "key": "观风2",
+            "name": "观风2(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/枫叶影院3.py"
+        },
+        {
+            "key": "蛋挞",
+            "name": "蛋挞(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/蛋挞TV.py"
         },
         {
             "key": "小鸭子",
@@ -2270,8 +2306,8 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
-            "key": "奇优2",
-            "name": "奇优2(XBPQ)",
+            "key": "奇优3",
+            "name": "奇优3(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/qiyou.json",
