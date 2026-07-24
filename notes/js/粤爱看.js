@@ -2,7 +2,8 @@
 var rule={
     title:'粤爱看',
     模板:'首图2',
-    host:'https://www.yueak.com',
+    host:'https://www.gjyak.com',
+//  host:'https://www.yueak.com',
 //  host:'https://www.yueyb.com',
     url:'/vod-list-id-fyfilter.html',
     filterable:1,//是否启用分类筛选,

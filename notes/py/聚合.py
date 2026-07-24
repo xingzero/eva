@@ -44,7 +44,10 @@ class Spider(Spider):
         's31': {'name': '👑非凡', 'api': 'https://cj.ffzyapi.com/api.php/provide/vod'},
         's32': {'name': '🍃飘零', 'api': 'https://p2100.net/api.php/provide/vod'},
         's33': {'name': '🐾淘片', 'api': 'https://www.taopianzy.com/cjapi/mc/vod/json.html'},
-        's34': {'name': '📺魔都', 'api': 'https://www.mdzyapi.com/api.php/provide/vod'},
+        's34': {'name': '🐾98', 'api': 'https://98zy.vip/api.php/provide/vod/'},
+        's35': {'name': '🐾大众', 'api': 'https://cdn.dzzyapi.com/api.php/provide/vod/'},
+        's36': {'name': '🐾悠悠2', 'api': 'https://uuzy.me/api.php/provide/vod/'},
+        's37': {'name': '📺魔都', 'api': 'https://www.mdzyapi.com/api.php/provide/vod'},
     }
 
     headers = {
