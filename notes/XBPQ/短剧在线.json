@@ -6,6 +6,6 @@
     "起始页": "1",
     "跳转播放链接": "var player_*\"url\":\"&&\"",
     "搜索模式": "1",
-    "分类url": "https://www.ksndym.com/",
+    "分类url": "https://www.ksndym.com/{cateId}-{catePg}",
     "分类": "短剧$category-20#电影$category-1#电视$category-2#综艺$category-3#动漫$category-4#纪录片$category-32"
 }
