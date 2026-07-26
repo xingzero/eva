@@ -121,6 +121,12 @@
             "api": "https://155api.com/api.php/provide/vod/?ac=list"
         },
         {
+            "key": "奥斯卡",
+            "name": "奥斯卡",
+            "type": 1,
+            "api": "https://aosikazy1.com/api.php/provide/vod/"
+        },
+        {
             "key": "JKUN",
             "name": "JKUN",
             "type": 1,
@@ -314,6 +320,12 @@
             "name": "香蕉网",
             "type": 1,
             "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list"
+        },
+        {
+            "key": "豆豆",
+            "name": "豆豆",
+            "type": 1,
+            "api": "https://api.douapi.cc/api.php/provide/vod/"
         },
         {
             "key": "HSTV",
