@@ -280,6 +280,18 @@
             "api": "https://json.xingba222.com/api.php/provide/vod/"
         },
         {
+            "key": "火速",
+            "name": "火速",
+            "type": 1,
+            "api": "https://api.huosuapi.cc/api.php/provide/vod/"
+        },
+        {
+            "key": "嘿嘿",
+            "name": "嘿嘿",
+            "type": 1,
+            "api": "https://api.heiapi.cc/api.php/provide/vod/"
+        },
+        {
             "key": "百度",
             "name": "百度",
             "type": 1,
@@ -938,10 +950,58 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/mjv011四百个个分类.py"
         },
         {
+            "key": "mjv012",
+            "name": "mjv012(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/mjv011四百个个分类2.py"
+        },
+        {
             "key": "每日大乱斗",
             "name": "每日大乱斗(py)",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/每日大乱斗.py"
+        },
+        {
+            "key": "luanlunba",
+            "name": "luanlunba(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/luanlunba.py"
+        },
+        {
+            "key": "猫咪TV",
+            "name": "猫咪TV(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/猫咪TV.py"
+        },
+        {
+            "key": "爆款片库",
+            "name": "爆款片库(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/爆款片库去广.py"
+        },
+        {
+            "key": "Jable",
+            "name": "Jable(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/Jable.py"
+        },
+        {
+            "key": "2048基地",
+            "name": "2048基地(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/2048基地.py"
+        },
+        {
+            "key": "91黑料网",
+            "name": "91黑料网(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/91黑料网.py"
+        },
+        {
+            "key": "真实人妻",
+            "name": "真实人妻(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/真实人妻.py"
         },
         {
             "key": "stripchat直播",
@@ -1607,8 +1667,8 @@
             }
         },
         {
-            "key": "Jable",
-            "name": "Jable(飞)",
+            "key": "Jable2",
+            "name": "Jable2(飞)",
             "type": 3,
             "api": "csp_Jable",
             "style": {

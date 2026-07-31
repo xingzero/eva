@@ -22,12 +22,12 @@ class Spider(Spider):
             'Accept': 'text/html'
         }
         self.cateConfig = {
-            "12": [{"key": "cateId", "name": "类型", "value": [{"n": "国产剧", "v": "12"}]}],
-            "4-dm": [{"key": "cateId", "name": "类型", "value": [{"n": "动漫", "v": "4-dm"}]}],
             "1": [{"key": "cateId", "name": "类型", "value": [{"n": "电影", "v": "1"}]}],
             "2": [{"key": "cateId", "name": "类型", "value": [{"n": "电视剧", "v": "2"}]}],
             "3": [{"key": "cateId", "name": "类型", "value": [{"n": "综艺", "v": "3"}]}],
-            "26": [{"key": "cateId", "name": "类型", "value": [{"n": "短剧", "v": "26"}]}]
+            "4": [{"key": "cateId", "name": "类型", "value": [{"n": "动漫", "v": "4"}]}],
+            "26": [{"key": "cateId", "name": "类型", "value": [{"n": "短剧", "v": "26"}]}],
+            "12": [{"key": "cateId", "name": "类型", "value": [{"n": "国产剧", "v": "12"}]}]
         }
         self.filterConfig = {}
 
@@ -46,12 +46,12 @@ class Spider(Spider):
     def homeContent(self, filter):
         result = {}
         classes = [
-            {'type_name': '国产剧', 'type_id': '12'},
-            {'type_name': '动漫', 'type_id': '4-dm'},
             {'type_name': '电影', 'type_id': '1'},
             {'type_name': '电视剧', 'type_id': '2'},
             {'type_name': '综艺', 'type_id': '3'},
-            {'type_name': '短剧', 'type_id': '26'}
+            {'type_name': '动漫', 'type_id': '4'},
+            {'type_name': '短剧', 'type_id': '26'},
+            {'type_name': '国产剧', 'type_id': '12'}
         ]
         try:
             data = self.fetch(self.host, headers=self.headers).text
