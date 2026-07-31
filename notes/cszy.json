@@ -583,7 +583,6 @@
             },
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260728.jpg;md5;739eb01b9d30692d10d0afa5c6668e24"
         },
-        },
         {
             "key": "云朵",
             "name": "云朵(SP)",
@@ -600,7 +599,6 @@
                 "ver": "1"
             },
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260728.jpg;md5;739eb01b9d30692d10d0afa5c6668e24"
-        },
         },
         {
             "key": "csp_PianKu8",
@@ -1954,7 +1952,6 @@
             "name": "蝶卡(py)",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/蝶卡影视.py"
-
         },
         {
             "key": "太乙",
