@@ -166,7 +166,7 @@ class Spider(Spider):  # 直接继承Spider基类
 
             if 'cateId' in extend:
                 url = f"{self.host}/index.php/vod/show/id/{filter_str}/page/{pg}.html"
-            else
+            else:
                 url = f"{self.host}/index.php/vod/show/id/{tid}{filter_str}/page/{pg}.html"
             response = self.fetch(url)
             
