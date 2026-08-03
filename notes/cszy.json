@@ -675,13 +675,6 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260728.jpg;md5;739eb01b9d30692d10d0afa5c6668e24"
         },
         {
-            "key": "csp_FreeOk",
-            "name": "Freeok(SP)",
-            "type": 3,
-            "api": "csp_FreeOk",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260728.jpg;md5;739eb01b9d30692d10d0afa5c6668e24"
-        },
-        {
             "key": "csp_Xlys",
             "name": "修罗(SP)",
             "type": 3,
@@ -710,14 +703,6 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://mobile-1251126973.cos.ap-guangzhou.myqcloud.com/maccos_config.txt|8R33VQSxzmCaHpEX|V122|okhttp/3.10.0",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260728.jpg;md5;739eb01b9d30692d10d0afa5c6668e24"
-        },
-        {
-            "key": "猪猪",
-            "name": "猪猪(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk|V122|okhttp/3.10.0",
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260728.jpg;md5;739eb01b9d30692d10d0afa5c6668e24"
         },
         {
@@ -839,24 +824,6 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260728.jpg;md5;739eb01b9d30692d10d0afa5c6668e24"
         },
         {
-            "key": "听心",
-            "name": "听心(SP)",
-            "type": 3,
-            "api": "csp_App99",
-            "ext": {
-                "host": "https://api.12321app.com/api",
-                "LoginPath": "/app/log",
-                "version": "0b4328287a5d953e",
-                "appkey": "a0a18659a9977a47e53442cd084b536c",
-                "versionName": "2.8.1",
-                "name": "听心视频",
-                "package": "com.iksp.adsys.jjsp",
-                "buildNumber": "2001",
-                "buildSignature": "03DD38CE4C3D62D0F0DEFACC06768D14EB382C7BD77A05B2EBF4D66E154A0D47"
-            },
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260728.jpg;md5;739eb01b9d30692d10d0afa5c6668e24"
-        },
-        {
             "key": "剧圈99",
             "name": "剧圈99(SP)",
             "type": 3,
@@ -869,23 +836,6 @@
                 "package": "com.qingtangxiaozhuan.xyz",
                 "buildNumber": "2002",
                 "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
-            },
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260728.jpg;md5;739eb01b9d30692d10d0afa5c6668e24"
-        },
-        {
-            "key": "橙子99",
-            "name": "橙子99(SP)",
-            "type": 3,
-            "api": "csp_App99",
-            "ext": {
-                "host": "http://113.31.180.218:19987/app/bn",
-                "LoginPath": "/app/log",
-                "appkey": "6e8f3764a0644f3686ab5cdd57bcdf48",
-                "versionName": "4.3.1",
-                "name": "小橙子",
-                "package": "com.xchengzix.app",
-                "buildNumber": "2001",
-                "buildSignature": "99DA983CF878CEC016616175464A91A94775E20A489F07F76FCDEA1A0F2B6B45"
             },
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260728.jpg;md5;739eb01b9d30692d10d0afa5c6668e24"
         },
@@ -993,12 +943,6 @@
         {
             "key": "TVB云播",
             "name": "TVB云播(py)",
-            "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/TVB云播2.py"
-        },
-        {
-            "key": "TVB云播2",
-            "name": "TVB云播2(py)",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/TVB云播3.py"
         },
@@ -1270,7 +1214,13 @@
             "key": "西瓜",
             "name": "西瓜",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/xgsp.js"
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/西瓜影视2.js"
+        },
+        {
+            "key": "枫叶2",
+            "name": "枫叶2",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/枫叶影院.js"
         },
         {
             "key": "鬼片",
@@ -1759,7 +1709,7 @@
             "key": "袋鼠2",
             "name": "袋鼠2(py)",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/袋鼠.py"
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/袋鼠影视.py"
         },
         {
             "key": "低端",
@@ -1804,16 +1754,10 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/七味.py"
         },
         {
-            "key": "枫叶2",
-            "name": "枫叶2(py)",
-            "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/枫叶影院2.py"
-        },
-        {
             "key": "枫叶3",
             "name": "枫叶3(py)",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/fy.py"
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/枫叶影院2.py"
         },
         {
             "key": "达达龟",
@@ -1996,6 +1940,18 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/枝枝影视.py"
         },
         {
+            "key": "西瓜2",
+            "name": "西瓜2(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/西瓜影院.py"
+        },
+        {
+            "key": "3Q影视",
+            "name": "3Q影视(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/app3q.py"
+        },
+        {
             "key": "58影视",
             "name": "58影视(py)",
             "type": 3,
@@ -2125,7 +2081,7 @@
             "key": "樱花动漫",
             "name": "樱花动漫(py)",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/樱花动漫2.py"
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/樱花动漫.py"
         },
         {
             "key": "粤漫",
@@ -2530,12 +2486,12 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
-            "key": "西瓜2",
-            "name": "西瓜2(XBPQ)",
+            "key": "西瓜3",
+            "name": "西瓜3(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
-                "分类url": "https://sszzyy.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
+                "分类url": "https://www.xiguazx.cc/index.php/vod/show/id/{cateId}/page/{catePg}.html",
                 "分类": "电影$20#剧集$37#动漫$43#综艺$45#B站$47#短剧$57"
             },
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"

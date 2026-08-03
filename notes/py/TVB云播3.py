@@ -20,10 +20,11 @@ class Spider(Spider):  # 直接继承Spider基类
 
     def __init__(self):
         self.name = 'TVB云播'
-        self.host = 'http://www.viptvb06.com'
+        self.host = 'http://www.viptvb08.com'
         self.timeout = 25
         self.header = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+            'Referer': 'http://www.viptvb08.com'
         }
         
         # 分类映射
@@ -95,7 +96,7 @@ class Spider(Spider):  # 直接继承Spider基类
                     result['filters'][cid] = self.get_filter_data(cid)
 
             # 获取推荐内容
-            url = f"{self.host}/index.php/vod/show/id/1.html"
+            url = f"{self.host}/index.php/vod/show/id/14.html"
             response = self.fetch(url)
             if response:
                 data = pq(response)
@@ -419,7 +420,8 @@ class Spider(Spider):  # 直接继承Spider基类
             response.encoding = 'utf-8'
             if response.status_code == 200:
                 return response.text
-            return None
+            else:
+                return None
         except Exception as e:
             print(f"Error fetching {url}: {str(e)}")
             return None
