@@ -1064,6 +1064,30 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/一起草.py"
         },
         {
+            "key": "MasexTV",
+            "name": "MasexTV(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/MasexTV.py"
+        },
+        {
+            "key": "大鸡吧",
+            "name": "大鸡吧(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/大鸡吧.py"
+        },
+        {
+            "key": "陌陌交友",
+            "name": "陌陌交友(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/陌陌交友.py"
+        },
+        {
+            "key": "幸福加油站",
+            "name": "幸福加油站(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/幸福加油站.py"
+        },
+        {
             "key": "stripchat直播",
             "name": "stripchat直播(py)",
             "type": 3,

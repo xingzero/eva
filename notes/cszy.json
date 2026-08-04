@@ -1,5 +1,5 @@
 {
-    "spider": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260801.jpg;md5;35002041650f308fab31cdda04a60637",
+    "spider": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260803.jpg;md5;9d90c83bc7504392dd02c2236f08713a",
     "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
     "sites": [
         {
@@ -1890,6 +1890,12 @@
             "name": "808影视(py)",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/808影视.py"
+        },
+        {
+            "key": "豆花",
+            "name": "豆花(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/豆花影视.py"
         },
         {
             "key": "蝶卡",
