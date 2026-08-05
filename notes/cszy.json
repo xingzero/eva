@@ -1223,6 +1223,12 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/枫叶影院.js"
         },
         {
+            "key": "开心",
+            "name": "开心",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/开心影院.js"
+        },
+        {
             "key": "鬼片",
             "name": "鬼片",
             "type": 3,
@@ -1890,6 +1896,12 @@
             "name": "808影视(py)",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/808影视.py"
+        },
+        {
+            "key": "freeokok",
+            "name": "freeokok(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/freeokok.py"
         },
         {
             "key": "豆花",
@@ -4870,6 +4882,16 @@
             "name": "酷捞",
             "type": 0,
             "url": "https://tv.tmxk.kdns.fr/ex64181y"
+        },
+        {
+            "name": "夏夏",
+            "type": 0,
+            "url": "http://bo.zya.me/i/夏夏秒播.txt"
+        },
+        {
+            "name": "iptv543",
+            "type": 0,
+            "url": "https://iptv543.com/bbb.php"
         },
         {
             "name": "mafly",
