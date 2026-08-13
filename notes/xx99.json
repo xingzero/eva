@@ -1220,6 +1220,18 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/熟女汇修复翻页.py"
         },
         {
+            "key": "owoav",
+            "name": "owoav(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/owoav.py"
+        },
+        {
+            "key": "第一动漫网",
+            "name": "第一动漫网(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/第一动漫网.py"
+        },
+        {
             "key": "stripchat直播",
             "name": "stripchat直播(py)",
             "type": 3,
