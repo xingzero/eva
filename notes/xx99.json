@@ -1226,6 +1226,18 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/owoav.py"
         },
         {
+            "key": "AV天堂",
+            "name": "AV天堂(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/AV天堂.py"
+        },
+        {
+            "key": "追剧狂飙",
+            "name": "追剧狂飙(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/追剧狂飙.py"
+        },
+        {
             "key": "第一动漫网",
             "name": "第一动漫网(py)",
             "type": 3,

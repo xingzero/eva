@@ -1259,7 +1259,7 @@
             "key": "腾爱优b站",
             "name": "腾爱优b站",
             "type": 3,
-            "api": "ttps://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/腾爱优b站.js"
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/腾爱优b站.js"
         },
         {
             "key": "爱看机器人",
@@ -2141,6 +2141,24 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/阳光.py"
         },
         {
+            "key": "大师兄",
+            "name": "大师兄(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/大师兄影视.py"
+        },
+        {
+            "key": "网飞TV",
+            "name": "网飞TV(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/网飞TV.py"
+        },
+        {
+            "key": "饭搭子",
+            "name": "饭搭子(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/饭搭子影视.py"
+        },
+        {
             "key": "动漫巴士",
             "name": "动漫巴士(py)",
             "type": 3,
@@ -2703,8 +2721,8 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
-            "key": "大师兄",
-            "name": "大师兄(XBPQ)",
+            "key": "大师兄2",
+            "name": "大师兄2(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/大师兄影视2.json",
