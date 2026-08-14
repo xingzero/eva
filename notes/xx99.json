@@ -553,6 +553,22 @@
             "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/色花堂1.json"
         },
         {
+            "key": "狂飙",
+            "name": "狂飙(xbpq)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/追剧狂飙.json"
+        },
+        {
+            "key": "迷妹",
+            "name": "迷妹(xbpq)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/迷妹网.json"
+        },
+        {
             "key": "湿妹视频",
             "name": "湿妹视频",
             "type": 3,
@@ -1236,6 +1252,36 @@
             "name": "追剧狂飙(py)",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/追剧狂飙.py"
+        },
+        {
+            "key": "U视",
+            "name": "U视(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/UU视视APP.py"
+        },
+        {
+            "key": "九阴争茎",
+            "name": "九阴争茎(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/九阴争茎.py"
+        },
+        {
+            "key": "密云",
+            "name": "密云(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/密云视频.py"
+        },
+        {
+            "key": "野马",
+            "name": "野马(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/野马中文.py"
+        },
+        {
+            "key": "淫水洞",
+            "name": "淫水洞(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/淫水洞.py"
         },
         {
             "key": "第一动漫网",
