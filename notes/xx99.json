@@ -1320,6 +1320,12 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/智者玩水.py"
         },
         {
+            "key": "Chaturbate",
+            "name": "Chaturbate(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/Chaturbate2.py"
+        },
+        {
             "key": "第一动漫网",
             "name": "第一动漫网(py)",
             "type": 3,

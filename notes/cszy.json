@@ -1423,6 +1423,12 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/八戒影视.py"
         },
         {
+            "key": "八戒3",
+            "name": "八戒3(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/八戒影视2.py"
+        },
+        {
             "key": "美剧侠",
             "name": "美剧侠(py)",
             "type": 3,
@@ -1790,6 +1796,12 @@
             "key": "枫叶4",
             "name": "枫叶4(py)",
             "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/枫叶影院6.py"
+        },
+        {
+            "key": "枫叶5",
+            "name": "枫叶5(py)",
+            "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/枫叶4K.py"
         },
         {
@@ -1947,6 +1959,30 @@
             "name": "五大(py)",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/五大平台.py"
+        },
+        {
+            "key": "草莓",
+            "name": "草莓(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/草莓影视.py"
+        },
+        {
+            "key": "泡泡",
+            "name": "泡泡(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/泡泡影院.py"
+        },
+        {
+            "key": "枫林网",
+            "name": "枫林网(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/枫林网.py"
+        },
+        {
+            "key": "30剧集",
+            "name": "30剧集(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/30剧集网.py"
         },
         {
             "key": "看剧AI",
