@@ -1347,12 +1347,6 @@
             "key": "撸壮元",
             "name": "撸壮元(py)",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/撸壮元.py"
-        },
-        {
-            "key": "撸壮元2",
-            "name": "撸壮元(py)",
-            "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/撸壮元2.py"
         },
         {
@@ -1408,6 +1402,24 @@
             "name": "小涩界(py)",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/小涩界.py"
+        },
+        {
+            "key": "爆瓜网",
+            "name": "爆瓜网(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/爆瓜网.py"
+        },
+        {
+            "key": "萝莉聚集",
+            "name": "萝莉聚集(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/萝莉聚集.py"
+        },
+        {
+            "key": "蜜桃源",
+            "name": "蜜桃源(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/蜜桃源.py"
         },
         {
             "key": "Chaturbate",

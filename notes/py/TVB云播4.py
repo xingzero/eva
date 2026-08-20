@@ -41,6 +41,9 @@ def _decrypt_data(b64text):
 # 线路名 -> 中文显示名（源站返回的是英文/拼音缩写）
 _LINE_CN = {
     'mp4': 'MP4 高清',
+    'mp42': 'MP4 高清2',
+    'mytv': 'mytv',
+    'mytvb': 'mytvb',
     'YYNB': '优优牛播',
     'wsym3u8': '微视云 M3U8',
     'bfzym3u8': '暴风影视 M3U8',

@@ -4957,6 +4957,11 @@
             "url": "http://bo.zya.me/i/夏夏秒播.txt"
         },
         {
+            "name": "精彩TV",
+            "type": 0,
+            "url": "https://ytv1.ccwu.cc/output/live.m3u"
+        },
+        {
             "name": "iptv543",
             "type": 0,
             "url": "https://iptv543.com/bbb.php"

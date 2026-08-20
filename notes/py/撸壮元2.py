@@ -221,7 +221,7 @@ class Spider(BaseSpider):
         if not title:
             tm2 = re.search(r'<title>(.*?)</title>', html, re.S)
             if tm2:
-                title = self._clean_text(tm2.group(3))
+                title = self._clean_text(tm2.group(1))
 
         # 封面
         pic = ""
