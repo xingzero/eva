@@ -1320,6 +1320,96 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/智者玩水.py"
         },
         {
+            "key": "hqg",
+            "name": "hqg(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/hqg.py"
+        },
+        {
+            "key": "juzi",
+            "name": "juzi(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/juzi.py"
+        },
+        {
+            "key": "one点播",
+            "name": "one点播(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/one点播.py"
+        },
+        {
+            "key": "精英突击",
+            "name": "精英突击(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/精英突击.py"
+        },
+        {
+            "key": "撸壮元",
+            "name": "撸壮元(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/撸壮元.py"
+        },
+        {
+            "key": "撸壮元2",
+            "name": "撸壮元(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/撸壮元2.py"
+        },
+        {
+            "key": "三流视频",
+            "name": "三流视频(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/三流视频.py"
+        },
+        {
+            "key": "杏吧视频",
+            "name": "杏吧视频(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/杏吧视频.py"
+        },
+        {
+            "key": "hubff",
+            "name": "hubff(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/hubff.py"
+        },
+        {
+            "key": "MissAV",
+            "name": "MissAV(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/MissAV.py"
+        },
+        {
+            "key": "MSAVX",
+            "name": "MSAVX(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/MSAVX.py"
+        },
+        {
+            "key": "okxxx",
+            "name": "okxxx(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/okxxx.py"
+        },
+        {
+            "key": "笔盒",
+            "name": "笔盒(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/笔盒.py"
+        },
+        {
+            "key": "口爆大全AV",
+            "name": "口爆大全AV(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/口爆大全AV.py"
+        },
+        {
+            "key": "小涩界",
+            "name": "小涩界(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/小涩界.py"
+        },
+        {
             "key": "Chaturbate",
             "name": "Chaturbate(py)",
             "type": 3,
@@ -2150,6 +2240,11 @@
             "name": "FG_x视频",
             "type": 0,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/FGBLH/FG/main/xxx视频资源"
+        },
+        {
+            "name": "监控",
+            "type": 0,
+            "url": "https://fastgit.cc/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/main/监控.m3u"
         },
         {
             "name": "黄蚂蚁",
