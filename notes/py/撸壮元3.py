@@ -215,7 +215,7 @@ class Spider(BaseSpider):
 
         # 标题（修复：使用非贪婪匹配并清理内部标签，避免标题截断或包含HTML标签）
         title = ""
-        tm = re.search(r'<title>(.*?)</title>', html, re.S)
+        tm = re.search(r'<title>(.*?)撸状元</title>', html, re.S)
         if tm:
             title = self._clean_text(tm.group(1))
         if not title:
