@@ -1,5 +1,5 @@
 {
-    "spider": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260823.jpg;md5;1ac25ccd1b5ac56fd19eb91c6f7daf4d",
+    "spider": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260825.jpg;md5;608d621640f5ed5ae8c78158ca61bff7",
     "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
     "sites": [
         {
@@ -390,7 +390,7 @@
             "name": "怀桑(SP)",
             "type": 3,
             "api": "csp_AppQi",
-            "ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt|kj37zs29q22jk96t|122",
+            "ext": "http://110.42.67.130:1226|kj37zs29q22jk96t|122",
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260818.png;md5;944207855ef6e709a0050614bdc02c92"
         },
         {
@@ -882,14 +882,14 @@
             "type": 3,
             "api": "csp_App99",
             "ext": {
-                "host": "http://175.178.65.250:19987/app/bn",
+                "host": "http://111.180.139.119:19987/app/bn",
                 "LoginPath": "/app/log",
                 "appkey": "f66f65db127e48449f073c2c6eb0f993",
-                "versionName": "6.4.5",
+                "versionName": "6.4.9",
                 "name": "双子星动漫",
-                "package": "com.yingfu.mobile.android.pgsp",
-                "buildNumber": "2003",
-                "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+                "package": "com.haiwang.liangxia.my.ym",
+                "buildNumber": "2001",
+                "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
             },
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260822.jpg;md5;20c2251db91d73246a84cad241582ec9"
         },
@@ -1913,6 +1913,36 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/星辰影院.py"
         },
         {
+            "key": "映刻",
+            "name": "映刻(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/映刻短剧.py"
+        },
+        {
+            "key": "樱之空",
+            "name": "樱之空(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/樱之空动漫.py"
+        },
+        {
+            "key": "搜剧AI",
+            "name": "搜剧AI(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/搜剧AI.py"
+        },
+        {
+            "key": "山水",
+            "name": "山水(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/山水影视.py"
+        },
+        {
+            "key": "IMXVOD",
+            "name": "IMXVOD(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/IMXVOD影视.py"
+        },
+        {
             "key": "厂长3",
             "name": "厂长3(py)",
             "type": 3,
@@ -2529,6 +2559,12 @@
             "name": "275听书(py)",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/275听书.py"
+        },
+        {
+            "key": "456听书",
+            "name": "456听书(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/听书网456.py"
         },
         {
             "key": "悦听吧",
@@ -3968,6 +4004,12 @@
             "api": "https://www.lovedan.net/api.php/provide/vod/"
         },
         {
+            "key": "剧屋",
+            "name": "剧屋(xml)",
+            "type": 1,
+            "api": "https://m.juwu.tv/api.php/provide/vod/"
+        },
+        {
             "key": "金鹰",
             "name": "金鹰(xml)",
             "type": 1,
@@ -4996,6 +5038,11 @@
             "name": "iptv543",
             "type": 0,
             "url": "https://iptv543.com/bbb.php"
+        },
+        {
+            "name": "九州",
+            "type": 0,
+            "url": "https://fastgit.cc/https://raw.githubusercontent.com/73330/ch/main/tv.txt"
         },
         {
             "name": "mafly",
