@@ -711,10 +711,17 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260828.png;md5;37cd379fa9cd2d4d8d9cdc0fc8ae86a7"
         },
         {
-            "key": "csp_KeKe",
-            "name": "可可(SP)",
+            "key": "高清",
+            "name": "高清(SP)",
             "type": 3,
-            "api": "csp_KeKe",
+            "api": "csp_HqVod",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260828.png;md5;37cd379fa9cd2d4d8d9cdc0fc8ae86a7"
+        },
+        {
+            "key": "青麦",
+            "name": "青麦(SP)",
+            "type": 3,
+            "api": "csp_Qingmai",
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260828.png;md5;37cd379fa9cd2d4d8d9cdc0fc8ae86a7"
         },
         {
@@ -1917,6 +1924,18 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/星辰影院.py"
         },
         {
+            "key": "君念",
+            "name": "君念(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/君念影院.py"
+        },
+        {
+            "key": "毒舌短剧",
+            "name": "毒舌短剧(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/毒舌短剧.py"
+        },
+        {
             "key": "青牛",
             "name": "青牛(py)",
             "type": 3,
@@ -2145,8 +2164,8 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/青空次元.py"
         },
         {
-            "key": "高清",
-            "name": "高清(py)",
+            "key": "高清2",
+            "name": "高清2(py)",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/高清点播.py"
         },
@@ -3806,6 +3825,12 @@
             "name": "海豚(xml)",
             "type": 1,
             "api": "https://hhzyapi.com/api.php/provide/vod"
+        },
+        {
+            "key": "君亮",
+            "name": "君亮(xml)",
+            "type": 1,
+            "api": "https://cj.lziapi.com/api.php/provide/vod"
         },
         {
             "key": "飘零",
