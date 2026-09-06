@@ -1668,6 +1668,30 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/私房研究所.py"
         },
         {
+            "key": "欧美影",
+            "name": "欧美影(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/欧美影.py"
+        },
+        {
+            "key": "4K影视仓",
+            "name": "4K影视仓(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/4K影视仓.py"
+        },
+        {
+            "key": "黄果",
+            "name": "黄果(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/黄果优化.py"
+        },
+        {
+            "key": "电视直播",
+            "name": "电视直播(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/电视直播.py"
+        },
+        {
             "key": "Chaturbate",
             "name": "Chaturbate(py)",
             "type": 3,
