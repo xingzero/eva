@@ -1692,6 +1692,18 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/黄果优化.py"
         },
         {
+            "key": "xszav",
+            "name": "xszav(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/xszav.py"
+        },
+        {
+            "key": "xszav2",
+            "name": "xszav2(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/XSZAV2.py"
+        },
+        {
             "key": "电视直播",
             "name": "电视直播(py)",
             "type": 3,

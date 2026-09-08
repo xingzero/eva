@@ -895,7 +895,7 @@
             "name": "次元(SP)",
             "type": 3,
             "api": "csp_Ciyuancheng",
-            "ext": "{\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxNDU3ODYzLCJ1c2VybmFtZSI6Im5pbWFzaWxlIiwidG9rZW5faWQiOiIwMU0wOVlTOURRMlpGN1I5SERYRFg4RloySyIsInRva2VuX3ZlcnNpb24iOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA5MCIsImF1ZCI6WyIiXSwiZXhwIjoxNzg3NjQ1NDcxLCJuYmYiOjE3ODcwNDA2NzEsImlhdCI6MTc4NzA0MDY3MX0.OLhIujYjpo6H2RNhjCQ7jln9SxHzYshnDSA4HmwffDM\"}",
+            "ext": "{\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxNDU3ODYzLCJ1c2VybmFtZSI6Im5pbWFzaWxlIiwidG9rZW5faWQiOiIwMU0xWlZWMEpSMTRCV1A0VFlIVzJRVjE0MSIsInRva2VuX3ZlcnNpb24iOjEsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA5MCIsImF1ZCI6WyIiXSwiZXhwIjoxNzg5NDU0MzIxLCJuYmYiOjE3ODg4NDk1MjEsImlhdCI6MTc4ODg0OTUyMX0.hgI05-V7pfmzdAKLdm_IfqQV7eMRtFKl6P9hl3axAIM \"}",
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260902.png;md5;bd0990798869b7c5fb301fefc9f52330"
         },
         {
@@ -1905,7 +1905,7 @@
             "key": "红果",
             "name": "红果(py)",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/红果2.py"
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/红果3.py"
         },
         {
             "key": "云朵2",
@@ -2614,6 +2614,12 @@
             "name": "B站番剧(py)",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/哔哩视频.py"
+        },
+        {
+            "key": "哔哩影视",
+            "name": "哔哩影视(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/哔哩影视.py"
         },
         {
             "key": "河马",
