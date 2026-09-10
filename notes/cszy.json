@@ -1878,6 +1878,30 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/星辰影院.py"
         },
         {
+            "key": "开端2",
+            "name": "开端2(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/开端影视.py"
+        },
+        {
+            "key": "手机影院",
+            "name": "手机影院(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/手机影院.py"
+        },
+        {
+            "key": "第七影院",
+            "name": "第七影院(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/第七影院.py"
+        },
+        {
+            "key": "果果短剧",
+            "name": "果果短剧(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/果果短剧.py"
+        },
+        {
             "key": "芭蕉",
             "name": "芭蕉(py)",
             "type": 3,
@@ -3421,8 +3445,8 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c8"
         },
         {
-            "key": "果果短剧",
-            "name": "果果短剧(XBPQ)",
+            "key": "果果短剧2",
+            "name": "果果短剧2(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/果果短剧2.json",
