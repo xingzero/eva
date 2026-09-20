@@ -1,5 +1,5 @@
 {
-    "spider": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260910.jpg;md5;dab654f794a271c3d7a33d18acfbfa95",
+    "spider": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260918.jpg;md5;8e8a7c81f650553aa83ae2674c3f24b4",
     "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
     "sites": [
         {
@@ -1006,7 +1006,7 @@
             "key": "TVB云播2",
             "name": "TVB云播2(py)",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/TVB云播3.py"
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/TVB云播5.py"
         },
         {
             "key": "csp_xpath_gjyak",
@@ -1792,6 +1792,12 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/123TV.py"
         },
         {
+            "key": "123TV2",
+            "name": "123TV2(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/123TV2.py"
+        },
+        {
             "key": "actor",
             "name": "actor(py)",
             "type": 3,
@@ -1870,6 +1876,60 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/星辰影院.py"
         },
         {
+            "key": "55影院",
+            "name": "55影院(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/55影院.py"
+        },
+        {
+            "key": "FourKAV",
+            "name": "FourKAV(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/FourKAV.py"
+        },
+        {
+            "key": "ZIP0影视",
+            "name": "ZIP0影视(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/ZIP0影视.py"
+        },
+        {
+            "key": "冠建",
+            "name": "冠建(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/冠建影视.py"
+        },
+        {
+            "key": "黑猫",
+            "name": "黑猫(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/黑猫动漫.py"
+        },
+        {
+            "key": "开心2",
+            "name": "开心2(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/开心影院.py"
+        },
+        {
+            "key": "人人视频",
+            "name": "人人视频(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/人人视频.py"
+        },
+        {
+            "key": "乌云",
+            "name": "乌云(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/乌云.py"
+        },
+        {
+            "key": "无极",
+            "name": "无极(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/无极电影网.py"
+        },
+        {
             "key": "开端2",
             "name": "开端2(py)",
             "type": 3,
@@ -1909,7 +1969,7 @@
             "key": "橘汁视频",
             "name": "橘汁视频(py)",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/橘汁视频.py"
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/橘汁视频2.py"
         },
         {
             "key": "影子音乐",
@@ -2536,6 +2596,12 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/爱壹帆2.py"
         },
         {
+            "key": "爱壹帆2",
+            "name": "爱壹帆2(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/爱壹帆3.py"
+        },
+        {
             "key": "映像",
             "name": "映像(py)",
             "type": 3,
@@ -2554,6 +2620,12 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/网飞TV.py"
         },
         {
+            "key": "网飞猫",
+            "name": "网飞猫(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/网飞猫影视.py"
+        },
+        {
             "key": "追影",
             "name": "追影(py)",
             "type": 3,
@@ -2570,6 +2642,12 @@
             "name": "饭搭子(py)",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/饭搭子影视.py"
+        },
+        {
+            "key": "饭搭子2",
+            "name": "饭搭子2(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/饭搭子影视2.py"
         },
         {
             "key": "动漫巴士",
@@ -2936,8 +3014,8 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
-            "key": "爱壹帆2",
-            "name": "爱壹帆2(XBPQ)",
+            "key": "爱壹帆3",
+            "name": "爱壹帆3(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
@@ -3519,6 +3597,30 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/企鹅体育.py"
         },
         {
+            "key": "童趣",
+            "name": "童趣(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/童趣.py"
+        },
+        {
+            "key": "糖豆2",
+            "name": "糖豆2(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/糖豆.py"
+        },
+        {
+            "key": "养生",
+            "name": "养生(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/养生.py"
+        },
+        {
+            "key": "360影视",
+            "name": "360影视(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/360影视.py"
+        },
+        {
             "key": "腾讯py",
             "name": "腾(py)",
             "type": 3,
@@ -3557,8 +3659,8 @@
             "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/冠建影视.js"
         },
         {
-            "key": "网飞猫",
-            "name": "网飞猫(js)",
+            "key": "网飞猫2",
+            "name": "网飞猫2(js)",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/lib4/drpy2.min.js",
             "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/网飞猫影视.js"
