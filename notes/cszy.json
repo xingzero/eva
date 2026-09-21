@@ -348,14 +348,6 @@
             "name": "蓝鹰(SP)",
             "type": 3,
             "api": "csp_AppQi",
-            "ext": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt|ca94b06ca359d80e|120",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260911.png;md5;46da6b6a6a111d7924717db2ae790de3"
-        },
-        {
-            "key": "蓝鹰2",
-            "name": "蓝鹰2(SP)",
-            "type": 3,
-            "api": "csp_AppQi",
             "ext": "http://103.217.190.91:5566|hagYExMdMkeWfemK|122",
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260911.png;md5;46da6b6a6a111d7924717db2ae790de3"
         },
@@ -421,14 +413,6 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://app7.555618.xyz|#getapp@TMD@2025|120",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260911.png;md5;46da6b6a6a111d7924717db2ae790de3"
-        },
-        {
-            "key": "火狐",
-            "name": "火狐(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "http://huohu.yihn.cc|huohushipingetap",
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260911.png;md5;46da6b6a6a111d7924717db2ae790de3"
         },
         {
@@ -498,7 +482,7 @@
             "name": "韩圈(SP)",
             "type": 3,
             "api": "csp_Hxq",
-            "ext": "http://www.小不点.com/api/2026/fishhxq.php",
+            "ext": "http://www.y456y.com/api/2026/fishhxq.php",
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260911.png;md5;46da6b6a6a111d7924717db2ae790de3"
         },
         {

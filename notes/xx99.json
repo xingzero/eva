@@ -1764,6 +1764,18 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/神秘影院.py"
         },
         {
+            "key": "88影视",
+            "name": "88影视(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/88影视(秒播).py"
+        },
+        {
+            "key": "supjav",
+            "name": "supjav(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/supjav.py"
+        },
+        {
             "key": "s爽上天",
             "name": "s爽上天(py)",
             "type": 3,
