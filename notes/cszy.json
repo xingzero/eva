@@ -1,5 +1,5 @@
 {
-    "spider": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260918.jpg;md5;8e8a7c81f650553aa83ae2674c3f24b4",
+    "spider": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260921.jpg;md5;e959d9455533a04af01a15c4eb1b78ea",
     "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
     "sites": [
         {
@@ -182,17 +182,6 @@
             "ext": "rfOX1voDIQhH8epBwtCFsuby/mmdmIu8kGlnJc+7VkMRLQ1K+jMy+KN1MKQe0MZ6tmGSO5oFzD8/vWwiSqEpFczDqLrdGT3iH6fZmryrFzKijwYkJUMctdztE0O4CsgYZdBu8XhZSwuhSqqllQz4AZMa1l0sT+1NrbhNIxHkrY0upiYSTLNqEaledgZikMCviOXWr3cPBP4COOeoGUyJSJrrybmUppnWGeDAOHhHOVUSXjwSb+QQvcJIT2lmrf1Bk68myGs7qOqc19tD/rnzf2WOb2MzJZqtURBmUFgaW6ea2dL8OPSpSeVAvaGCAnqwuUNGE9hHpK8jfOs0bLJRdkFLnijAn5Q+ofVM5hgGb8c="
         },
         {
-            "key": "播客",
-            "name": "播客(SP)",
-            "type": 3,
-            "api": "csp_AppSxGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprG9un3+SPC3Nbv1SI/b5LtAUhbYkFU/DFvsLBvd/oV3cA4uGiCZNFRz3ln6nh5Q+AgDZiM5KrCAiO7S7SVzv31EG78jVB4JEMNrMPzTgWqRZdMTdR1smBWWwru"
-        },
-        {
             "key": "剧圈",
             "name": "剧圈(SP)",
             "type": 3,
@@ -289,8 +278,8 @@
             "ext": "rfOX1voDIQhH8epBwpmIsuStuSyZxtH332ksdImjS1xHcE9fpWVy8fNjc+8DhNI67j3SJZRGjnM="
         },
         {
-            "key": "播客2",
-            "name": "播客2(SP)",
+            "key": "播客",
+            "name": "播客(SP)",
             "type": 3,
             "api": "csp_AppSxGuard",
             "timeout": 15,
@@ -298,17 +287,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOX1voDIQhH8epBwpmIsuS1pGyZxdH63T1kep6jS1xHcE9fpWUnrqJhf/sMidJ9qDXccstMjiJz925iVqZ9QpyF"
-        },
-        {
-            "key": "光影2",
-            "name": "光影2(SP)",
-            "type": 3,
-            "api": "csp_AppSxGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg=="
         },
         {
             "key": "爱影",
@@ -320,28 +298,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOb1uAWbkRHp7hdxprGv+T3+22cnI+1lW1gL8i1UUQeJQBMqCc2+bF/Yq4Ul9lvoCLVO51Skm9i8zNvRa47T5uA+erCUw=="
-        },
-        {
-            "key": "爱影2",
-            "name": "爱影2(SP)",
-            "type": 3,
-            "api": "csp_AppSxGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TbK3c790iI/b5LtEhxNfAQK7DRvrLcqbf1Q0MQntXLZfMhK0Xsn6nwmF+shR8eZ76qXW3y9XKbblunmCSPux0YtJlscp9zpDmW7Ju4ufOtv+BcyBX7VWrSzyUWoVcxGhUtv"
-        },
-        {
-            "key": "猫猫",
-            "name": "猫猫(SP)",
-            "type": 3,
-            "api": "csp_AppSxGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg=="
         },
         {
             "key": "蓝鹰",
@@ -1858,6 +1814,24 @@
             "name": "星辰2(py)",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/星辰影院.py"
+        },
+        {
+            "key": "懂片帝",
+            "name": "懂片帝(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/懂片帝.py"
+        },
+        {
+            "key": "看片狂人",
+            "name": "看片狂人(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/看片狂人.py"
+        },
+        {
+            "key": "韩剧大大",
+            "name": "韩剧大大(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/韩剧大大.py"
         },
         {
             "key": "55影院",
@@ -5222,6 +5196,11 @@
             "url": "https://18916.kstore.space/huanyushhijie.txt"
         },
         {
+            "name": "蝴蝶",
+            "type": 0,
+            "url": "https://lytvs.top/py/custom_lives.m3u"
+        },
+        {
             "name": "hkiptv",
             "type": 0,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/sammy0101/hk-iptv-auto/main/hk_live.m3u"
@@ -5616,6 +5595,11 @@
             "name": "王子",
             "type": 0,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/wujiangliu/live-sources/main/wangzizb.txt"
+        },
+        {
+            "name": "小新",
+            "type": 0,
+            "url": "https://d.kstore.dev/download/9565/小新TV.txt"
         },
         {
             "name": "vinkerq",
