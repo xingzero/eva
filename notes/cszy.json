@@ -1,6 +1,6 @@
 {
-    "spider": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260921.jpg;md5;e959d9455533a04af01a15c4eb1b78ea",
-    "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
+    "spider": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f261004.jpg;md5;f782cdee81118405176fd260be9ca5cd",
+    "wallpaper": "https://动态壁纸.饭.eu.org/",
     "sites": [
         {
             "key": "csp_DouDou",
@@ -223,6 +223,21 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "https://www.xb6v.com/"
+        },
+        {
+            "key": "AiDj",
+            "name": "AI短漫剧",
+            "type": 3,
+            "api": "csp_AiDjGuard",
+            "ext": {
+                "type": "video",
+                "name": "短剧",
+                "DanMu": false
+            },
+            "indexs": 0,
+            "quickSearch": 1,
+            "searchable": 1,
+            "changeable": 0
         },
         {
             "key": "咕咕",
@@ -947,6 +962,12 @@
             "name": "TVB云播2(py)",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/TVB云播5.py"
+        },
+        {
+            "key": "iptv234",
+            "name": "iptv234(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/iptv234.py"
         },
         {
             "key": "csp_xpath_gjyak",
