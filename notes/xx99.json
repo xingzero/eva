@@ -61,6 +61,12 @@
             "api": "https://hsckzy.vip/api.php/provide/vod/"
         },
         {
+            "key": "黄仓3",
+            "name": "黄仓3",
+            "type": 1,
+            "api": "https://hsckzy888.com/api.php/provide/vod/"
+        },
+        {
             "key": "AIvin",
             "name": "AIvin",
             "type": 1,
@@ -77,6 +83,12 @@
             "name": "美少女",
             "type": 0,
             "api": "https://www.msnii.com/api/xml.php"
+        },
+        {
+            "key": "美少女2",
+            "name": "美少女2",
+            "type": 1,
+            "api": "https://www.msnii.com/api/json.php"
         },
         {
             "key": "黄AV",
@@ -97,10 +109,22 @@
             "api": "https://www.kxgav.com/api/xml.php"
         },
         {
+            "key": "白嫖2",
+            "name": "白嫖2",
+            "type": 1,
+            "api": "https://www.kxgav.com/api/json.php"
+        },
+        {
             "key": "淫水机",
             "name": "淫水机",
             "type": 0,
             "api": "https://www.xrbsp.com/api/xml.php"
+        },
+        {
+            "key": "淫水机2",
+            "name": "淫水机2",
+            "type": 1,
+            "api": "https://www.xrbsp.com/api/json.php"
         },
         {
             "key": "乐播",
@@ -115,6 +139,12 @@
             "api": "https://www.gdlsp.com/api/xml.php"
         },
         {
+            "key": "香奶儿2",
+            "name": "香奶儿2",
+            "type": 1,
+            "api": "https://www.gdlsp.com/api/json.php"
+        },
+        {
             "key": "155api",
             "name": "155资源",
             "type": 1,
@@ -125,6 +155,18 @@
             "name": "奥斯卡",
             "type": 1,
             "api": "https://aosikazy1.com/api.php/provide/vod/"
+        },
+        {
+            "key": "奥斯卡2",
+            "name": "奥斯卡2",
+            "type": 1,
+            "api": "https://aosikazy8.com/api.php/provide/vod"
+        },
+        {
+            "key": "javbus",
+            "name": "javbus",
+            "type": 1,
+            "api": "https://javbus.sbs/api.php/provide/vod/"
         },
         {
             "key": "JKUN",
@@ -162,6 +204,12 @@
             "name": "桃花",
             "type": 1,
             "api": "https://thzy1.me/api.php/provide/vod/?ac=list"
+        },
+        {
+            "key": "百花",
+            "name": "百花",
+            "type": 1,
+            "api": "https://bhziyuan.com/api.php/provide/vod/"
         },
         {
             "key": "优异",
@@ -292,6 +340,24 @@
             "api": "https://api.huosuapi.cc/api.php/provide/vod/"
         },
         {
+            "key": "聚合",
+            "name": "聚合",
+            "type": 1,
+            "api": "http://150.109.94.44:1112/api.php/provide/vod/"
+        },
+        {
+            "key": "CK百货",
+            "name": "CK百货",
+            "type": 1,
+            "api": "http://150.109.94.44:1112/api.php/provide/vod/"
+        },
+        {
+            "key": "免费",
+            "name": "免费",
+            "type": 1,
+            "api": "https://yuanlib.com/api.php/provide/vod/"
+        },
+        {
             "key": "嘿嘿",
             "name": "嘿嘿",
             "type": 1,
@@ -308,6 +374,12 @@
             "name": "番茄",
             "type": 1,
             "api": "https://fqzy.me//api.php/provide/vod/?ac=list"
+        },
+        {
+            "key": "jp98",
+            "name": "jp98",
+            "type": 1,
+            "api": "https://jp98.vip/api.php/provide/vod/"
         },
         {
             "key": "精东",
@@ -356,12 +428,6 @@
             "name": "金坤",
             "type": 0,
             "api": "https://www.jkunzyapi.com/api.php/provide/vod/at/xml"
-        },
-        {
-            "key": "开心果",
-            "name": "开心果",
-            "type": 0,
-            "api": "https://www.kxgav.com/api/xml.php"
         },
         {
             "key": "老色逼",
@@ -2367,7 +2433,7 @@
             "key": "红楼",
             "name": "红楼(飞)",
             "type": 1,
-            "api": "https://www.hlzy.store/api.php/provide/vod/"
+            "api": "https://www.hlzyapi.vip/api.php/provide/vod/"
         },
         {
             "key": "辣椒1",
