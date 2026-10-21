@@ -7,6 +7,7 @@ title: '星辰影院', author: '小可乐/v6.1.1'
     "catesSet": "电视剧&电影&综艺",  //指定分类和顺序
     "tabsSet": "土星&下载线1"  //指定线路和顺序
 }
+网址'https://www.xcyycn.com'更新为'https://www.xcyycn.cc'
 */
 
 const MOBILE_UA = 'Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36';
@@ -19,7 +20,7 @@ var KParams = {
 
 async function init(cfg) {
     try {
-        HOST = (cfg.ext?.host?.trim() || 'https://www.xcyycn.com').replace(/\/$/, '');
+        HOST = (cfg.ext?.host?.trim() || 'https://www.xcyycn.cc').replace(/\/$/, '');
         KParams.headers['Referer'] = HOST;
         let parseTimeout = parseInt(cfg.ext?.timeout?.trim(), 10);
         if (parseTimeout > 0) {KParams.timeout = parseTimeout;}
