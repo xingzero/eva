@@ -1806,6 +1806,30 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/Javday.py"
         },
         {
+            "key": "Javday2",
+            "name": "Javday2(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/JavDay2.py"
+        },
+        {
+            "key": "javheo",
+            "name": "javheo(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/javheo.py"
+        },
+        {
+            "key": "ow63",
+            "name": "ow63(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/ow63兼容.py"
+        },
+        {
+            "key": "少女印象",
+            "name": "少女印象(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/少女印象.py"
+        },
+        {
             "key": "ko4",
             "name": "ko4(py)",
             "type": 3,
@@ -2274,6 +2298,18 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/javmenu.py"
         },
         {
+            "key": "91porn",
+            "name": "91porn(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/91porn兼容.py"
+        },
+        {
+            "key": "Hochu直播",
+            "name": "Hochu直播(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/HochuTVxxx直播.py"
+        },
+        {
             "key": "电视直播",
             "name": "电视直播(py)",
             "type": 3,
@@ -2418,6 +2454,12 @@
             "name": "肉视频",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/肉视频3.py"
+        },
+        {
+            "key": "肉视频2",
+            "name": "肉视频2",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/肉视频4.py"
         },
         {
             "key": "熊猫(py)",
@@ -3167,6 +3209,11 @@
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/wliqi495-create/jaychou123/main/成人直播.txt"
         },
         {
+            "name": "2万部",
+            "type": 0,
+            "url": "https://fastgit.cc/https://raw.githubusercontent.com/wliqi495-create/jaychou123/main/全部合并2万部.m3u"
+        },
+        {
             "name": "黄蚂蚁",
             "type": 0,
             "url": "http://ge.html-5.me//ii/黄蚂蚁先锋推流源.txt"
@@ -3204,10 +3251,25 @@
         {
             "name": "HKTV",
             "type": 0,
-            "url": "http://12306.ct.ws/users/HKTV2.txt"
+            "url": "http://12306.ct.ws/users/HKTV.txt"
+        },
+        {
+            "name": "HKTV1",
+            "type": 0,
+            "url": "http://12306.ct.ws/users/HKTV1.txt"
         },
         {
             "name": "HKTV2",
+            "type": 0,
+            "url": "http://12306.ct.ws/users/HKTV2.txt"
+        },
+        {
+            "name": "HKTV3",
+            "type": 0,
+            "url": "http://12306.ct.ws/users/HKTV3.txt"
+        },
+        {
+            "name": "HKTV4",
             "type": 0,
             "url": "http://gc.gt.tc/c/HKTV2.txt"
         },
