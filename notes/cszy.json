@@ -1,5 +1,5 @@
 {
-    "spider": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f261114.jpg;md5;76e9565340e6d28c363b914ca2d506ed",
+    "spider": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f261115.jpg;md5;fa1bcd5643872834ee03be5ba2f23ac7",
     "wallpaper": "https://动态壁纸.饭.eu.org/",
     "sites": [
         {
@@ -81,17 +81,6 @@
             "changeable": 1
         },
         {
-            "key": "海绵",
-            "name": "海绵(SP)",
-            "type": 3,
-            "api": "csp_HmysGuard",
-            "timeout": 10,
-            "playerType": "2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "立播",
             "name": "立播(SP)",
             "type": 3,
@@ -121,6 +110,17 @@
             "type": 3,
             "api": "csp_BttwooGuard",
             "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "海绵",
+            "name": "海绵(SP)",
+            "type": 3,
+            "api": "csp_HmysGuard",
+            "timeout": 10,
+            "playerType": "2",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -754,7 +754,7 @@
             "key": "橘汁",
             "name": "橘汁(SP)",
             "type": 3,
-            "api": "csp_AppDrama",
+            "api": "csp_AppDramaV5",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -798,7 +798,7 @@
             "key": "苹果",
             "name": "苹果(SP)",
             "type": 3,
-            "api": "csp_AppDrama",
+            "api": "csp_AppDramaV5",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -905,8 +905,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "username": "",
-                "password": "",
+                "username": "nimasile",
+                "password": "xiaomi888",
                 "danmu": true,
                 "danmu_api": "https://dm.211.li/nonay"
             },
