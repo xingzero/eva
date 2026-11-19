@@ -55,6 +55,12 @@
             "api": "http://huangsecangku.net/api.php/provide/vod/"
         },
         {
+            "key": "黄仓1",
+            "name": "黄仓1",
+            "type": 1,
+            "api": "https://hsckzy001.com/api.php/provide/vod/"
+        },
+        {
             "key": "黄仓2",
             "name": "黄仓2",
             "type": 1,
@@ -326,6 +332,12 @@
             "name": "杏吧",
             "type": 1,
             "api": "https://xingba222.com/api.php/provide/vod/?ac=list"
+        },
+        {
+            "key": "杏吧1",
+            "name": "杏吧1",
+            "type": 1,
+            "api": "https://xingba111.com/api.php/provide/vod/"
         },
         {
             "key": "杏吧2",
@@ -2971,6 +2983,12 @@
             "api": "http://ddkbo.com/api.php"
         },
         {
+            "key": "大地4",
+            "name": "大地4(飞)",
+            "type": 1,
+            "api": "https://dadiapi.com/api.php/provide/vod/"
+        },
+        {
             "key": "鲨鱼",
             "name": "鲨鱼(飞)",
             "type": 1,
@@ -3212,6 +3230,11 @@
             "name": "2万部",
             "type": 0,
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/wliqi495-create/jaychou123/main/全部合并2万部.m3u"
+        },
+        {
+            "name": "色途",
+            "type": 0,
+            "url": "https://fastgit.cc/https://raw.githubusercontent.com/wliqi495-create/jaychou123/main/色途日本無码.m3u"
         },
         {
             "name": "黄蚂蚁",
